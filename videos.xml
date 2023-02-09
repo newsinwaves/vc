@@ -1,52 +1,29 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:georss="http://www.georss.org/georss" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
-<title>DW PREMIUM Editors Choice</title>
-<link>https://b2b.dw.com/magazines/</link>
-<description>New episodes from Editors Choice</description>
-<copyright>Copyright by Deutsche Welle</copyright>
+<title>DW VERTICAL CONTENT</title>
+<description>Vertical videos from DW</description>
+<copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+<pubDate>2/9/2023 2:09:02 PM</pubDate>
 <image>
-<title>DW PREMIUM Editors Choice</title>
-<link>https://b2b.dw.com/magazines/</link>
-<description>New episodes from Editors Choice</description>
+<title>DW</title>
+<link>https://www.dw.com</link>
+<description>Copyright by Deutsche Welle</description>
 <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
 <width>98</width>
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
 <item>
-<guid isPermaLink="false">6fa52de5-a3b3-11ed-8882-005056b2c57e</guid>
-<pubDate>Fri, 03 Feb 2023 11:10:58 GMT</pubDate>
-<title>Climate crisis claims thousands of Kenya’s animals</title>
-<link>//b2b.dw.com/magazines/public/serie/6fa52de5-a3b3-11ed-8882-005056b2c57e</link>
-<description>Kenya’s worst drought in 40 years has caused thousands of giraffes, elephants, wildebeest and zebras to die. But it’s not just wildlife at risk — and it’s not temporary. @DW </description>
-<category>Magazines Categories / Catastrophe, Magazines Categories / Nature and Environment, Magazines Categories / Climate</category>
-<keywords>Kenya, Amboseli National Park, climate crisis, climate catastrophe, drought, Horn of Africa </keywords>
-<enclosure url="https://b2brssftp.dw.com:443/English/EditorsChoiceWeb/TOE009_230203_Climate_crisis_claims_thousands__MMS062.mp4" length="134" type="video/mp4"/>
-<enclosure url="https://b2b.dw.com/assets/product_detail_image/6fa52de5-a3b3-11ed-8882-005056b2c57e-4bcd3e508149fd60f27f7d444d0c1dc1.jpeg?cb=20230203111059" length="33846" type="image/jpeg"/>
+<guid isPermaLink="false">VC-15646551</guid>
+<pubDate>2/9/2023 2:09:02 PM</pubDate>
+<title>Helping Turkey's earthquake victims</title>
+<description>Trained volunteers from Istanbul are travelling to southeeastern Turkey to join rescue efforts. </description>
+<category>Vertical</category>
+<keywords>DWVC, Turkey, Syria, earthquake, rescue</keywords>
+<enclosure url="https://newsinwaves.b-cdn.net/90_Reel_Volunteers_Dirty_Music.mp4" type="video/mp4"/>
 </item>
-<item>
-<guid isPermaLink="false">9f11479b-a3ae-11ed-8882-005056b2c57e</guid>
-<pubDate>Fri, 03 Feb 2023 10:36:30 GMT</pubDate>
-<title>South Africa's electricity crisis deepens  </title>
-<link>//b2b.dw.com/magazines/public/serie/9f11479b-a3ae-11ed-8882-005056b2c57e</link>
-<description>South Africa is in the midst of an energy crisis that's leaving households and businesses without power for up to 10 hours a day. The rolling blackouts are being imposed by the authorities as the country's embattled power utility struggles to meet demand.  @DW</description>
-<category>Magazines Categories / Society</category>
-<keywords>South Africa, energy crisis</keywords>
-<enclosure url="https://b2brssftp.dw.com:443/English/EditorsChoiceWeb/TOE009_230203_South_Africas_electricity_crisis_MMS062.mp4" length="110" type="video/mp4"/>
-<enclosure url="https://b2b.dw.com/assets/product_detail_image/9f11479b-a3ae-11ed-8882-005056b2c57e-0c8a62e58fd51f8bc548d960befdac68.jpeg?cb=20230203103631" length="26502" type="image/jpeg"/>
-</item>
-<item>
-<guid isPermaLink="false">345b5610-a229-11ed-8882-005056b2c57e</guid>
-<pubDate>Wed, 01 Feb 2023 12:08:57 GMT</pubDate>
-<title>Nigerian leaders press for unity as election approaches</title>
-<link>//b2b.dw.com/magazines/public/serie/345b5610-a229-11ed-8882-005056b2c57e</link>
-<description>Elections are only a few weeks away in Africa’s most populous country. Religion and ethnicity have been key factors in past campaigns — but many voters want a candidate who can unite the country. @DW</description>
-<category>Magazines Categories / Politics, Magazines Categories / Religion, Magazines Categories / Society</category>
-<keywords>Nigeria, religion, unity, elections, Africa</keywords>
-<enclosure url="https://b2brssftp.dw.com:443/English/EditorsChoiceWeb/TOE009_230201_Nigerian_leaders_press_for_unity_MMS062.mp4" length="156" type="video/mp4"/>
-<enclosure url="https://b2b.dw.com/assets/product_detail_image/345b5610-a229-11ed-8882-005056b2c57e-a6f2d655899daa3153d8847a8687afb7.jpeg?cb=20230201150657" length="49846" type="image/jpeg"/>
-</item>
+
 </channel>
 </rss>
