@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/17/2023 9:41:34 AM</pubDate>
+<pubDate>2/17/2023 9:53:56 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -23,11 +23,11 @@
 <title>Turkey's Antakya quake survivors shocked at devastation</title>
 <description>Turkey's Antakya earthquake survivors are still trying to grasp the scale of the devastation â€” some say if heavy machinery had arrived earlier, more people could have been saved.</description>
 <category>Vertical</category>
-<keywords>DWVC,Turkey, earthquake, disaster, catastrophe, aftermath, destruction, devistation</keywords>
+<keywords>DWVC,Turkey, earthquake, disaster, catastrophe, aftermath, destruction, devastation</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/DWPE_QAntakya.mp4" type="video/mp4" lang="en" medium="video">
   <media:title type="plain">Turkey's Antakya quake survivors shocked at devastation</media:title>
-  <media:keywords type="plain">DWVC,Turkey, earthquake, disaster, catastrophe, aftermath, destruction, devistation</media:keywords>
+  <media:keywords type="plain">DWVC,Turkey, earthquake, disaster, catastrophe, aftermath, destruction, devastation</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_QAntakya.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
