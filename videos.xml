@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/17/2023 3:25:38 PM</pubDate>
+<pubDate>2/20/2023 3:26:04 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,74 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310016</guid>
+<pubDate>2023-02-20T15:25:54Z</pubDate>
+<title>Transparent solar cells turn light into electricity</title>
+<description>Dye-sensitised solar cells can now absorb light across the entire spectrum of visible light.</description>
+<category>Vertical</category>
+<keywords>DWVC,solar cell, GrÃ¤tzel cell, electricity, dye-sensitised solar cell, electricity</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WSME_Transparentesolarzelle.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Transparent solar cells turn light into electricity</media:title>
+  <media:keywords type="plain">DWVC,solar cell, GrÃ¤tzel cell, electricity, dye-sensitised solar cell, electricity</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/WSME_Transparentesolarzelle.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310015</guid>
+<pubDate>2023-02-20T15:25:55Z</pubDate>
+<title>Meta announces paid verification</title>
+<description>Meta has announced you will soon be able to buy verification for both Facebook and Instagram. Unlike Twitter, they will require government ID to improve their security and authenticity though it will also be more expensive. </description>
+<category>Vertical</category>
+<keywords>DWVC,Meta, Facebook, Instagram, technology, Social Media, Verification</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/SHIFENG230220_SHIFT_META_Verified_Reel_LTR_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Meta announces paid verification</media:title>
+  <media:keywords type="plain">DWVC,Meta, Facebook, Instagram, technology, Social Media, Verification</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIFENG230220_SHIFT_META_Verified_Reel_LTR_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310014</guid>
+<pubDate>2023-02-20T15:25:56Z</pubDate>
+<title>How NATO polices the skies on Russia's border</title>
+<description>NATO polices the skies on Russia's border from the Amari airbase in Estonia. The mission is to protect the air space and identify unknown and potentially hostile aircraft.</description>
+<category>Vertical</category>
+<keywords>DWVC,NATO, Russia, war, Urkaine, jets, pilots, air policing</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_AirPolicing_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">How NATO polices the skies on Russia's border</media:title>
+  <media:keywords type="plain">DWVC,NATO, Russia, war, Urkaine, jets, pilots, air policing</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_AirPolicing_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310013</guid>
+<pubDate>2023-02-20T15:25:57Z</pubDate>
+<title>Earthquake survivors search mass graves for loved ones</title>
+<description>Earthquake survivors are coming to these mass graves in Turkey in search of their loved ones.  Workers and volunteers carry out a burial ritual on site when relatives are not present to do it themselves.</description>
+<category>Vertical</category>
+<keywords>DWVC,Earthquake, Turkey, mass graves, burial, survivors</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_MassGrave.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Earthquake survivors search mass graves for loved ones</media:title>
+  <media:keywords type="plain">DWVC,Earthquake, Turkey, mass graves, burial, survivors</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_MassGrave.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310012</guid>
@@ -72,7 +140,7 @@
 <guid isPermaLink="false">DWV231009</guid>
 <pubDate>2023-02-17T09:41:19Z</pubDate>
 <title>Turkey's Antakya quake survivors shocked at devastation</title>
-<description>Turkey's Antakya earthquake survivors are still trying to grasp the scale of the devastation and some say if heavy machinery had arrived earlier, more people could have been saved.</description>
+<description>Turkey's Antakya earthquake survivors are still trying to grasp the scale of the devastation â€” some say if heavy machinery had arrived earlier, more people could have been saved.</description>
 <category>Vertical</category>
 <keywords>DWVC,Turkey, earthquake, disaster, catastrophe, aftermath, destruction, devastation</keywords>
 
@@ -89,7 +157,7 @@
 <guid isPermaLink="false">DWV231008</guid>
 <pubDate>2023-02-16T17:23:36Z</pubDate>
 <title>Turkey earthquake: A love story amid the heartbreak</title>
-<description>Both Mexico and Turkey are earthquake-prone countries. Like many of his colleagues "Temok" also went to Hatay to help. He has a personal connection to Turkey. @DW</description>
+<description>Both Mexico and Turkey are earthquake-prone countries. Like many of his colleagues â€œTemokâ€ also went to Hatay to help. He has a personal connection to Turkey. @DW</description>
 <category>Vertical</category>
 <keywords>DWVC,Turkey, earthquake, Mexico, aid, rescue, disaster, catastrophe</keywords>
 
@@ -115,23 +183,6 @@
   <media:keywords type="plain">DWVC,DWDigital, Robot, Sniffer, Dogs, Airport, Travel, Flight</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Sniffer_robot_REEL_THumbnail.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV231006</guid>
-<pubDate>2023-02-16T12:16:41Z</pubDate>
-<title>When hope dies: After the earthquake</title>
-<description>The earthquake in southeastern Turkey affected hundreds of thousands of Syrian refugees. Many are still waiting for a sign of life from their relatives but time is running out  and there is not much help from the authorities.</description>
-<category>Vertical</category>
-<keywords>DWVC,Turkey, Syria, earthquake, catastrophe, death</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/Turkey_Syria_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">When hope dies: After the earthquake</media:title>
-  <media:keywords type="plain">DWVC,Turkey, Syria, earthquake, catastrophe, death</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Turkey_Syria_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
