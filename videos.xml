@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/20/2023 3:26:04 PM</pubDate>
+<pubDate>2/21/2023 12:26:45 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -18,16 +18,33 @@
 <ttl>30</ttl>
 
 <item>
+<guid isPermaLink="false">DWV2310017</guid>
+<pubDate>2023-02-21T12:25:59Z</pubDate>
+<title>Ukraine calls for Olympics ban on Russia and Belarus</title>
+<description>"How can we stand next to our murderers on a podium?" Ukraine is on a mission to get Russian and Belarusian athletes banned from the 2024 Paris Olympics.</description>
+<category>Vertical</category>
+<keywords>DWVC,IOC, Olympics, Russia, Ukraine, sports, athletes, Olympic Games</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_UkraineAthletes_REEL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Ukraine calls for Olympics ban on Russia and Belarus</media:title>
+  <media:keywords type="plain">DWVC,IOC, Olympics, Russia, Ukraine, sports, athletes, Olympic Games</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_UkraineAthletes_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
 <guid isPermaLink="false">DWV2310016</guid>
-<pubDate>2023-02-20T15:25:54Z</pubDate>
+<pubDate>2023-02-20T15:25:00Z</pubDate>
 <title>Transparent solar cells turn light into electricity</title>
 <description>Dye-sensitised solar cells can now absorb light across the entire spectrum of visible light.</description>
 <category>Vertical</category>
-<keywords>DWVC,solar cell, GrÃ¤tzel cell, electricity, dye-sensitised solar cell, electricity</keywords>
+<keywords>DWVC,dwbusiness, solar cell, Graetzel cell, electricity, dye-sensitised solar cell, electricity</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/WSME_Transparentesolarzelle.mp4" type="video/mp4" lang="en" medium="video">
   <media:title type="plain">Transparent solar cells turn light into electricity</media:title>
-  <media:keywords type="plain">DWVC,solar cell, GrÃ¤tzel cell, electricity, dye-sensitised solar cell, electricity</media:keywords>
+  <media:keywords type="plain">DWVC,dwbusiness, solar cell, Graetzel cell, electricity, dye-sensitised solar cell, electricity</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/WSME_Transparentesolarzelle.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
@@ -36,15 +53,15 @@
 
 <item>
 <guid isPermaLink="false">DWV2310015</guid>
-<pubDate>2023-02-20T15:25:55Z</pubDate>
+<pubDate>2023-02-20T15:25:00Z</pubDate>
 <title>Meta announces paid verification</title>
 <description>Meta has announced you will soon be able to buy verification for both Facebook and Instagram. Unlike Twitter, they will require government ID to improve their security and authenticity though it will also be more expensive. </description>
 <category>Vertical</category>
-<keywords>DWVC,Meta, Facebook, Instagram, technology, Social Media, Verification</keywords>
+<keywords>DWVC,DWdigital, Meta, Facebook, Instagram, technology, Social Media, Verification</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/SHIFENG230220_SHIFT_META_Verified_Reel_LTR_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
   <media:title type="plain">Meta announces paid verification</media:title>
-  <media:keywords type="plain">DWVC,Meta, Facebook, Instagram, technology, Social Media, Verification</media:keywords>
+  <media:keywords type="plain">DWVC,DWdigital, Meta, Facebook, Instagram, technology, Social Media, Verification</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIFENG230220_SHIFT_META_Verified_Reel_LTR_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
@@ -166,23 +183,6 @@
   <media:keywords type="plain">DWVC,Turkey, earthquake, Mexico, aid, rescue, disaster, catastrophe</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumbnail_RescueMexico.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV231007</guid>
-<pubDate>2023-02-16T13:49:28Z</pubDate>
-<title>Robots could replace sniffer dogs at airports!</title>
-<description>Tel Aviv University researchers are working on robots with the sense of smell. They could detect drugs, explosives and even food safety. What other uses can you imagine for a smelling robot?</description>
-<category>Vertical</category>
-<keywords>DWVC,DWDigital, Robot, Sniffer, Dogs, Airport, Travel, Flight</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIE_SnifferRobot_REEL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Robots could replace sniffer dogs at airports!</media:title>
-  <media:keywords type="plain">DWVC,DWDigital, Robot, Sniffer, Dogs, Airport, Travel, Flight</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Sniffer_robot_REEL_THumbnail.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
