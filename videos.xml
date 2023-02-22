@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/22/2023 9:25:58 AM</pubDate>
+<pubDate>2/22/2023 12:25:59 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -18,7 +18,41 @@
 <ttl>30</ttl>
 
 <item>
-<guid isPermaLink="false"></guid>
+<guid isPermaLink="false">DWV2310023</guid>
+<pubDate>2023-02-22T12:25:54Z</pubDate>
+<title>Putin's war in Ukraine hits African nations</title>
+<description>Russia's invasion of Ukraine has fueled a food crisis in many African nations. Experts say the African continent must supply its own sustenance. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Russia, Ukraine, war, Kenya, Africa, food, wheat, grain, crisis </keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_UKRAFReffects_REEL_ENG_3.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Putin's war in Ukraine hits African nations</media:title>
+  <media:keywords type="plain">DWVC,Russia, Ukraine, war, Kenya, Africa, food, wheat, grain, crisis </media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_UKRAFReffects_REEL_ENG_3.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310022</guid>
+<pubDate>2023-02-22T12:25:55Z</pubDate>
+<title>Could your favorite cook be replaced by a robot?</title>
+<description>This restaurant in Croacia has a robot that can prepare dishes from scratch and in a single pot. Will real cooks soon not be needed at all?</description>
+<category>Vertical</category>
+<keywords>DWVC,cooking, cook, food, robot, AI, restaurant, Croatia, chef, automatisation, DWDigital</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/SHIE_RobotChef_REEL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Could your favorite cook be replaced by a robot?</media:title>
+  <media:keywords type="plain">DWVC,cooking, cook, food, robot, AI, restaurant, Croatia, chef, automatisation, DWDigital</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Robot_chef_ENG_Thumbnail.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310021</guid>
 <pubDate>2023-02-22T09:25:54Z</pubDate>
 <title>Quakes leave children traumatized and at risk</title>
 <description>In the aftermath of the earthquakes in Turkey and Syria, the level of trauma suffered by survivors is enormous. Among the homeless are thousands of children. They are particularly vulnerable and urgently need help. Julia Hahn reports from Kahramanmaras. </description>
@@ -149,40 +183,6 @@
   <media:keywords type="plain">DWVC,Earthquake, Turkey, mass graves, burial, survivors</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_MassGrave.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310012</guid>
-<pubDate>2023-02-17T15:25:32Z</pubDate>
-<title>Susan Wojcicki is leaving YouTube: Big Tech's Diversity Exodus</title>
-<description>YouTube CEO Susan Wojcicki is stepping down from her role after nine years leading the Google-owned company.</description>
-<category>Vertical</category>
-<keywords>DWVC,YouTube, Susan Wojcicki, technology, CEO, diversity</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIE_Susan_W_Diversity_Exodus_ENG.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Susan Wojcicki is leaving YouTube: Big Tech's Diversity Exodus</media:title>
-  <media:keywords type="plain">DWVC,YouTube, Susan Wojcicki, technology, CEO, diversity</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/THUMB_Susan_W.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310011</guid>
-<pubDate>2023-02-17T15:18:51Z</pubDate>
-<title>Who is to blame for the destruction?</title>
-<description>A week after a devastating earthquake ravaged Turkey and Syria, the survivors are still reeling from the loss of life. The rubble of their homes offers clues about who shares the blame for the quakeâ€™s colossal death toll.</description>
-<category>Vertical</category>
-<keywords>DWVC,Turkey, Syria, quake, earthquake, disaster, devastation</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/WV_TURKEY_BAU_VERT_DRT.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Who is to blame for the destruction?</media:title>
-  <media:keywords type="plain">DWVC,Turkey, Syria, quake, earthquake, disaster, devastation</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_TurkeyBau_vertical_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
