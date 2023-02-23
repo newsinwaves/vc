@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/22/2023 3:25:57 PM</pubDate>
+<pubDate>2/23/2023 9:29:41 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,23 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310024</guid>
+<pubDate>2023-02-23T09:25:54Z</pubDate>
+<title>The world's first Black female hot air balloon pilot</title>
+<description>She is known for her infectious smile and has the coolest job - meet the world's first Black female hot balloon pilot, aka Captain Smile!</description>
+<category>Vertical</category>
+<keywords>DWVC,Kenya, pilot, balloon, achievement, empowerment, gender equality</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WV_BALLOON_VERT_DRT.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">The world's first Black female hot air balloon pilot</media:title>
+  <media:keywords type="plain">DWVC,Kenya, pilot, balloon, achievement, empowerment, gender equality</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/WV_BALLOON_VERT_DRT.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310023</guid>
@@ -166,23 +183,6 @@
   <media:keywords type="plain">DWVC,NATO, Russia, war, Urkaine, jets, pilots, air policing</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_AirPolicing_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310013</guid>
-<pubDate>2023-02-20T15:25:57Z</pubDate>
-<title>Earthquake survivors search mass graves for loved ones</title>
-<description>Earthquake survivors are coming to these mass graves in Turkey in search of their loved ones.  Workers and volunteers carry out a burial ritual on site when relatives are not present to do it themselves.</description>
-<category>Vertical</category>
-<keywords>DWVC,Earthquake, Turkey, mass graves, burial, survivors</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_MassGrave.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Earthquake survivors search mass graves for loved ones</media:title>
-  <media:keywords type="plain">DWVC,Earthquake, Turkey, mass graves, burial, survivors</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_MassGrave.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
