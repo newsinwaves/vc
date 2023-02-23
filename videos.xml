@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/23/2023 9:29:41 AM</pubDate>
+<pubDate>2/23/2023 12:25:59 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,40 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310026</guid>
+<pubDate>2023-02-23T12:25:54Z</pubDate>
+<title>Natural disasters - and what we can learn from them</title>
+<description>Natural disasters can occur all over the world. But even for countries that got off easy until now, looking abroad for help will only prove to be beneficial!</description>
+<category>Vertical</category>
+<keywords>DWVC,natural disaster, catastrophe, help, rescue, preparation, climate change, climate crisis, civil protection, disaster control</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/Natural-Disasters.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Natural disasters - and what we can learn from them</media:title>
+  <media:keywords type="plain">DWVC,natural disaster, catastrophe, help, rescue, preparation, climate change, climate crisis, civil protection, disaster control</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Natural-Disasters.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310025</guid>
+<pubDate>2023-02-23T12:25:55Z</pubDate>
+<title>Why does Germany want to legalize Cannabis?</title>
+<description>The German government unveiled its plans to legalise cannabis in October 2022. German consumers would be able to buy up to 30 grammes of cannabis for private consumption with supplies cultivated and distributed through a controlled market. But questions remain about possible risks, like the protection of minors.</description>
+<category>Vertical</category>
+<keywords>DWVC,cannabis, legalization, weed, Germany, legalisation, drug</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/Legal_Canabis_Vertical.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Why does Germany want to legalize Cannabis?</media:title>
+  <media:keywords type="plain">DWVC,cannabis, legalization, weed, Germany, legalisation, drug</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Legal_Canabis_Vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310024</guid>
@@ -149,40 +183,6 @@
   <media:keywords type="plain">DWVC,dwbusiness, solar cell, Graetzel cell, electricity, dye-sensitised solar cell, electricity</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/WSME_Transparentesolarzelle.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310015</guid>
-<pubDate>2023-02-20T15:25:00Z</pubDate>
-<title>Meta announces paid verification</title>
-<description>Meta has announced you will soon be able to buy verification for both Facebook and Instagram. Unlike Twitter, they will require government ID to improve their security and authenticity though it will also be more expensive. </description>
-<category>Vertical</category>
-<keywords>DWVC,DWdigital, Meta, Facebook, Instagram, technology, Social Media, Verification</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIFENG230220_SHIFT_META_Verified_Reel_LTR_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Meta announces paid verification</media:title>
-  <media:keywords type="plain">DWVC,DWdigital, Meta, Facebook, Instagram, technology, Social Media, Verification</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIFENG230220_SHIFT_META_Verified_Reel_LTR_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310014</guid>
-<pubDate>2023-02-20T15:25:56Z</pubDate>
-<title>How NATO polices the skies on Russia's border</title>
-<description>NATO polices the skies on Russia's border from the Amari airbase in Estonia. The mission is to protect the air space and identify unknown and potentially hostile aircraft.</description>
-<category>Vertical</category>
-<keywords>DWVC,NATO, Russia, war, Urkaine, jets, pilots, air policing</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_AirPolicing_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">How NATO polices the skies on Russia's border</media:title>
-  <media:keywords type="plain">DWVC,NATO, Russia, war, Urkaine, jets, pilots, air policing</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_AirPolicing_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
