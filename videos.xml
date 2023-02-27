@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/23/2023 4:36:23 PM</pubDate>
+<pubDate>2/27/2023 3:26:01 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,57 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310031</guid>
+<pubDate>2023-02-27T15:25:54Z</pubDate>
+<title>How is the Colosseum still standing?</title>
+<description>This secret Roman hack clearly stood the test of time. #PlanetA</description>
+<category>Vertical</category>
+<keywords>DWVC,PlanetA, concrete, building, Rome, Roman, architecture, explainer, history</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/TikTok_RomanConcrete_SUBS_LOGO.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">How is the Colosseum still standing?</media:title>
+  <media:keywords type="plain">DWVC,PlanetA, concrete, building, Rome, Roman, architecture, explainer, history</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/TikTok_RomanConcrete_SUBS_LOGO.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310030</guid>
+<pubDate>2023-02-27T15:25:55Z</pubDate>
+<title>Italy: The motorcycle therapist</title>
+<description>Freestyle motocross champion Vanni Oddera puts a smile on young patientsâ€™ faces by giving them a ride on his motorcycle. He calls it his â€˜moto-therapyâ€™.</description>
+<category>Vertical</category>
+<keywords>DWVC,therapy, motorcycle, hospital, children, freestyle, Italy, motorbike, Vanni Oddera, motocross</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WVItalyMoto_vertical_dirtyF.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Italy: The motorcycle therapist</media:title>
+  <media:keywords type="plain">DWVC,therapy, motorcycle, hospital, children, freestyle, Italy, motorbike, Vanni Oddera, motocross</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_ItalyMoto_vertical_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310029</guid>
+<pubDate>2023-02-27T15:25:55Z</pubDate>
+<title>Being old can't be fashionable? An AI artist shows us it sure can!</title>
+<description>Nigerian artist Malik Afegbua uses AI to create elderly models. He wanted to reimagine the roles of older African people after his mother fell ill.</description>
+<category>Vertical</category>
+<keywords>DWVC,fashion, AI, Nigeria, art, youthism, age discrimination, beauty, model</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/SHIE_AI_ElderModels_REEL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Being old can't be fashionable? An AI artist shows us it sure can!</media:title>
+  <media:keywords type="plain">DWVC,fashion, AI, Nigeria, art, youthism, age discrimination, beauty, model</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/AI_OldModels_Thumbnail.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310028</guid>
@@ -132,57 +183,6 @@
   <media:keywords type="plain">DWVC,cooking, cook, food, robot, AI, restaurant, Croatia, chef, automatisation, DWDigital</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Robot_chef_ENG_Thumbnail.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310021</guid>
-<pubDate>2023-02-22T09:25:54Z</pubDate>
-<title>Quakes leave children traumatized and at risk</title>
-<description>In the aftermath of the earthquakes in Turkey and Syria, the level of trauma suffered by survivors is enormous. Among the homeless are thousands of children. They are particularly vulnerable and urgently need help. Julia Hahn reports from Kahramanmaras. </description>
-<category>Vertical</category>
-<keywords>DWVC,Earthquake, trauma, Turkey, Syria, mental health</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_QaukeM_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Quakes leave children traumatized and at risk</media:title>
-  <media:keywords type="plain">DWVC,Earthquake, trauma, Turkey, Syria, mental health</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_QaukeM_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310019</guid>
-<pubDate>2023-02-21T15:25:56Z</pubDate>
-<title>The Russian invasion of Ukraine: A year in pictures</title>
-<description>Ukraine was invaded by Russia on February 24, 2022. A look back at the first year of war through images, while there is still no end in sight. </description>
-<category>Vertical</category>
-<keywords>DWVC,War anniversary, 1-year Russian war, Ukraine, Russia, Bucha, Mariupol, look back, photos</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/REEL_QWar.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">The Russian invasion of Ukraine: A year in pictures</media:title>
-  <media:keywords type="plain">DWVC,War anniversary, 1-year Russian war, Ukraine, Russia, Bucha, Mariupol, look back, photos</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/REEL_QWar.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310018</guid>
-<pubDate>2023-02-21T15:26:01Z</pubDate>
-<title>Trying to save refugees from the cold</title>
-<description>Refugees died of hypothermia in recent years while attempting to reach European shores. NGO worker Davide Pittioni would like to provide a warm shelter for all arriving in the northern Italian city of Trieste, but theyâ€™re out of space.</description>
-<category>Vertical</category>
-<keywords>DWVC,Refugees, Italy, Winter, Boarder, Crisis</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/WVItalyRefugees_Vertical_Dirty_F.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Trying to save refugees from the cold</media:title>
-  <media:keywords type="plain">DWVC,Refugees, Italy, Winter, Boarder, Crisis</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/WVItalyRefugees_Thumb_VERT_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
