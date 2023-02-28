@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/27/2023 3:26:01 PM</pubDate>
+<pubDate>2/28/2023 9:26:01 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,23 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310032</guid>
+<pubDate>2023-02-28T09:25:55Z</pubDate>
+<title>Moebius syndrome: When your face can't show emotions</title>
+<description>Constanze Weigel has Moebius syndrome, a condition that limits those affected in their capacity to form facial expressions. Constanze is often met with prejudice â€” and aims to raise awareness of the syndrome.</description>
+<category>Vertical</category>
+<keywords>DWVC,Moebius, syndrome, disease, health, facial expression, emotions, prejudice</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/REEL_MoebiusSyndrom_vertical_DIRTY_NEW.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Moebius syndrome: When your face can't show emotions</media:title>
+  <media:keywords type="plain">DWVC,Moebius, syndrome, disease, health, facial expression, emotions, prejudice</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_Moebius_vertical_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310031</guid>
@@ -72,7 +89,7 @@
 <guid isPermaLink="false">DWV2310028</guid>
 <pubDate>2023-02-23T15:36:15Z</pubDate>
 <title>Dog mutilated by drug cartel could become America's favorite animal</title>
-<description>Pay de LimÃ³n had anything but an easy life. Members of a Mexican drug cartel chopped off his front paws. But Pay de LimÃ³n survived, got prosthetic limbs and is now a favorite to win the popular competition "America's favorite pet". @DW</description>
+<description>Pay de Limón had anything but an easy life. Members of a Mexican drug cartel chopped off his front paws. But Pay de Limón survived, got prosthetic limbs and is now a favorite to win the popular competition "America's favorite pet". @DW</description>
 <category>Vertical</category>
 <keywords>DWVC,dog, drug, cartel, mutilated, animal </keywords>
 
@@ -89,7 +106,7 @@
 <guid isPermaLink="false">DWV2310027</guid>
 <pubDate>2023-02-23T15:25:53Z</pubDate>
 <title>Help for babies in need</title>
-<description>Aida SadikoviÄ‡ drives through Bosnia and Herzegovina every day. She supplies food, clothing and diapers to babies in need. Many families continue to struggle financially in one of the poorest countries in Europe.</description>
+<description>Aida Sadikovic drives through Bosnia and Herzegovina every day. She supplies food, clothing and diapers to babies in need. Many families continue to struggle financially in one of the poorest countries in Europe.</description>
 <category>Vertical</category>
 <keywords>DWVC,child care, poverty, unemployment, Bosnia, Herzegovina, Europe, help</keywords>
 
@@ -166,23 +183,6 @@
   <media:keywords type="plain">DWVC,Russia, Ukraine, war, Kenya, Africa, food, wheat, grain, crisis </media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_UKRAFReffects_REEL_ENG_3.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310022</guid>
-<pubDate>2023-02-22T12:25:55Z</pubDate>
-<title>Could your favorite cook be replaced by a robot?</title>
-<description>This restaurant in Croacia has a robot that can prepare dishes from scratch and in a single pot. Will real cooks soon not be needed at all?</description>
-<category>Vertical</category>
-<keywords>DWVC,cooking, cook, food, robot, AI, restaurant, Croatia, chef, automatisation, DWDigital</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIE_RobotChef_REEL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Could your favorite cook be replaced by a robot?</media:title>
-  <media:keywords type="plain">DWVC,cooking, cook, food, robot, AI, restaurant, Croatia, chef, automatisation, DWDigital</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Robot_chef_ENG_Thumbnail.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
