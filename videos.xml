@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/1/2023 9:26:03 AM</pubDate>
+<pubDate>3/1/2023 3:26:02 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,40 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310043</guid>
+<pubDate>2023-03-01T15:25:55Z</pubDate>
+<title>Rare northern lights appearance in England</title>
+<description>The Northern Lights (aka aurora borealis) were spotted further south in the UK than is typical yesterday and today.</description>
+<category>Vertical</category>
+<keywords>DWVC,England, light, UK, aurora borealis, DW</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/2023.02.28_DIRTY_Rare_northern_lights_appearance_in_UK.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Rare northern lights appearance in England</media:title>
+  <media:keywords type="plain">DWVC,England, light, UK, aurora borealis, DW</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/2023.02.28_DIRTY_Rare_northern_lights_appearance_in_UK.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310042</guid>
+<pubDate>2023-03-01T15:25:56Z</pubDate>
+<title>Thousands of migrants have died in Southern Texas</title>
+<description>More than 7,500 migrants have died in the desert of Southern Texas since 1999. But a local NGO is trying to save their lives.</description>
+<category>Vertical</category>
+<keywords>DWVC,United States, Texas, USA, US border, Mexico, Brooks County, migration</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_Disappear_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Thousands of migrants have died in Southern Texas</media:title>
+  <media:keywords type="plain">DWVC,United States, Texas, USA, US border, Mexico, Brooks County, migration</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Disappear_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310041</guid>
@@ -89,7 +123,7 @@
 <guid isPermaLink="false">DWV2310037</guid>
 <pubDate>2023-02-28T12:25:56Z</pubDate>
 <title>What is Femtech? </title>
-<description>A tech sector that finally acknowledges women's needs is on the rise! Here's all you need to know about Femtech in under 60 seconds.</description>
+<description>A tech sector that finally acknowledges womenâ€™s needs is on the rise! Hereâ€™s all you need to know about Femtech in under 60 seconds.</description>
 <category>Vertical</category>
 <keywords>DWVC,Femtech, technology, female, women in tech, women's needs, diversity, tech sector</keywords>
 
@@ -106,7 +140,7 @@
 <guid isPermaLink="false">DWV2310036</guid>
 <pubDate>2023-02-28T12:25:57Z</pubDate>
 <title>Scary AI - Even Elon Musk calls for regulation</title>
-<description>AI is starting to become a huge part of our everyday life, but not without danger. That's why tech titans like Elon Musk are now calling on governments to introduce AI regulations. </description>
+<description>AI is starting to become a huge part of our everyday life, but not without danger. Thatâ€™s why tech titans like Elon Musk are now calling on governments to introduce AI regulations. </description>
 <category>Vertical</category>
 <keywords>DWVC,AI, Artficial Intelligence, Elon Musk, regulations, government</keywords>
 
@@ -149,40 +183,6 @@
   <media:keywords type="plain">DWVC,Germany, India, G20 presidency, Olaf Scholz, visit</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Scholz_India_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310033</guid>
-<pubDate>2023-02-28T12:25:59Z</pubDate>
-<title>Venice's famous canals run dry</title>
-<description>Venice's famous gondolas are stuck in the mud, after a lack of rain and unusually low tides have left the city's canal system dry. @DW </description>
-<category>Vertical</category>
-<keywords>DWVC,Venice, Italy, drought, environment, low tides</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/dwpe_venicedrought_vertical_eng.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Venice's famous canals run dry</media:title>
-  <media:keywords type="plain">DWVC,Venice, Italy, drought, environment, low tides</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/dwpe_venicedrought_vertical_eng.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310032</guid>
-<pubDate>2023-02-28T09:25:55Z</pubDate>
-<title>Moebius syndrome: When your face canâ€™t show emotions</title>
-<description>Constanze Weigel has Moebius syndrome, a condition that limits those affected in their capacity to form facial expressions. Constanze is often met with prejudice â€” and aims to raise awareness of the syndrome.</description>
-<category>Vertical</category>
-<keywords>DWVC,Moebius, syndrome, disease, health, facial expression, emotions, prejudice</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/REEL_MoebiusSyndrom_vertical_DIRTY_NEW.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Moebius syndrome: When your face canâ€™t show emotions</media:title>
-  <media:keywords type="plain">DWVC,Moebius, syndrome, disease, health, facial expression, emotions, prejudice</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_Moebius_vertical_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
