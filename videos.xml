@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>2/28/2023 12:26:01 PM</pubDate>
+<pubDate>3/1/2023 9:26:03 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,23 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310041</guid>
+<pubDate>2023-03-01T09:25:55Z</pubDate>
+<title>Sick of BAD deliveries?</title>
+<description>A lot can go wrong during package deliveries. Can robot couriers do it better? </description>
+<category>Vertical</category>
+<keywords>DWVC,Artificial Intelligence, AI, robots, couriers, delivery, online shopping,  </keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/Sick_of_bad_deliveries_REEL_Dirty.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Sick of BAD deliveries?</media:title>
+  <media:keywords type="plain">DWVC,Artificial Intelligence, AI, robots, couriers, delivery, online shopping,  </media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/THUMB_Robot_couriers_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310040</guid>
@@ -38,7 +55,7 @@
 <guid isPermaLink="false">DWV2310039</guid>
 <pubDate>2023-02-28T12:25:55Z</pubDate>
 <title>Ex-guerillas and conflict victims bake for peace</title>
-<description>After six decades of armed conflict in Colombia, which has claimed almost 500,000 lives, peace talks between President Gustavo Petro's government and the rebel National Liberation Army (ELN) have recently resumed.</description>
+<description>After six decades of armed conflict in Colombia, which has claimed almost 500,000 lives, peace talks between President Gustavo Petroâ€™s government and the rebel National Liberation Army (ELN) have recently resumed.</description>
 <category>Vertical</category>
 <keywords>DWVC,Colombia, President Gustavo Petro, ELN, National Liberation Army, FARC, guerilla groups, peace talks, reconciliation</keywords>
 
@@ -72,7 +89,7 @@
 <guid isPermaLink="false">DWV2310037</guid>
 <pubDate>2023-02-28T12:25:56Z</pubDate>
 <title>What is Femtech? </title>
-<description>A tech sector that finally acknowledges women's needs is on the rise! Here's all you need to know about Femtech in under 60 seconds.</description>
+<description>A tech sector that finally acknowledges womenâ€™s needs is on the rise! Hereâ€™s all you need to know about Femtech in under 60 seconds.</description>
 <category>Vertical</category>
 <keywords>DWVC,Femtech, technology, female, women in tech, women's needs, diversity, tech sector</keywords>
 
@@ -89,7 +106,7 @@
 <guid isPermaLink="false">DWV2310036</guid>
 <pubDate>2023-02-28T12:25:57Z</pubDate>
 <title>Scary AI - Even Elon Musk calls for regulation</title>
-<description>AI is starting to become a huge part of our everyday life, but not without danger. That's why tech titans like Elon Musk are now calling on governments to introduce AI regulations. </description>
+<description>AI is starting to become a huge part of our everyday life, but not without danger. Thatâ€™s why tech titans like Elon Musk are now calling on governments to introduce AI regulations. </description>
 <category>Vertical</category>
 <keywords>DWVC,AI, Artficial Intelligence, Elon Musk, regulations, government</keywords>
 
@@ -166,23 +183,6 @@
   <media:keywords type="plain">DWVC,Moebius, syndrome, disease, health, facial expression, emotions, prejudice</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_Moebius_vertical_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310031</guid>
-<pubDate>2023-02-27T15:25:54Z</pubDate>
-<title>How is the Colosseum still standing?</title>
-<description>This secret Roman hack clearly stood the test of time. #PlanetA</description>
-<category>Vertical</category>
-<keywords>DWVC,PlanetA, concrete, building, Rome, Roman, architecture, explainer, history</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/TikTok_RomanConcrete_SUBS_LOGO.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">How is the Colosseum still standing?</media:title>
-  <media:keywords type="plain">DWVC,PlanetA, concrete, building, Rome, Roman, architecture, explainer, history</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/TikTok_RomanConcrete_SUBS_LOGO.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
