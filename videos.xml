@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/2/2023 12:26:01 PM</pubDate>
+<pubDate>3/2/2023 3:25:59 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,23 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310048</guid>
+<pubDate>2023-03-02T15:25:55Z</pubDate>
+<title>E-bandage speeds healing</title>
+<description>A new electronic bandage helps wounds heal 30% faster and then dissolves in the body.</description>
+<category>Vertical</category>
+<keywords>DWVC,electronic bandage, healing, recovery, Northwestern University, e-bandage, health</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WSME_Bandage.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">E-bandage speeds healing</media:title>
+  <media:keywords type="plain">DWVC,electronic bandage, healing, recovery, Northwestern University, e-bandage, health</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Bandage_Thumb_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310047</guid>
@@ -166,23 +183,6 @@
   <media:keywords type="plain">DWVC,Colombia, President Gustavo Petro, ELN, National Liberation Army, FARC, guerilla groups, peace talks, reconciliation</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Neiva_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310038</guid>
-<pubDate>2023-02-28T12:25:56Z</pubDate>
-<title>Earthquake resistant housing in Turkey</title>
-<description>After two powerful earthquakes ripped through southern Turkey and northern Syria earlier this month, images of the destruction brought back painful memories for the inhabitants of DÃ¼zce. But the community has learnt from its past.</description>
-<category>Vertical</category>
-<keywords>DWVC,Turkey, Syria, earthquake, 1999 earthquake, survivors, housing, protection measures</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/WV_TURKEY_CONSTRUCTION_VERT_DRT.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Earthquake resistant housing in Turkey</media:title>
-  <media:keywords type="plain">DWVC,Turkey, Syria, earthquake, 1999 earthquake, survivors, housing, protection measures</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_TurkeyConstruction_vertical_DIRTY_2.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
