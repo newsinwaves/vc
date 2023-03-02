@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/1/2023 3:26:02 PM</pubDate>
+<pubDate>3/2/2023 12:26:01 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,74 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310047</guid>
+<pubDate>2023-03-02T12:25:55Z</pubDate>
+<title>Startups in India upcycling used shoes</title>
+<description>2 billion pairs of shoes are produced in India every year, most of which end their life up in the dump. How to reduce this waste?</description>
+<category>Vertical</category>
+<keywords>DWVC,India, shoes, footwear, upcycle, sustainable fashion</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_India_VERTICAL_Dirty.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Startups in India upcycling used shoes</media:title>
+  <media:keywords type="plain">DWVC,India, shoes, footwear, upcycle, sustainable fashion</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_India_VERTICAL_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310046</guid>
+<pubDate>2023-03-02T12:25:55Z</pubDate>
+<title>Republicans battle for US presidential nomination</title>
+<description>While Donald Trump and Nikki Haley address conservatives in Washington DC, Florida Governor Ron DeSantis is courting Texas and California donors.</description>
+<category>Vertical</category>
+<keywords>DWVC,US presidential race 2024, USA, Washington DC, Republican Party, Donald Trump, Nikki Haley, Mike Pompeo, Mike Pence, Ron DeSantis</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_RepCandidates_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Republicans battle for US presidential nomination</media:title>
+  <media:keywords type="plain">DWVC,US presidential race 2024, USA, Washington DC, Republican Party, Donald Trump, Nikki Haley, Mike Pompeo, Mike Pence, Ron DeSantis</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_RepCandidates_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310045</guid>
+<pubDate>2023-03-02T12:25:56Z</pubDate>
+<title>Meet the 87-year-old primary school student in Egypt </title>
+<description>An 87-year-old Egyptian woman, who never got a chance to attend school when she was young, is finally fulfilling her dream. </description>
+<category>Vertical</category>
+<keywords>DWVC,Egypt, primary school, elderly, 87 years, student, school</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_EgyptianStudent_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Meet the 87-year-old primary school student in Egypt </media:title>
+  <media:keywords type="plain">DWVC,Egypt, primary school, elderly, 87 years, student, school</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/87_student_egypt_thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310044</guid>
+<pubDate>2023-03-02T12:25:56Z</pubDate>
+<title>Should TikTok be banned?</title>
+<description>The "ultimate propaganda tool": Should TikTok be banned?</description>
+<category>Vertical</category>
+<keywords>DWVC,TikTok, ban, United States, China, propaganda, Social Media, Scott Galloway, White House</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/TikTok_Galloway_DIRTY.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Should TikTok be banned?</media:title>
+  <media:keywords type="plain">DWVC,TikTok, ban, United States, China, propaganda, Social Media, Scott Galloway, White House</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/TikTok_Thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310043</guid>
@@ -115,74 +183,6 @@
   <media:keywords type="plain">DWVC,Turkey, Syria, earthquake, 1999 earthquake, survivors, housing, protection measures</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_TurkeyConstruction_vertical_DIRTY_2.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310037</guid>
-<pubDate>2023-02-28T12:25:56Z</pubDate>
-<title>What is Femtech? </title>
-<description>A tech sector that finally acknowledges womenâ€™s needs is on the rise! Hereâ€™s all you need to know about Femtech in under 60 seconds.</description>
-<category>Vertical</category>
-<keywords>DWVC,Femtech, technology, female, women in tech, women's needs, diversity, tech sector</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIFT_FEMTECH_Reel_Dirty.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">What is Femtech? </media:title>
-  <media:keywords type="plain">DWVC,Femtech, technology, female, women in tech, women's needs, diversity, tech sector</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIFT_Femtech_Reel_Thumb_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310036</guid>
-<pubDate>2023-02-28T12:25:57Z</pubDate>
-<title>Scary AI - Even Elon Musk calls for regulation</title>
-<description>AI is starting to become a huge part of our everyday life, but not without danger. Thatâ€™s why tech titans like Elon Musk are now calling on governments to introduce AI regulations. </description>
-<category>Vertical</category>
-<keywords>DWVC,AI, Artficial Intelligence, Elon Musk, regulations, government</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIFENG230222_SHIFT_AIRegulation_Reel RTL VERTICAL_Dirty.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Scary AI - Even Elon Musk calls for regulation</media:title>
-  <media:keywords type="plain">DWVC,AI, Artficial Intelligence, Elon Musk, regulations, government</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIFT_AIRegulation_Reel_Thumb_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310035</guid>
-<pubDate>2023-02-28T12:25:58Z</pubDate>
-<title>Ukraine soldier reflects on year of war </title>
-<description>A year ago, as Russia's invasion loomed, Anton Kolumbet was worried. Having seen combat in the Donbas in 2014, he was not keen on fighting again. One year on, DW's Fanny Facsar found him back in uniform, in a Donetsk town near the front line.</description>
-<category>Vertical</category>
-<keywords>DWVC,Urkaine, Donetsk, Russia, war, invasion, front line, soldier, survivor, fighting</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/dpwe_soldier_vertical_eng.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Ukraine soldier reflects on year of war </media:title>
-  <media:keywords type="plain">DWVC,Urkaine, Donetsk, Russia, war, invasion, front line, soldier, survivor, fighting</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/dpwe_soldier_vertical_eng.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310034</guid>
-<pubDate>2023-02-28T12:25:59Z</pubDate>
-<title>German Chancellor Scholz in India</title>
-<description>German Chancellor Olaf Scholz made his first visit to India, as the country hosts the G-20 presidency. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,Germany, India, G20 presidency, Olaf Scholz, visit</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_Scholz_India_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">German Chancellor Scholz in India</media:title>
-  <media:keywords type="plain">DWVC,Germany, India, G20 presidency, Olaf Scholz, visit</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Scholz_India_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
