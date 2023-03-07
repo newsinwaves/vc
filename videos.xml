@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/3/2023 3:26:01 PM</pubDate>
+<pubDate>3/7/2023 3:26:00 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,57 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310054</guid>
+<pubDate>2023-03-07T15:25:55Z</pubDate>
+<title>AI detects breast cancer  </title>
+<description>The Blue Box is an AI device that could tell you you might have breast cancer.</description>
+<category>Vertical</category>
+<keywords>DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology </keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/Reel_Bluebox.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">AI detects breast cancer  </media:title>
+  <media:keywords type="plain">DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology </media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Reel_Bluebox.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310053</guid>
+<pubDate>2023-03-07T15:25:55Z</pubDate>
+<title>Anglican Church at the verge of split?  </title>
+<description>The archbishop of Canterbury, Justin Welby is facing backlash from within the global Anglican Communion, after the Church of England voted to allow priests to bless same-sex couples. @DW </description>
+<category>Vertical</category>
+<keywords>DWVC,Anglican Church, same-sex couples, LGBTQ+, archbishop of Canterbury</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_QChurch.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Anglican Church at the verge of split?  </media:title>
+  <media:keywords type="plain">DWVC,Anglican Church, same-sex couples, LGBTQ+, archbishop of Canterbury</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Church_Thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310052</guid>
+<pubDate>2023-03-07T15:25:56Z</pubDate>
+<title>France's longest river is running dry  </title>
+<description>"I'm scared...I've never seen this." France's longest river, the Loire, is drying up as a severe winter drought grips parts of the country. Experts warn restrictions may be necessary again. </description>
+<category>Vertical</category>
+<keywords>DWVC,France, Loire, dried up, drought, climate change, environment</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_Loire_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">France's longest river is running dry  </media:title>
+  <media:keywords type="plain">DWVC,France, Loire, dried up, drought, climate change, environment</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Loire_Thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310051</guid>
@@ -132,57 +183,6 @@
   <media:keywords type="plain">DWVC,Egypt, primary school, elderly, 87 years, student, school</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/87_student_egypt_thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310044</guid>
-<pubDate>2023-03-02T12:25:56Z</pubDate>
-<title>Should TikTok be banned?</title>
-<description>The "ultimate propaganda tool": Should TikTok be banned?</description>
-<category>Vertical</category>
-<keywords>DWVC,TikTok, ban, United States, China, propaganda, Social Media, Scott Galloway, White House</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/TikTok_Galloway_DIRTY.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Should TikTok be banned?</media:title>
-  <media:keywords type="plain">DWVC,TikTok, ban, United States, China, propaganda, Social Media, Scott Galloway, White House</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/TikTok_Thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310043</guid>
-<pubDate>2023-03-01T15:25:55Z</pubDate>
-<title>Rare northern lights appearance in England</title>
-<description>The Northern Lights (aka aurora borealis) were spotted further south in the UK than is typical yesterday and today.</description>
-<category>Vertical</category>
-<keywords>DWVC,England, light, UK, aurora borealis, DW</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/2023.02.28_DIRTY_Rare_northern_lights_appearance_in_UK.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Rare northern lights appearance in England</media:title>
-  <media:keywords type="plain">DWVC,England, light, UK, aurora borealis, DW</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/2023.02.28_DIRTY_Rare_northern_lights_appearance_in_UK.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310042</guid>
-<pubDate>2023-03-01T15:25:56Z</pubDate>
-<title>Thousands of migrants have died in Southern Texas</title>
-<description>More than 7,500 migrants have died in the desert of Southern Texas since 1999. But a local NGO is trying to save their lives.</description>
-<category>Vertical</category>
-<keywords>DWVC,United States, Texas, USA, US border, Mexico, Brooks County, migration</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_Disappear_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Thousands of migrants have died in Southern Texas</media:title>
-  <media:keywords type="plain">DWVC,United States, Texas, USA, US border, Mexico, Brooks County, migration</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Disappear_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
