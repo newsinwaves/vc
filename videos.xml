@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/7/2023 3:26:00 PM</pubDate>
+<pubDate>3/8/2023 9:26:02 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,40 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310056</guid>
+<pubDate>2023-03-08T09:25:56Z</pubDate>
+<title>Afghan woman disguises herself as a man to keep her job  </title>
+<description>This Afghan woman disguises herself as a man every day, so she can keep her job as a beekeeper. </description>
+<category>Vertical</category>
+<keywords>DWVC,Afghanistan, woman, human rights, Afghan women</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/Afghan_woman_bee_keeper_L.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Afghan woman disguises herself as a man to keep her job  </media:title>
+  <media:keywords type="plain">DWVC,Afghanistan, woman, human rights, Afghan women</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Afghan_woman_bee_keeper_L.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310055</guid>
+<pubDate>2023-03-08T09:25:56Z</pubDate>
+<title>Can AI fix the world's most pressing problems? </title>
+<description>Experts see massive potential in AI as a problem solver for worldwide issues, such as crime, poverty and pollution . Do you believe AI can fix our modern day problems? </description>
+<category>Vertical</category>
+<keywords>DWVC,Artificial Intelligence, AI, problems, issues, crisis, climate change, crime</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/SHIE_AI_Problem_Solver_REEL Premium.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Can AI fix the world's most pressing problems? </media:title>
+  <media:keywords type="plain">DWVC,Artificial Intelligence, AI, problems, issues, crisis, climate change, crime</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIE_AI_Problem_solver_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310054</guid>
@@ -149,40 +183,6 @@
   <media:keywords type="plain">DWVC,India, shoes, footwear, upcycle, sustainable fashion</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_India_VERTICAL_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310046</guid>
-<pubDate>2023-03-02T12:25:55Z</pubDate>
-<title>Republicans battle for US presidential nomination</title>
-<description>While Donald Trump and Nikki Haley address conservatives in Washington DC, Florida Governor Ron DeSantis is courting Texas and California donors.</description>
-<category>Vertical</category>
-<keywords>DWVC,US presidential race 2024, USA, Washington DC, Republican Party, Donald Trump, Nikki Haley, Mike Pompeo, Mike Pence, Ron DeSantis</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_RepCandidates_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Republicans battle for US presidential nomination</media:title>
-  <media:keywords type="plain">DWVC,US presidential race 2024, USA, Washington DC, Republican Party, Donald Trump, Nikki Haley, Mike Pompeo, Mike Pence, Ron DeSantis</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_RepCandidates_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310045</guid>
-<pubDate>2023-03-02T12:25:56Z</pubDate>
-<title>Meet the 87-year-old primary school student in Egypt </title>
-<description>An 87-year-old Egyptian woman, who never got a chance to attend school when she was young, is finally fulfilling her dream. </description>
-<category>Vertical</category>
-<keywords>DWVC,Egypt, primary school, elderly, 87 years, student, school</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_EgyptianStudent_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Meet the 87-year-old primary school student in Egypt </media:title>
-  <media:keywords type="plain">DWVC,Egypt, primary school, elderly, 87 years, student, school</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/87_student_egypt_thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
