@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/8/2023 9:26:02 AM</pubDate>
+<pubDate>3/9/2023 12:25:59 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -18,15 +18,66 @@
 <ttl>30</ttl>
 
 <item>
+<guid isPermaLink="false">DWV2310059</guid>
+<pubDate>2023-03-09T12:25:55Z</pubDate>
+<title>Iranian women continue to fight for freedom</title>
+<description>Nearly six months after Jina Masha Amini was killed for not dressing the way the Islamic Republic wanted to, women without hijab are conquering the streets of Iran. Although it is against the law, many women are taking the risk to make a stand. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Iran, women, human rights, hijab, Masha Amini, freedom, self-determination</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_IranHijab_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Iranian women continue to fight for freedom</media:title>
+  <media:keywords type="plain">DWVC,Iran, women, human rights, hijab, Masha Amini, freedom, self-determination</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_IranHijab_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310058</guid>
+<pubDate>2023-03-09T12:25:55Z</pubDate>
+<title>Taking care of a grandchild orphaned by war</title>
+<description>Many Ukrainians have lost family members because of Russian missile attacks. Surviving relatives are left grieving, often while trying to provide stability for young children orphaned by the war. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Ukraine, Russia, missile attack, orphan, war, children</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_QOksana_REEL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Taking care of a grandchild orphaned by war</media:title>
+  <media:keywords type="plain">DWVC,Ukraine, Russia, missile attack, orphan, war, children</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_QOksana_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310057</guid>
+<pubDate>2023-03-09T12:25:56Z</pubDate>
+<title>Sexual harassment in an online world</title>
+<description>The era of a new internet is dawning. The "metaverse", as many call it, could revolutionize the way we work, learn and communicate. But it could also give rise to unprecedented online harassment and abuse.</description>
+<category>Vertical</category>
+<keywords>DWVC,metaverse, sexual harassment, virtual reality, VR, abuse, avatar</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/SoMe_techtopia_metaverse_V_dirty.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Sexual harassment in an online world</media:title>
+  <media:keywords type="plain">DWVC,metaverse, sexual harassment, virtual reality, VR, abuse, avatar</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/SoMe_techtopia_metaverse_V_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
 <guid isPermaLink="false">DWV2310056</guid>
 <pubDate>2023-03-08T09:25:56Z</pubDate>
-<title>Afghan woman disguises herself as a man to keep her job  </title>
-<description>This Afghan woman disguises herself as a man every day, so she can keep her job as a beekeeper. </description>
+<title>Afghan woman disguises herself as a man to keep her job</title>
+<description>This Afghan woman disguises herself as a man every day, so she can keep her job as a beekeeper.</description>
 <category>Vertical</category>
 <keywords>DWVC,Afghanistan, woman, human rights, Afghan women</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/Afghan_woman_bee_keeper_L.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Afghan woman disguises herself as a man to keep her job  </media:title>
+  <media:title type="plain">Afghan woman disguises herself as a man to keep her job</media:title>
   <media:keywords type="plain">DWVC,Afghanistan, woman, human rights, Afghan women</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Afghan_woman_bee_keeper_L.jpg" type="image/jpeg" lang="en" medium="image"/>
@@ -37,13 +88,13 @@
 <item>
 <guid isPermaLink="false">DWV2310055</guid>
 <pubDate>2023-03-08T09:25:56Z</pubDate>
-<title>Can AI fix the world's most pressing problems? </title>
-<description>Experts see massive potential in AI as a problem solver for worldwide issues, such as crime, poverty and pollution . Do you believe AI can fix our modern day problems? </description>
+<title>Can AI fix the world's most pressing problems?</title>
+<description>Experts see massive potential in AI as a problem solver for worldwide issues, such as crime, poverty and pollution. Do you believe AI can fix our modern day problems?</description>
 <category>Vertical</category>
 <keywords>DWVC,Artificial Intelligence, AI, problems, issues, crisis, climate change, crime</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/SHIE_AI_Problem_Solver_REEL Premium.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Can AI fix the world's most pressing problems? </media:title>
+  <media:title type="plain">Can AI fix the world's most pressing problems?</media:title>
   <media:keywords type="plain">DWVC,Artificial Intelligence, AI, problems, issues, crisis, climate change, crime</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIE_AI_Problem_solver_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
@@ -54,14 +105,14 @@
 <item>
 <guid isPermaLink="false">DWV2310054</guid>
 <pubDate>2023-03-07T15:25:55Z</pubDate>
-<title>AI detects breast cancer  </title>
+<title>AI detects breast cancer</title>
 <description>The Blue Box is an AI device that could tell you you might have breast cancer.</description>
 <category>Vertical</category>
-<keywords>DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology </keywords>
+<keywords>DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/Reel_Bluebox.mp4" type="video/mp4" lang="en" medium="video">
   <media:title type="plain">AI detects breast cancer  </media:title>
-  <media:keywords type="plain">DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology </media:keywords>
+  <media:keywords type="plain">DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Reel_Bluebox.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
@@ -71,7 +122,7 @@
 <item>
 <guid isPermaLink="false">DWV2310053</guid>
 <pubDate>2023-03-07T15:25:55Z</pubDate>
-<title>Anglican Church at the verge of split?  </title>
+<title>Anglican Church at the verge of split?</title>
 <description>The archbishop of Canterbury, Justin Welby is facing backlash from within the global Anglican Communion, after the Church of England voted to allow priests to bless same-sex couples. @DW </description>
 <category>Vertical</category>
 <keywords>DWVC,Anglican Church, same-sex couples, LGBTQ+, archbishop of Canterbury</keywords>
@@ -88,7 +139,7 @@
 <item>
 <guid isPermaLink="false">DWV2310052</guid>
 <pubDate>2023-03-07T15:25:56Z</pubDate>
-<title>France's longest river is running dry  </title>
+<title>France's longest river is running dry</title>
 <description>"I'm scared...I've never seen this." France's longest river, the Loire, is drying up as a severe winter drought grips parts of the country. Experts warn restrictions may be necessary again. </description>
 <category>Vertical</category>
 <keywords>DWVC,France, Loire, dried up, drought, climate change, environment</keywords>
@@ -132,57 +183,6 @@
   <media:keywords type="plain">DWVC,quake, earthquake, Turkey, Syria, natural disaster, catastrophe</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_earthquake VERTICAL_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310049</guid>
-<pubDate>2023-03-03T15:25:56Z</pubDate>
-<title>Palestinian school introduces VR classroom for its students</title>
-<description>Students of the The Al-Basma Modern School in Gaza can explore interactively the world of science, mathematics, and engineering using headsets and VR handles. Do you think Virtual Reality in schools would improve education?</description>
-<category>Vertical</category>
-<keywords>DWVC,DWDigital, VR, virtual reality, education, Palestine, Gaza</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIE_VR_School_Gaza_REEL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Palestinian school introduces VR classroom for its students</media:title>
-  <media:keywords type="plain">DWVC,DWDigital, VR, virtual reality, education, Palestine, Gaza</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Gaza_VR_Classroom_thumbnail.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310048</guid>
-<pubDate>2023-03-02T15:25:55Z</pubDate>
-<title>E-bandage speeds healing</title>
-<description>A new electronic bandage helps wounds heal 30% faster and then dissolves in the body.</description>
-<category>Vertical</category>
-<keywords>DWVC,electronic bandage, healing, recovery, Northwestern University, e-bandage, health</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/WSME_Bandage.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">E-bandage speeds healing</media:title>
-  <media:keywords type="plain">DWVC,electronic bandage, healing, recovery, Northwestern University, e-bandage, health</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Bandage_Thumb_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310047</guid>
-<pubDate>2023-03-02T12:25:55Z</pubDate>
-<title>Startups in India upcycling used shoes</title>
-<description>2 billion pairs of shoes are produced in India every year, most of which end their life up in the dump. How to reduce this waste?</description>
-<category>Vertical</category>
-<keywords>DWVC,India, shoes, footwear, upcycle, sustainable fashion</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_India_VERTICAL_Dirty.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Startups in India upcycling used shoes</media:title>
-  <media:keywords type="plain">DWVC,India, shoes, footwear, upcycle, sustainable fashion</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_India_VERTICAL_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
