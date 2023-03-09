@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/9/2023 12:25:59 PM</pubDate>
+<pubDate>3/9/2023 3:30:24 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,57 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310062</guid>
+<pubDate>2023-03-09T15:30:17Z</pubDate>
+<title>What's behind Moldova's anti-government protests?</title>
+<description>While Moldova's parliament has adopted a declaration condemning Russia's invasion of Ukraine, some people feel nostalgic about the days when the country was part of the Soviet Union. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Moldova, Russia, agent, protest, legislation, Chisinau, Transnistria</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/Max_Reel_NEW.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">What's behind Moldova's anti-government protests?</media:title>
+  <media:keywords type="plain">DWVC,Moldova, Russia, agent, protest, legislation, Chisinau, Transnistria</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Max_Reel_NEW.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310061</guid>
+<pubDate>2023-03-09T15:30:18Z</pubDate>
+<title>David Tran and his billion-dollar Sriracha empire</title>
+<description>Vietnamese refugee David Tran is living the American dream with his hot sauce Sriracha.</description>
+<category>Vertical</category>
+<keywords>DWVC,David Tran, United States, Sriracha, hot sauce, billionaire, American dream</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WSME_Sriracha.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">David Tran and his billion-dollar Sriracha empire</media:title>
+  <media:keywords type="plain">DWVC,David Tran, United States, Sriracha, hot sauce, billionaire, American dream</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/WSME_Sriracha.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310060</guid>
+<pubDate>2023-03-09T15:25:54Z</pubDate>
+<title>Female investors</title>
+<description>Finance is not just a man's business. Women are actually more successful when it comes to investing.</description>
+<category>Vertical</category>
+<keywords>DWVC,finance, money, women, men, gender, investment</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WSME_BizBites_FemaleInvestors.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Female investors</media:title>
+  <media:keywords type="plain">DWVC,finance, money, women, men, gender, investment</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/WSME_BizBites_FemaleInvestors.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310059</guid>
@@ -55,7 +106,7 @@
 <guid isPermaLink="false">DWV2310057</guid>
 <pubDate>2023-03-09T12:25:56Z</pubDate>
 <title>Sexual harassment in an online world</title>
-<description>The era of a new internet is dawning. The "metaverse", as many call it, could revolutionize the way we work, learn and communicate. But it could also give rise to unprecedented online harassment and abuse.</description>
+<description>The era of a new internet is dawning. The â€œmetaverseâ€, as many call it, could revolutionize the way we work, learn and communicate. But it could also give rise to unprecedented online harassment and abuse.</description>
 <category>Vertical</category>
 <keywords>DWVC,metaverse, sexual harassment, virtual reality, VR, abuse, avatar</keywords>
 
@@ -71,13 +122,13 @@
 <item>
 <guid isPermaLink="false">DWV2310056</guid>
 <pubDate>2023-03-08T09:25:56Z</pubDate>
-<title>Afghan woman disguises herself as a man to keep her job</title>
-<description>This Afghan woman disguises herself as a man every day, so she can keep her job as a beekeeper.</description>
+<title>Afghan woman disguises herself as a man to keep her job  </title>
+<description>This Afghan woman disguises herself as a man every day, so she can keep her job as a beekeeper. </description>
 <category>Vertical</category>
 <keywords>DWVC,Afghanistan, woman, human rights, Afghan women</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/Afghan_woman_bee_keeper_L.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Afghan woman disguises herself as a man to keep her job</media:title>
+  <media:title type="plain">Afghan woman disguises herself as a man to keep her job  </media:title>
   <media:keywords type="plain">DWVC,Afghanistan, woman, human rights, Afghan women</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Afghan_woman_bee_keeper_L.jpg" type="image/jpeg" lang="en" medium="image"/>
@@ -88,13 +139,13 @@
 <item>
 <guid isPermaLink="false">DWV2310055</guid>
 <pubDate>2023-03-08T09:25:56Z</pubDate>
-<title>Can AI fix the world's most pressing problems?</title>
-<description>Experts see massive potential in AI as a problem solver for worldwide issues, such as crime, poverty and pollution. Do you believe AI can fix our modern day problems?</description>
+<title>Can AI fix the world's most pressing problems? </title>
+<description>Experts see massive potential in AI as a problem solver for worldwide issues, such as crime, poverty and pollution . Do you believe AI can fix our modern day problems? </description>
 <category>Vertical</category>
 <keywords>DWVC,Artificial Intelligence, AI, problems, issues, crisis, climate change, crime</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/SHIE_AI_Problem_Solver_REEL Premium.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Can AI fix the world's most pressing problems?</media:title>
+  <media:title type="plain">Can AI fix the world's most pressing problems? </media:title>
   <media:keywords type="plain">DWVC,Artificial Intelligence, AI, problems, issues, crisis, climate change, crime</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIE_AI_Problem_solver_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
@@ -105,14 +156,14 @@
 <item>
 <guid isPermaLink="false">DWV2310054</guid>
 <pubDate>2023-03-07T15:25:55Z</pubDate>
-<title>AI detects breast cancer</title>
+<title>AI detects breast cancer  </title>
 <description>The Blue Box is an AI device that could tell you you might have breast cancer.</description>
 <category>Vertical</category>
-<keywords>DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology</keywords>
+<keywords>DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology </keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/Reel_Bluebox.mp4" type="video/mp4" lang="en" medium="video">
   <media:title type="plain">AI detects breast cancer  </media:title>
-  <media:keywords type="plain">DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology</media:keywords>
+  <media:keywords type="plain">DWVC,The Blue Box, breast cancer, Femtech, AI, smell, urine, technology </media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Reel_Bluebox.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
@@ -122,7 +173,7 @@
 <item>
 <guid isPermaLink="false">DWV2310053</guid>
 <pubDate>2023-03-07T15:25:55Z</pubDate>
-<title>Anglican Church at the verge of split?</title>
+<title>Anglican Church at the verge of split?  </title>
 <description>The archbishop of Canterbury, Justin Welby is facing backlash from within the global Anglican Communion, after the Church of England voted to allow priests to bless same-sex couples. @DW </description>
 <category>Vertical</category>
 <keywords>DWVC,Anglican Church, same-sex couples, LGBTQ+, archbishop of Canterbury</keywords>
@@ -132,57 +183,6 @@
   <media:keywords type="plain">DWVC,Anglican Church, same-sex couples, LGBTQ+, archbishop of Canterbury</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Church_Thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310052</guid>
-<pubDate>2023-03-07T15:25:56Z</pubDate>
-<title>France's longest river is running dry</title>
-<description>"I'm scared...I've never seen this." France's longest river, the Loire, is drying up as a severe winter drought grips parts of the country. Experts warn restrictions may be necessary again. </description>
-<category>Vertical</category>
-<keywords>DWVC,France, Loire, dried up, drought, climate change, environment</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_Loire_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">France's longest river is running dry  </media:title>
-  <media:keywords type="plain">DWVC,France, Loire, dried up, drought, climate change, environment</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Loire_Thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310051</guid>
-<pubDate>2023-03-03T15:25:55Z</pubDate>
-<title>G20 foreign ministers at odds over Ukraine</title>
-<description>The Ukraine war dominated the G20 meeting in India. The United States and its allies called for continued pressure on Russia to end the conflict. But due to Russian and Chinese opposition, a joint statement was off the table. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,India, G20, USA, Russia, Ukraine, China, foreign politics, foreign affairs, Blinken, Lavrov, Modi</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_G20-India_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">G20 foreign ministers at odds over Ukraine</media:title>
-  <media:keywords type="plain">DWVC,India, G20, USA, Russia, Ukraine, China, foreign politics, foreign affairs, Blinken, Lavrov, Modi</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_G20-India_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310050</guid>
-<pubDate>2023-03-03T15:25:55Z</pubDate>
-<title>One month after the deadly Syria-Turkey earthquake</title>
-<description>At 4:17 a.m. on 6 February 2023, a 7.7 magnitude earthquake struck southern Turkey. Thousands of buildings collapsed in Turkey and Syria. Now, a month later, both countries are still mourning their losses.</description>
-<category>Vertical</category>
-<keywords>DWVC,quake, earthquake, Turkey, Syria, natural disaster, catastrophe</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_earthquake VERTICAL_Dirty.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">One month after the deadly Syria-Turkey earthquake</media:title>
-  <media:keywords type="plain">DWVC,quake, earthquake, Turkey, Syria, natural disaster, catastrophe</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_earthquake VERTICAL_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
