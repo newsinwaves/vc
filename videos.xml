@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/14/2023 9:26:03 AM</pubDate>
+<pubDate>3/14/2023 12:26:00 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,40 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310069</guid>
+<pubDate>2023-03-14T12:25:55Z</pubDate>
+<title>Delivery of heavy weapons: Is Germany now a party to the war in Ukraine?</title>
+<description>Germany's decision to deliver tanks to Ukraine drew criticism from Russia and speculation about whether this step could make Germany a party to the conflict. In international law, there is a simple answer to that question.</description>
+<category>Vertical</category>
+<keywords>DWVC,Germany, Ukraine, Russia, war, tanks, international law</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WarParty_Dirty.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Delivery of heavy weapons: Is Germany now a party to the war in Ukraine?</media:title>
+  <media:keywords type="plain">DWVC,Germany, Ukraine, Russia, war, tanks, international law</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/WarParty_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310068</guid>
+<pubDate>2023-03-14T12:25:56Z</pubDate>
+<title>A safety risk for men? </title>
+<description>In São Paulo, nine out of 10 kidnappings happened during a date arranged on Tinder or other dating apps. </description>
+<category>Vertical</category>
+<keywords>DWVC,Brazil, São Paulo, Tinder, online dating, safety, kidnapping, men</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/Tinder_INT_DIRTY.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">A safety risk for men? </media:title>
+  <media:keywords type="plain">DWVC,Brazil, São Paulo, Tinder, online dating, safety, kidnapping, men</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Tinder_THUMB_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310067</guid>
@@ -149,40 +183,6 @@
   <media:keywords type="plain">DWVC,Iran, women, human rights, hijab, Masha Amini, freedom, self-determination</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_IranHijab_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310058</guid>
-<pubDate>2023-03-09T12:25:55Z</pubDate>
-<title>Taking care of a grandchild orphaned by war</title>
-<description>Many Ukrainians have lost family members because of Russian missile attacks. Surviving relatives are left grieving, often while trying to provide stability for young children orphaned by the war. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,Ukraine, Russia, missile attack, orphan, war, children</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_QOksana_REEL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Taking care of a grandchild orphaned by war</media:title>
-  <media:keywords type="plain">DWVC,Ukraine, Russia, missile attack, orphan, war, children</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_QOksana_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310057</guid>
-<pubDate>2023-03-09T12:25:56Z</pubDate>
-<title>Sexual harassment in an online world</title>
-<description>The era of a new internet is dawning. The â€œmetaverseâ€, as many call it, could revolutionize the way we work, learn and communicate. But it could also give rise to unprecedented online harassment and abuse.</description>
-<category>Vertical</category>
-<keywords>DWVC,metaverse, sexual harassment, virtual reality, VR, abuse, avatar</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SoMe_techtopia_metaverse_V_dirty.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Sexual harassment in an online world</media:title>
-  <media:keywords type="plain">DWVC,metaverse, sexual harassment, virtual reality, VR, abuse, avatar</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/SoMe_techtopia_metaverse_V_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
