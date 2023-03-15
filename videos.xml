@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/14/2023 12:26:00 PM</pubDate>
+<pubDate>3/15/2023 12:52:49 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -18,10 +18,78 @@
 <ttl>30</ttl>
 
 <item>
+<guid isPermaLink="false">DWV2310073</guid>
+<pubDate>2023-03-15T12:52:43Z</pubDate>
+<title>India's women wrestlers defy traditional roles</title>
+<description>The success of India's female wresters - at home and abroad - has inspired more young women in the country to take up the sport. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">India's women wrestlers defy traditional roles</media:title>
+  <media:keywords type="plain">DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310072</guid>
+<pubDate>2023-03-15T12:52:44Z</pubDate>
+<title>Rape used as a weapon in the Tigray conflict</title>
+<description>The war in northern Ethiopia ranks among the deadliest conflicts in recent times. UN investigators say rape was also used as a weapon of war. With a ceasefire agreed, more and more stories of atrocities are emerging. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,war, Ethiopia, Tigray, conflict, violence, UN investigation, rape, ceasefire, atrocities, human rights</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Rape used as a weapon in the Tigray conflict</media:title>
+  <media:keywords type="plain">DWVC,war, Ethiopia, Tigray, conflict, violence, UN investigation, rape, ceasefire, atrocities, human rights</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310071</guid>
+<pubDate>2023-03-15T12:52:45Z</pubDate>
+<title>Is Snapchat helping predators?</title>
+<description>Snapchat integrated ChatGPT and created the AI-chatbot "My AI". When a tech entrepreneur registered as a 13-year-old girl, the chatbot supported her plan to go on vacation with a 31-year-old man she just met. But why?</description>
+<category>Vertical</category>
+<keywords>DWVC,Snapchat, ChatGPT, AI, chatbot, tech entrepreneurship, online safety, child protection, social media, privacy concerns, ethical considerations</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/SHIE_Snap_MyAI_REEL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Is Snapchat helping predators?</media:title>
+  <media:keywords type="plain">DWVC,Snapchat, ChatGPT, AI, chatbot, tech entrepreneurship, online safety, child protection, social media, privacy concerns, ethical considerations</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIE_Snap_MyAI_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310070</guid>
+<pubDate>2023-03-15T12:52:45Z</pubDate>
+<title>Begging for a living in Istanbul</title>
+<description>Ali Marmara came to Istanbul as a teenager because he had problems at home. He tells us what itâ€™s like to live on the streets, begging for a living â€“ and how hard it is to escape the poverty trap.</description>
+<category>Vertical</category>
+<keywords>DWVC,Turkey, Istanbul, Homelessness, Poverty, Social inequality, Begging, Youth, Vulnerability, Marginalization, Human rights</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/90ReelBeggar.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Begging for a living in Istanbul</media:title>
+  <media:keywords type="plain">DWVC,Turkey, Istanbul, Homelessness, Poverty, Social inequality, Begging, Youth, Vulnerability, Marginalization, Human rights</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/90ReelBeggar.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
 <guid isPermaLink="false">DWV2310069</guid>
 <pubDate>2023-03-14T12:25:55Z</pubDate>
 <title>Delivery of heavy weapons: Is Germany now a party to the war in Ukraine?</title>
-<description>Germany's decision to deliver tanks to Ukraine drew criticism from Russia and speculation about whether this step could make Germany a party to the conflict. In international law, there is a simple answer to that question.</description>
+<description>Germanyâ€™s decision to deliver tanks to Ukraine drew criticism from Russia and speculation about whether this step could make Germany a party to the conflict. In international law, there is a simple answer to that question.</description>
 <category>Vertical</category>
 <keywords>DWVC,Germany, Ukraine, Russia, war, tanks, international law</keywords>
 
@@ -38,13 +106,13 @@
 <guid isPermaLink="false">DWV2310068</guid>
 <pubDate>2023-03-14T12:25:56Z</pubDate>
 <title>A safety risk for men? </title>
-<description>In São Paulo, nine out of 10 kidnappings happened during a date arranged on Tinder or other dating apps. </description>
+<description>In SÃ£o Paulo, nine out of 10 kidnappings happened during a date arranged on Tinder or other dating apps. </description>
 <category>Vertical</category>
-<keywords>DWVC,Brazil, São Paulo, Tinder, online dating, safety, kidnapping, men</keywords>
+<keywords>DWVC,Brazil, SÃ£o Paulo, Tinder, online dating, safety, kidnapping, men</keywords>
 
 <media:content url="https://newsinwaves.b-cdn.net/Tinder_INT_DIRTY.mp4" type="video/mp4" lang="en" medium="video">
   <media:title type="plain">A safety risk for men? </media:title>
-  <media:keywords type="plain">DWVC,Brazil, São Paulo, Tinder, online dating, safety, kidnapping, men</media:keywords>
+  <media:keywords type="plain">DWVC,Brazil, SÃ£o Paulo, Tinder, online dating, safety, kidnapping, men</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/Tinder_THUMB_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
@@ -115,74 +183,6 @@
   <media:keywords type="plain">DWVC,Germany, Hamburg, Shooting, Jehovah's Witness</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Hamburg_Shooter_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310062</guid>
-<pubDate>2023-03-09T15:30:17Z</pubDate>
-<title>What's behind Moldova's anti-government protests?</title>
-<description>While Moldova's parliament has adopted a declaration condemning Russia's invasion of Ukraine, some people feel nostalgic about the days when the country was part of the Soviet Union. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,Moldova, Russia, agent, protest, legislation, Chisinau, Transnistria</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/Max_Reel_NEW.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">What's behind Moldova's anti-government protests?</media:title>
-  <media:keywords type="plain">DWVC,Moldova, Russia, agent, protest, legislation, Chisinau, Transnistria</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Max_Reel_NEW.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310061</guid>
-<pubDate>2023-03-09T15:30:18Z</pubDate>
-<title>David Tran and his billion-dollar Sriracha empire</title>
-<description>Vietnamese refugee David Tran is living the American dream with his hot sauce Sriracha.</description>
-<category>Vertical</category>
-<keywords>DWVC,David Tran, United States, Sriracha, hot sauce, billionaire, American dream</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/WSME_Sriracha.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">David Tran and his billion-dollar Sriracha empire</media:title>
-  <media:keywords type="plain">DWVC,David Tran, United States, Sriracha, hot sauce, billionaire, American dream</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/WSME_Sriracha.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310060</guid>
-<pubDate>2023-03-09T15:25:54Z</pubDate>
-<title>Female investors</title>
-<description>Finance is not just a man's business. Women are actually more successful when it comes to investing.</description>
-<category>Vertical</category>
-<keywords>DWVC,finance, money, women, men, gender, investment</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/WSME_BizBites_FemaleInvestors.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Female investors</media:title>
-  <media:keywords type="plain">DWVC,finance, money, women, men, gender, investment</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/WSME_BizBites_FemaleInvestors.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310059</guid>
-<pubDate>2023-03-09T12:25:55Z</pubDate>
-<title>Iranian women continue to fight for freedom</title>
-<description>Nearly six months after Jina Masha Amini was killed for not dressing the way the Islamic Republic wanted to, women without hijab are conquering the streets of Iran. Although it is against the law, many women are taking the risk to make a stand. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,Iran, women, human rights, hijab, Masha Amini, freedom, self-determination</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_IranHijab_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Iranian women continue to fight for freedom</media:title>
-  <media:keywords type="plain">DWVC,Iran, women, human rights, hijab, Masha Amini, freedom, self-determination</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_IranHijab_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
