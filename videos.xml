@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/15/2023 12:52:49 PM</pubDate>
+<pubDate>3/17/2023 9:26:02 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,91 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310078</guid>
+<pubDate>2023-03-17T09:25:56Z</pubDate>
+<title>Why are researchers so excited about Mars? </title>
+<description>Mars is more than 56 million kilometers from Earth. It is only 384,400 km to the moon. Why is research still more interested in Mars? @DW </description>
+<category>Vertical</category>
+<keywords>DWVC,Mars, science, research, universe, earth, </keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_MoonMars_REEL_ENG_1.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Why are researchers so excited about Mars? </media:title>
+  <media:keywords type="plain">DWVC,Mars, science, research, universe, earth, </media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_Mars.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310077</guid>
+<pubDate>2023-03-17T09:25:56Z</pubDate>
+<title>A ship without captain on board </title>
+<description>In Belgium, some freight ships deliver goods steered by phantom captains that sit hundreds of kilometers away.</description>
+<category>Vertical</category>
+<keywords>DWVC,Belgium, freight ship, technology, phantom captains</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">A ship without captain on board </media:title>
+  <media:keywords type="plain">DWVC,Belgium, freight ship, technology, phantom captains</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310076</guid>
+<pubDate>2023-03-17T09:25:57Z</pubDate>
+<title>Behind the EU's TikTok ban </title>
+<description>The European Parliament will become the latest EU body to ban TikTok from staff devices citing cybersecurity and data protection concerns. Is this popular video sharing app, owned by China's ByteDance, really that dangerous? @DW </description>
+<category>Vertical</category>
+<keywords>DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Behind the EU's TikTok ban </media:title>
+  <media:keywords type="plain">DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310075</guid>
+<pubDate>2023-03-17T09:25:58Z</pubDate>
+<title>ChatGPT is evolving: Here's what's new!  </title>
+<description>ChatGPT just got even smarter. As well as text, the new AI-model handles images too. </description>
+<category>Vertical</category>
+<keywords>DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/SHIE_GPT4_REEL.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">ChatGPT is evolving: Here's what's new!  </media:title>
+  <media:keywords type="plain">DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumbnail_GPT4_REEL_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310074</guid>
+<pubDate>2023-03-17T09:25:58Z</pubDate>
+<title>Sheep take over Pompeii </title>
+<description>A flock of sheep is eating away grass that threatens the ruins in the ancient city of Pompeii.</description>
+<category>Vertical</category>
+<keywords>DWVC,Italy, Pompeii, sheep, ruins, ancient city</keywords>
+
+<media:content url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
+  <media:title type="plain">Sheep take over Pompeii </media:title>
+  <media:keywords type="plain">DWVC,Italy, Pompeii, sheep, ruins, ancient city</media:keywords>
+  <media:credit>DW (Deutsche Welle)</media:credit>
+  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+</media:content>
+
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310073</guid>
@@ -55,7 +140,7 @@
 <guid isPermaLink="false">DWV2310071</guid>
 <pubDate>2023-03-15T12:52:45Z</pubDate>
 <title>Is Snapchat helping predators?</title>
-<description>Snapchat integrated ChatGPT and created the AI-chatbot "My AI". When a tech entrepreneur registered as a 13-year-old girl, the chatbot supported her plan to go on vacation with a 31-year-old man she just met. But why?</description>
+<description>Snapchat integrated ChatGPTÂ and created the AI-chatbot â€œMy AIâ€. When a tech entrepreneur registered as a 13-year-old girl, the chatbot supported her plan to go on vacation with a 31-year-old man she just met. But why?</description>
 <category>Vertical</category>
 <keywords>DWVC,Snapchat, ChatGPT, AI, chatbot, tech entrepreneurship, online safety, child protection, social media, privacy concerns, ethical considerations</keywords>
 
@@ -72,7 +157,7 @@
 <guid isPermaLink="false">DWV2310070</guid>
 <pubDate>2023-03-15T12:52:45Z</pubDate>
 <title>Begging for a living in Istanbul</title>
-<description>Ali Marmara came to Istanbul as a teenager because he had problems at home. He tells us what itâ€™s like to live on the streets, begging for a living â€“ and how hard it is to escape the poverty trap.</description>
+<description>Ali Åžan Marmara came to Istanbul as a teenager because he had problems at home. He tells us what itâ€™s like to live on the streets, begging for a living â€“ and how hard it is to escape the poverty trap.</description>
 <category>Vertical</category>
 <keywords>DWVC,Turkey, Istanbul, Homelessness, Poverty, Social inequality, Begging, Youth, Vulnerability, Marginalization, Human rights</keywords>
 
@@ -98,91 +183,6 @@
   <media:keywords type="plain">DWVC,Germany, Ukraine, Russia, war, tanks, international law</media:keywords>
   <media:credit>DW (Deutsche Welle)</media:credit>
   <media:thumbnail url="https://newsinwaves.b-cdn.net/WarParty_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310068</guid>
-<pubDate>2023-03-14T12:25:56Z</pubDate>
-<title>A safety risk for men? </title>
-<description>In SÃ£o Paulo, nine out of 10 kidnappings happened during a date arranged on Tinder or other dating apps. </description>
-<category>Vertical</category>
-<keywords>DWVC,Brazil, SÃ£o Paulo, Tinder, online dating, safety, kidnapping, men</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/Tinder_INT_DIRTY.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">A safety risk for men? </media:title>
-  <media:keywords type="plain">DWVC,Brazil, SÃ£o Paulo, Tinder, online dating, safety, kidnapping, men</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Tinder_THUMB_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310067</guid>
-<pubDate>2023-03-14T09:25:55Z</pubDate>
-<title>Woman in Tigray lost husband and son to violence  </title>
-<description>This woman in Tigray lost both her husband and son to a massacre. Almost 600,000 lives have been lost in the conflict, before Ethiopian and Tigrayan forces signed a peace deal in November 2022. @DW </description>
-<category>Vertical</category>
-<keywords>DWVC,Tigray, Ethopia, peace, war, massacre, </keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/NEWSENG230309_Tigray_social.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Woman in Tigray lost husband and son to violence  </media:title>
-  <media:keywords type="plain">DWVC,Tigray, Ethopia, peace, war, massacre, </media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Tigray.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310066</guid>
-<pubDate>2023-03-14T09:25:58Z</pubDate>
-<title>Deadly asbestos in Indonesia </title>
-<description>Asbestos is cheap and heat-resistant. It was used widely in building materials all around the world. Today, it is banned in over 70 countries, including all EU member states. But the carcinogenic material is still widely used in developing countries. </description>
-<category>Vertical</category>
-<keywords>DWVC,Indonesia, Asbestos, EU ban, developing countries</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_QAsbestos_vertical.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Deadly asbestos in Indonesia </media:title>
-  <media:keywords type="plain">DWVC,Indonesia, Asbestos, EU ban, developing countries</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_QAsbestos_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310065</guid>
-<pubDate>2023-03-10T15:25:56Z</pubDate>
-<title>Extensive reconstruction of Bucha in motion</title>
-<description>Bucha, made famous around the world for the atrocities Russian troops carried out there. The main road was strewn with bodies when the Russians leftâ€¯- and the houses were also partially destroyed by artillery. Now work is underway to repair the houses and turn Bucha back into a livable community. </description>
-<category>Vertical</category>
-<keywords>DWVC,Ukraine, Bucha, Russia, war, reconstruction, housing</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_QHouse_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Extensive reconstruction of Bucha in motion</media:title>
-  <media:keywords type="plain">DWVC,Ukraine, Bucha, Russia, war, reconstruction, housing</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Bucha_reconstruction.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310064</guid>
-<pubDate>2023-03-10T15:25:57Z</pubDate>
-<title>Jehovah's Witness hall shooting in Hamburg</title>
-<description>Police officials said the perpetrator and the victims were all German citizens. The gunman killed himself, and an unborn baby as well as seven others were pronounced dead.</description>
-<category>Vertical</category>
-<keywords>DWVC,Germany, Hamburg, Shooting, Jehovah's Witness</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_HamburgShooting_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Jehovah's Witness hall shooting in Hamburg</media:title>
-  <media:keywords type="plain">DWVC,Germany, Hamburg, Shooting, Jehovah's Witness</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Hamburg_Shooter_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
 </media:content>
 
 </item>
