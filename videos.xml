@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/17/2023 9:26:02 AM</pubDate>
+<pubDate>3/20/2023 12:54:31 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -18,6 +18,51 @@
 <ttl>30</ttl>
 
 <item>
+<guid isPermaLink="false">DWV2310081</guid>
+<pubDate>2023-03-20T12:25:54Z</pubDate>
+<title>Solar tiles could help Germany's transition to solar power</title>
+<description>A startup from Prenzlau, Germany, is seeking to disrupt the solar panels market with new tiles that can be installed on roofs to generate power.</description>
+<category>Vertical</category>
+<keywords>DWVC,startup, Germany, solar panels, tiles, roof, power generation, renewable energy, innovation, disruption, climate change, business, green energy</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/Solarziegel_Vertical_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/Solarziegel_Vertical_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Solar tiles could help Germany's transition to solar power</media:title>
+<media:keywords type="plain">DWVC,startup, Germany, solar panels, tiles, roof, power generation, renewable energy, innovation, disruption, climate change, business, green energy</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310080</guid>
+<pubDate>2023-03-20T12:25:55Z</pubDate>
+<title>Holiday rentals push people to the suburbs</title>
+<description>Tenants in Buenos Aires are calling for the regulation of tourist rentals, which affect 20,000 homes and make it more expensive for them to rent them out. Landlords who rent to travelers are opposed and argue that they are making a living. The Argentine capital does not regulate such properties, as do Berlin, Paris, Barcelona, and New York.</description>
+<category>Vertical</category>
+<keywords>DWVC,tenants, Buenos Aires, regulation, tourist rentals, homes, rent, landlords, travelers, Argentina, living</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WVAirbnb_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WVAirbnb_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Holiday rentals push people to the suburbs</media:title>
+<media:keywords type="plain">DWVC,tenants, Buenos Aires, regulation, tourist rentals, homes, rent, landlords, travelers, Argentina, living</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310079</guid>
+<pubDate>2023-03-17T15:25:54Z</pubDate>
+<title>Three things you need to know about the global banking system</title>
+<description>Is the global banking system about to collapse? Here are three things you need to know.</description>
+<category>Vertical</category>
+<keywords>DWVC,Banks, Banking System, collapse, Silicon Valley Bank, Credit Suisse, economy, business</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_ReelShakeybanks_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_ReelShakeybanks_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Three things you need to know about the global banking system</media:title>
+<media:keywords type="plain">DWVC,Banks, Banking System, collapse, Silicon Valley Bank, Credit Suisse, economy, business</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
 <guid isPermaLink="false">DWV2310078</guid>
 <pubDate>2023-03-17T09:25:56Z</pubDate>
 <title>Why are researchers so excited about Mars? </title>
@@ -25,13 +70,11 @@
 <category>Vertical</category>
 <keywords>DWVC,Mars, science, research, universe, earth, </keywords>
 
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_MoonMars_REEL_ENG_1.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Why are researchers so excited about Mars? </media:title>
-  <media:keywords type="plain">DWVC,Mars, science, research, universe, earth, </media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumb_Mars.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_MoonMars_REEL_ENG_1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/Thumb_Mars.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Why are researchers so excited about Mars? </media:title>
+<media:keywords type="plain">DWVC,Mars, science, research, universe, earth, </media:keywords>
+<media:credit>DW</media:credit>
 </item>
 
 <item>
@@ -42,47 +85,41 @@
 <category>Vertical</category>
 <keywords>DWVC,Belgium, freight ship, technology, phantom captains</keywords>
 
-<media:content url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">A ship without captain on board </media:title>
-  <media:keywords type="plain">DWVC,Belgium, freight ship, technology, phantom captains</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
+<enclosure url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">A ship without captain on board </media:title>
+<media:keywords type="plain">DWVC,Belgium, freight ship, technology, phantom captains</media:keywords>
+<media:credit>DW</media:credit>
 </item>
 
 <item>
 <guid isPermaLink="false">DWV2310076</guid>
 <pubDate>2023-03-17T09:25:57Z</pubDate>
-<title>Behind the EU's TikTok ban </title>
-<description>The European Parliament will become the latest EU body to ban TikTok from staff devices citing cybersecurity and data protection concerns. Is this popular video sharing app, owned by China's ByteDance, really that dangerous? @DW </description>
+<title>Behind the EUâ€™s TikTok ban </title>
+<description>The European Parliament will become the latest EU body to ban TikTok from staff devices citing cybersecurity and data protection concerns. Is this popular video sharing app, owned by Chinaâ€™s ByteDance, really that dangerous? @DW </description>
 <category>Vertical</category>
 <keywords>DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</keywords>
 
-<media:content url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Behind the EU's TikTok ban </media:title>
-  <media:keywords type="plain">DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
+<enclosure url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Behind the EUâ€™s TikTok ban </media:title>
+<media:keywords type="plain">DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</media:keywords>
+<media:credit>DW</media:credit>
 </item>
 
 <item>
 <guid isPermaLink="false">DWV2310075</guid>
 <pubDate>2023-03-17T09:25:58Z</pubDate>
-<title>ChatGPT is evolving: Here's what's new!  </title>
+<title>ChatGPT is evolving â€“ Here's what's new!  </title>
 <description>ChatGPT just got even smarter. As well as text, the new AI-model handles images too. </description>
 <category>Vertical</category>
 <keywords>DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </keywords>
 
-<media:content url="https://newsinwaves.b-cdn.net/SHIE_GPT4_REEL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">ChatGPT is evolving: Here's what's new!  </media:title>
-  <media:keywords type="plain">DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/Thumbnail_GPT4_REEL_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
+<enclosure url="https://newsinwaves.b-cdn.net/SHIE_GPT4_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/Thumbnail_GPT4_REEL_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">ChatGPT is evolving â€“ Here's what's new!  </media:title>
+<media:keywords type="plain">DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </media:keywords>
+<media:credit>DW</media:credit>
 </item>
 
 <item>
@@ -93,30 +130,26 @@
 <category>Vertical</category>
 <keywords>DWVC,Italy, Pompeii, sheep, ruins, ancient city</keywords>
 
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Sheep take over Pompeii </media:title>
-  <media:keywords type="plain">DWVC,Italy, Pompeii, sheep, ruins, ancient city</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Sheep take over Pompeii </media:title>
+<media:keywords type="plain">DWVC,Italy, Pompeii, sheep, ruins, ancient city</media:keywords>
+<media:credit>DW</media:credit>
 </item>
 
 <item>
 <guid isPermaLink="false">DWV2310073</guid>
 <pubDate>2023-03-15T12:52:43Z</pubDate>
 <title>India's women wrestlers defy traditional roles</title>
-<description>The success of India's female wresters - at home and abroad - has inspired more young women in the country to take up the sport. @DW</description>
+<description>The success of India's female wresters â€“ at home and abroad â€“ has inspired more young women in the country to take up the sport. @DW</description>
 <category>Vertical</category>
 <keywords>DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</keywords>
 
-<media:content url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">India's women wrestlers defy traditional roles</media:title>
-  <media:keywords type="plain">DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">India's women wrestlers defy traditional roles</media:title>
+<media:keywords type="plain">DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</media:keywords>
+<media:credit>DW</media:credit>
 </item>
 
 <item>
@@ -127,64 +160,11 @@
 <category>Vertical</category>
 <keywords>DWVC,war, Ethiopia, Tigray, conflict, violence, UN investigation, rape, ceasefire, atrocities, human rights</keywords>
 
-<media:content url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Rape used as a weapon in the Tigray conflict</media:title>
-  <media:keywords type="plain">DWVC,war, Ethiopia, Tigray, conflict, violence, UN investigation, rape, ceasefire, atrocities, human rights</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310071</guid>
-<pubDate>2023-03-15T12:52:45Z</pubDate>
-<title>Is Snapchat helping predators?</title>
-<description>Snapchat integrated ChatGPTÂ and created the AI-chatbot â€œMy AIâ€. When a tech entrepreneur registered as a 13-year-old girl, the chatbot supported her plan to go on vacation with a 31-year-old man she just met. But why?</description>
-<category>Vertical</category>
-<keywords>DWVC,Snapchat, ChatGPT, AI, chatbot, tech entrepreneurship, online safety, child protection, social media, privacy concerns, ethical considerations</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/SHIE_Snap_MyAI_REEL.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Is Snapchat helping predators?</media:title>
-  <media:keywords type="plain">DWVC,Snapchat, ChatGPT, AI, chatbot, tech entrepreneurship, online safety, child protection, social media, privacy concerns, ethical considerations</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/SHIE_Snap_MyAI_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310070</guid>
-<pubDate>2023-03-15T12:52:45Z</pubDate>
-<title>Begging for a living in Istanbul</title>
-<description>Ali Åžan Marmara came to Istanbul as a teenager because he had problems at home. He tells us what itâ€™s like to live on the streets, begging for a living â€“ and how hard it is to escape the poverty trap.</description>
-<category>Vertical</category>
-<keywords>DWVC,Turkey, Istanbul, Homelessness, Poverty, Social inequality, Begging, Youth, Vulnerability, Marginalization, Human rights</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/90ReelBeggar.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Begging for a living in Istanbul</media:title>
-  <media:keywords type="plain">DWVC,Turkey, Istanbul, Homelessness, Poverty, Social inequality, Begging, Youth, Vulnerability, Marginalization, Human rights</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/90ReelBeggar.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310069</guid>
-<pubDate>2023-03-14T12:25:55Z</pubDate>
-<title>Delivery of heavy weapons: Is Germany now a party to the war in Ukraine?</title>
-<description>Germanyâ€™s decision to deliver tanks to Ukraine drew criticism from Russia and speculation about whether this step could make Germany a party to the conflict. In international law, there is a simple answer to that question.</description>
-<category>Vertical</category>
-<keywords>DWVC,Germany, Ukraine, Russia, war, tanks, international law</keywords>
-
-<media:content url="https://newsinwaves.b-cdn.net/WarParty_Dirty.mp4" type="video/mp4" lang="en" medium="video">
-  <media:title type="plain">Delivery of heavy weapons: Is Germany now a party to the war in Ukraine?</media:title>
-  <media:keywords type="plain">DWVC,Germany, Ukraine, Russia, war, tanks, international law</media:keywords>
-  <media:credit>DW (Deutsche Welle)</media:credit>
-  <media:thumbnail url="https://newsinwaves.b-cdn.net/WarParty_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-</media:content>
-
+<enclosure url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Rape used as a weapon in the Tigray conflict</media:title>
+<media:keywords type="plain">DWVC,war, Ethiopia, Tigray, conflict, violence, UN investigation, rape, ceasefire, atrocities, human rights</media:keywords>
+<media:credit>DW</media:credit>
 </item>
 
 </channel>
