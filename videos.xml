@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/20/2023 12:54:31 PM</pubDate>
+<pubDate>3/20/2023 3:25:57 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310082</guid>
+<pubDate>2023-03-20T15:25:54Z</pubDate>
+<title>Deadly earthquake jolts Ecuador and Peru</title>
+<description>A powerful earthquake hit southern Ecuador and northern Peru on March 18, killing at least 15 people and leaving hundreds injured. There were destroyed buildings, crushed vehicles and debris seen in the streets of several cities.</description>
+<category>Vertical</category>
+<keywords>DWVC,earthquake, Ecuador, Peru, natural disaster, death, injury, destroyed buildings, debris</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/dwpe_EcuadorPeruQuake.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/dwpe_EcuadorPeruQuake.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Deadly earthquake jolts Ecuador and Peru</media:title>
+<media:keywords type="plain">DWVC,earthquake, Ecuador, Peru, natural disaster, death, injury, destroyed buildings, debris</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310081</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">India's women wrestlers defy traditional roles</media:title>
 <media:keywords type="plain">DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310072</guid>
-<pubDate>2023-03-15T12:52:44Z</pubDate>
-<title>Rape used as a weapon in the Tigray conflict</title>
-<description>The war in northern Ethiopia ranks among the deadliest conflicts in recent times. UN investigators say rape was also used as a weapon of war. With a ceasefire agreed, more and more stories of atrocities are emerging. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,war, Ethiopia, Tigray, conflict, violence, UN investigation, rape, ceasefire, atrocities, human rights</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/dwpe_rape_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Rape used as a weapon in the Tigray conflict</media:title>
-<media:keywords type="plain">DWVC,war, Ethiopia, Tigray, conflict, violence, UN investigation, rape, ceasefire, atrocities, human rights</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
