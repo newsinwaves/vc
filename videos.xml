@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/20/2023 3:25:57 PM</pubDate>
+<pubDate>3/22/2023 9:25:58 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,36 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310084</guid>
+<pubDate>2023-03-22T09:25:55Z</pubDate>
+<title>Mice with two biological dads </title>
+<description>Japanese scientists say they have created mice with two biological fathers, by turning male mouse skin cells into female egg cells. This technology is still very new. But in the future, it could lead to whole new possibilities in reproductive medicine. </description>
+<category>Vertical</category>
+<keywords>DWVC,Science, Japan, mice, technology, reproductive medicine</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QMice.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QMice.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Mice with two biological dads </media:title>
+<media:keywords type="plain">DWVC,Science, Japan, mice, technology, reproductive medicine</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310083</guid>
+<pubDate>2023-03-22T09:25:55Z</pubDate>
+<title>Are you scared of getting Alzheimer's? AI might be able to help!  </title>
+<description>Alzheimer's is still untreatable, but early detection can slow it down. US researchers used AI to discover a predisposition for the disease during routine checks.</description>
+<category>Vertical</category>
+<keywords>DWVC,Alzheimer's disease, Artificial Intelligence, Technology, Science, US research, early detection</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/SHIE_AI_detects_Alzheimers_TTN_REEL_Premium.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/AI_Alzheimers_thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Are you scared of getting Alzheimer's? AI might be able to help!  </media:title>
+<media:keywords type="plain">DWVC,Alzheimer's disease, Artificial Intelligence, Technology, Science, US research, early detection</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310082</guid>
@@ -110,14 +140,14 @@
 <item>
 <guid isPermaLink="false">DWV2310076</guid>
 <pubDate>2023-03-17T09:25:57Z</pubDate>
-<title>Behind the EUâ€™s TikTok ban </title>
-<description>The European Parliament will become the latest EU body to ban TikTok from staff devices citing cybersecurity and data protection concerns. Is this popular video sharing app, owned by Chinaâ€™s ByteDance, really that dangerous? @DW </description>
+<title>Behind the EU's TikTok ban </title>
+<description>The European Parliament will become the latest EU body to ban TikTok from staff devices citing cybersecurity and data protection concerns. Is this popular video sharing app, owned by China's ByteDance, really that dangerous? @DW </description>
 <category>Vertical</category>
 <keywords>DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</keywords>
 
 <enclosure url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.mp4" type="video/mp4" lang="en" medium="video"/>
 <enclosure url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Behind the EUâ€™s TikTok ban </media:title>
+<media:title type="plain">Behind the EU's TikTok ban </media:title>
 <media:keywords type="plain">DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</media:keywords>
 <media:credit>DW</media:credit>
 </item>
@@ -134,36 +164,6 @@
 <enclosure url="https://newsinwaves.b-cdn.net/Thumbnail_GPT4_REEL_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">ChatGPT is evolving â€“ Here's what's new!  </media:title>
 <media:keywords type="plain">DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310074</guid>
-<pubDate>2023-03-17T09:25:58Z</pubDate>
-<title>Sheep take over Pompeii </title>
-<description>A flock of sheep is eating away grass that threatens the ruins in the ancient city of Pompeii.</description>
-<category>Vertical</category>
-<keywords>DWVC,Italy, Pompeii, sheep, ruins, ancient city</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_SheepPompeii_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Sheep take over Pompeii </media:title>
-<media:keywords type="plain">DWVC,Italy, Pompeii, sheep, ruins, ancient city</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310073</guid>
-<pubDate>2023-03-15T12:52:43Z</pubDate>
-<title>India's women wrestlers defy traditional roles</title>
-<description>The success of India's female wresters â€“ at home and abroad â€“ has inspired more young women in the country to take up the sport. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_Wrestle_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">India's women wrestlers defy traditional roles</media:title>
-<media:keywords type="plain">DWVC,India, women, wrestling, sports, female athletes, inspiration, gender equality, empowerment, cultural change, athletic achievement, Phogat sisters</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
