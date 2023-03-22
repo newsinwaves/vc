@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/22/2023 9:25:58 AM</pubDate>
+<pubDate>3/22/2023 3:26:01 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310087</guid>
+<pubDate>2023-03-22T15:25:56Z</pubDate>
+<title>IPCC Report sounds alarming but offers hope</title>
+<description>The lastest IPCC report is a stark reminder that time is running out to change course. But it also confirms that tools are available to limit global warming and effects of climate change.</description>
+<category>Vertical</category>
+<keywords>DWVC,IPCC Report, Climate Change, Global Warming, Environment</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_IPCC_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_IPCC_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">IPCC Report sounds alarming but offers hope</media:title>
+<media:keywords type="plain">DWVC,IPCC Report, Climate Change, Global Warming, Environment</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310086</guid>
+<pubDate>2023-03-22T15:25:56Z</pubDate>
+<title>Syria's school system devastated by quake</title>
+<description>60 out of 86 schools in the region hit by the February 6 earthquake sustained damage. With no concrete repair plans by the international community, repair efforts are severely limited - and the situation is disastrous for Syria's schoolchildren.</description>
+<category>Vertical</category>
+<keywords>DWVC,Syria, school, education, earthquake, UNICEF, student</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QSchool_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QSchool_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Syria's school system devastated by quake</media:title>
+<media:keywords type="plain">DWVC,Syria, school, education, earthquake, UNICEF, student</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310085</guid>
+<pubDate>2023-03-22T12:25:55Z</pubDate>
+<title>Clean energy: the global race for raw materials</title>
+<description>Europe's green energy transition is dependent on China's supply of the raw materials needed to power wind turbines, electric cars and other green technologies. @DW </description>
+<category>Vertical</category>
+<keywords>DWVC,Clean energy, EU, China, raw materials, Lithium, green technology, electric cars, environment</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WiRMA_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WiRMA_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Clean energy: the global race for raw materials</media:title>
+<media:keywords type="plain">DWVC,Clean energy, EU, China, raw materials, Lithium, green technology, electric cars, environment</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310084</guid>
@@ -119,51 +164,6 @@
 <enclosure url="https://newsinwaves.b-cdn.net/Thumb_Mars.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Why are researchers so excited about Mars? </media:title>
 <media:keywords type="plain">DWVC,Mars, science, research, universe, earth, </media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310077</guid>
-<pubDate>2023-03-17T09:25:56Z</pubDate>
-<title>A ship without captain on board </title>
-<description>In Belgium, some freight ships deliver goods steered by phantom captains that sit hundreds of kilometers away.</description>
-<category>Vertical</category>
-<keywords>DWVC,Belgium, freight ship, technology, phantom captains</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/WIShips_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">A ship without captain on board </media:title>
-<media:keywords type="plain">DWVC,Belgium, freight ship, technology, phantom captains</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310076</guid>
-<pubDate>2023-03-17T09:25:57Z</pubDate>
-<title>Behind the EU's TikTok ban </title>
-<description>The European Parliament will become the latest EU body to ban TikTok from staff devices citing cybersecurity and data protection concerns. Is this popular video sharing app, owned by China's ByteDance, really that dangerous? @DW </description>
-<category>Vertical</category>
-<keywords>DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/ReelEUTikTok_1.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Behind the EU's TikTok ban </media:title>
-<media:keywords type="plain">DWVC,Europe, EU, TikTok, Ban, ByteDance, Technology, China</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310075</guid>
-<pubDate>2023-03-17T09:25:58Z</pubDate>
-<title>ChatGPT is evolving â€“ Here's what's new!  </title>
-<description>ChatGPT just got even smarter. As well as text, the new AI-model handles images too. </description>
-<category>Vertical</category>
-<keywords>DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/SHIE_GPT4_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/Thumbnail_GPT4_REEL_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">ChatGPT is evolving â€“ Here's what's new!  </media:title>
-<media:keywords type="plain">DWVC,ai, artificial intelligence, chatgpt, openai, microsoft, generative, coding, programming </media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
