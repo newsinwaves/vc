@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/23/2023 9:25:58 AM</pubDate>
+<pubDate>3/23/2023 3:37:23 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310091</guid>
+<pubDate>2023-03-23T15:37:17Z</pubDate>
+<title>Uganda's new anti-gay law</title>
+<description>10 years in prison for identifying as LGBTQ, five for promoting homosexuality â€” Uganda's parliament has passed tough new penalties for same-sex relations. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/UgandaGayBill_Short.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/UgandaGayBill_Short.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Uganda's new anti-gay law</media:title>
+<media:keywords type="plain">DWVC,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310090</guid>
+<pubDate>2023-03-23T15:37:19Z</pubDate>
+<title>India's first transgender parents</title>
+<description>A couple in Kerala, Ziya and Zahad, have given the transgender community new hope.  In order to give birth to a child, Zahad had temporarily stopped his transition and became pregnant and now this couple are parents to a child.  This is accepted practice elsewhere in the world but it is believed to be unprecedented in India.</description>
+<category>Vertical</category>
+<keywords>DWVC,India, transgender, parents, LGTBQI+, Kerala, child</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/Transgender Parents_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/Thumb_TransgenderParents_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">India's first transgender parents</media:title>
+<media:keywords type="plain">DWVC,India, transgender, parents, LGTBQI+, Kerala, child</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310089</guid>
+<pubDate>2023-03-23T15:37:20Z</pubDate>
+<title>Brazil stops Amazon drilling </title>
+<description>Brazil's oil company, Petrobras, is one of the largest in the world, and they have their sights set on the Amazon. But the new government is delaying the plans.</description>
+<category>Vertical</category>
+<keywords>DWVC,Brazil, amazon, oil drilling, government, President Lula, Petrobas</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Brazil stops Amazon drilling </media:title>
+<media:keywords type="plain">DWVC,Brazil, amazon, oil drilling, government, President Lula, Petrobas</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310088</guid>
@@ -66,7 +111,7 @@
 <guid isPermaLink="false">DWV2310085</guid>
 <pubDate>2023-03-22T12:25:55Z</pubDate>
 <title>Clean energy: the global race for raw materials</title>
-<description>Europe's green energy transition is dependent on China's supply of the raw materials needed to power wind turbines, electric cars and other green technologies. @DW </description>
+<description>Europe's green energy transition is dependent on China's supply of the raw materials needed to power wind turbines, electric cars and other green technologies.</description>
 <category>Vertical</category>
 <keywords>DWVC,Clean energy, EU, China, raw materials, Lithium, green technology, electric cars, environment</keywords>
 
@@ -119,51 +164,6 @@
 <enclosure url="https://newsinwaves.b-cdn.net/dwpe_EcuadorPeruQuake.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Deadly earthquake jolts Ecuador and Peru</media:title>
 <media:keywords type="plain">DWVC,earthquake, Ecuador, Peru, natural disaster, death, injury, destroyed buildings, debris</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310081</guid>
-<pubDate>2023-03-20T12:25:54Z</pubDate>
-<title>Solar tiles could help Germany's transition to solar power</title>
-<description>A startup from Prenzlau, Germany, is seeking to disrupt the solar panels market with new tiles that can be installed on roofs to generate power.</description>
-<category>Vertical</category>
-<keywords>DWVC,startup, Germany, solar panels, tiles, roof, power generation, renewable energy, innovation, disruption, climate change, business, green energy</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/Solarziegel_Vertical_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/Solarziegel_Vertical_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Solar tiles could help Germany's transition to solar power</media:title>
-<media:keywords type="plain">DWVC,startup, Germany, solar panels, tiles, roof, power generation, renewable energy, innovation, disruption, climate change, business, green energy</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310080</guid>
-<pubDate>2023-03-20T12:25:55Z</pubDate>
-<title>Holiday rentals push people to the suburbs</title>
-<description>Tenants in Buenos Aires are calling for the regulation of tourist rentals, which affect 20,000 homes and make it more expensive for them to rent them out. Landlords who rent to travelers are opposed and argue that they are making a living. The Argentine capital does not regulate such properties, as do Berlin, Paris, Barcelona, and New York.</description>
-<category>Vertical</category>
-<keywords>DWVC,tenants, Buenos Aires, regulation, tourist rentals, homes, rent, landlords, travelers, Argentina, living</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WVAirbnb_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WVAirbnb_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Holiday rentals push people to the suburbs</media:title>
-<media:keywords type="plain">DWVC,tenants, Buenos Aires, regulation, tourist rentals, homes, rent, landlords, travelers, Argentina, living</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310079</guid>
-<pubDate>2023-03-17T15:25:54Z</pubDate>
-<title>Three things you need to know about the global banking system</title>
-<description>Is the global banking system about to collapse? Here are three things you need to know.</description>
-<category>Vertical</category>
-<keywords>DWVC,Banks, Banking System, collapse, Silicon Valley Bank, Credit Suisse, economy, business</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_ReelShakeybanks_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_ReelShakeybanks_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Three things you need to know about the global banking system</media:title>
-<media:keywords type="plain">DWVC,Banks, Banking System, collapse, Silicon Valley Bank, Credit Suisse, economy, business</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
