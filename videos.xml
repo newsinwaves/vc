@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/22/2023 3:26:01 PM</pubDate>
+<pubDate>3/23/2023 9:25:58 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310088</guid>
+<pubDate>2023-03-23T09:25:54Z</pubDate>
+<title>Italy migrant boat disaster causes outrage</title>
+<description>A deadly shipwreck off the coast of Italy is raising questions about the future of European migration and asylum policy.</description>
+<category>Vertical</category>
+<keywords>DWVC,boat, migrant, European migration, italy, disaster</keywords>
+
+<enclosure url="https://newsinwaves.b-cdn.net/dwpe_MigrantBoatDisaster_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://newsinwaves.b-cdn.net/dwpe_MigrantBoatDisaster_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Italy migrant boat disaster causes outrage</media:title>
+<media:keywords type="plain">DWVC,boat, migrant, European migration, italy, disaster</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310087</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://newsinwaves.b-cdn.net/DWPE_ReelShakeybanks_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Three things you need to know about the global banking system</media:title>
 <media:keywords type="plain">DWVC,Banks, Banking System, collapse, Silicon Valley Bank, Credit Suisse, economy, business</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310078</guid>
-<pubDate>2023-03-17T09:25:56Z</pubDate>
-<title>Why are researchers so excited about Mars? </title>
-<description>Mars is more than 56 million kilometers from Earth. It is only 384,400 km to the moon. Why is research still more interested in Mars? @DW </description>
-<category>Vertical</category>
-<keywords>DWVC,Mars, science, research, universe, earth, </keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_MoonMars_REEL_ENG_1.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/Thumb_Mars.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Why are researchers so excited about Mars? </media:title>
-<media:keywords type="plain">DWVC,Mars, science, research, universe, earth, </media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
