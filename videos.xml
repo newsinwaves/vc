@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/23/2023 3:37:23 PM</pubDate>
+<pubDate>3/24/2023 9:55:06 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -18,6 +18,21 @@
 <ttl>30</ttl>
 
 <item>
+<guid isPermaLink="false">DWV2310092</guid>
+<pubDate>2023-03-24T09:54:59Z</pubDate>
+<title>Nigeriaâ€™s teen tech wonder</title>
+<description>Joshua Agboola has been programming since he was 6 and today, as a teenager, even teaches other kids to code. The tech prodigy not only spreads knowledge, but also protects others: One of Joshuas's focuses is on how to protect children from malicious content online.</description>
+<category>Vertical</category>
+<keywords>DWVC,Nigeria, Africa, early programming, child programmer, coding education, youth mentorship, tech prodigy, knowledge sharing, child safety online, internet safety, cybersecurity, online protection</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_nigerian_tech_kid_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_nigerian_tech_kid_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Nigeriaâ€™s teen tech wonder</media:title>
+<media:keywords type="plain">DWVC,Nigeria, Africa, early programming, child programmer, coding education, youth mentorship, tech prodigy, knowledge sharing, child safety online, internet safety, cybersecurity, online protection</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
 <guid isPermaLink="false">DWV2310091</guid>
 <pubDate>2023-03-23T15:37:17Z</pubDate>
 <title>Uganda's new anti-gay law</title>
@@ -25,8 +40,8 @@
 <category>Vertical</category>
 <keywords>DWVC,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/UgandaGayBill_Short.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/UgandaGayBill_Short.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/UgandaGayBill_Short.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/UgandaGayBill_Short.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Uganda's new anti-gay law</media:title>
 <media:keywords type="plain">DWVC,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</media:keywords>
 <media:credit>DW</media:credit>
@@ -40,8 +55,8 @@
 <category>Vertical</category>
 <keywords>DWVC,India, transgender, parents, LGTBQI+, Kerala, child</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/Transgender Parents_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/Thumb_TransgenderParents_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/Transgender Parents_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/Thumb_TransgenderParents_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">India's first transgender parents</media:title>
 <media:keywords type="plain">DWVC,India, transgender, parents, LGTBQI+, Kerala, child</media:keywords>
 <media:credit>DW</media:credit>
@@ -55,8 +70,8 @@
 <category>Vertical</category>
 <keywords>DWVC,Brazil, amazon, oil drilling, government, President Lula, Petrobas</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Brazil stops Amazon drilling </media:title>
 <media:keywords type="plain">DWVC,Brazil, amazon, oil drilling, government, President Lula, Petrobas</media:keywords>
 <media:credit>DW</media:credit>
@@ -70,8 +85,8 @@
 <category>Vertical</category>
 <keywords>DWVC,boat, migrant, European migration, italy, disaster</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/dwpe_MigrantBoatDisaster_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/dwpe_MigrantBoatDisaster_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/dwpe_MigrantBoatDisaster_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/dwpe_MigrantBoatDisaster_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Italy migrant boat disaster causes outrage</media:title>
 <media:keywords type="plain">DWVC,boat, migrant, European migration, italy, disaster</media:keywords>
 <media:credit>DW</media:credit>
@@ -85,8 +100,8 @@
 <category>Vertical</category>
 <keywords>DWVC,IPCC Report, Climate Change, Global Warming, Environment</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_IPCC_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_IPCC_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_IPCC_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_IPCC_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">IPCC Report sounds alarming but offers hope</media:title>
 <media:keywords type="plain">DWVC,IPCC Report, Climate Change, Global Warming, Environment</media:keywords>
 <media:credit>DW</media:credit>
@@ -96,12 +111,12 @@
 <guid isPermaLink="false">DWV2310086</guid>
 <pubDate>2023-03-22T15:25:56Z</pubDate>
 <title>Syria's school system devastated by quake</title>
-<description>60 out of 86 schools in the region hit by the February 6 earthquake sustained damage. With no concrete repair plans by the international community, repair efforts are severely limited - and the situation is disastrous for Syria's schoolchildren.</description>
+<description>60 out of 86 schools in the region hit by the February 6 earthquake sustained damage. With no concrete repair plans by the international community, repair efforts are severely limited Ã¢â‚¬â€ and the situation is disastrous for Syria's schoolchildren.</description>
 <category>Vertical</category>
 <keywords>DWVC,Syria, school, education, earthquake, UNICEF, student</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QSchool_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QSchool_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_QSchool_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_QSchool_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Syria's school system devastated by quake</media:title>
 <media:keywords type="plain">DWVC,Syria, school, education, earthquake, UNICEF, student</media:keywords>
 <media:credit>DW</media:credit>
@@ -115,8 +130,8 @@
 <category>Vertical</category>
 <keywords>DWVC,Clean energy, EU, China, raw materials, Lithium, green technology, electric cars, environment</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WiRMA_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_WiRMA_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_WiRMA_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_WiRMA_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Clean energy: the global race for raw materials</media:title>
 <media:keywords type="plain">DWVC,Clean energy, EU, China, raw materials, Lithium, green technology, electric cars, environment</media:keywords>
 <media:credit>DW</media:credit>
@@ -130,8 +145,8 @@
 <category>Vertical</category>
 <keywords>DWVC,Science, Japan, mice, technology, reproductive medicine</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QMice.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/DWPE_QMice.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_QMice.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_QMice.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Mice with two biological dads </media:title>
 <media:keywords type="plain">DWVC,Science, Japan, mice, technology, reproductive medicine</media:keywords>
 <media:credit>DW</media:credit>
@@ -145,25 +160,10 @@
 <category>Vertical</category>
 <keywords>DWVC,Alzheimer's disease, Artificial Intelligence, Technology, Science, US research, early detection</keywords>
 
-<enclosure url="https://newsinwaves.b-cdn.net/SHIE_AI_detects_Alzheimers_TTN_REEL_Premium.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/AI_Alzheimers_thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/SHIE_AI_detects_Alzheimers_TTN_REEL_Premium.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/AI_Alzheimers_thumb.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Are you scared of getting Alzheimer's? AI might be able to help!  </media:title>
 <media:keywords type="plain">DWVC,Alzheimer's disease, Artificial Intelligence, Technology, Science, US research, early detection</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310082</guid>
-<pubDate>2023-03-20T15:25:54Z</pubDate>
-<title>Deadly earthquake jolts Ecuador and Peru</title>
-<description>A powerful earthquake hit southern Ecuador and northern Peru on March 18, killing at least 15 people and leaving hundreds injured. There were destroyed buildings, crushed vehicles and debris seen in the streets of several cities.</description>
-<category>Vertical</category>
-<keywords>DWVC,earthquake, Ecuador, Peru, natural disaster, death, injury, destroyed buildings, debris</keywords>
-
-<enclosure url="https://newsinwaves.b-cdn.net/dwpe_EcuadorPeruQuake.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://newsinwaves.b-cdn.net/dwpe_EcuadorPeruQuake.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Deadly earthquake jolts Ecuador and Peru</media:title>
-<media:keywords type="plain">DWVC,earthquake, Ecuador, Peru, natural disaster, death, injury, destroyed buildings, debris</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
