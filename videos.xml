@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/24/2023 3:28:57 PM</pubDate>
+<pubDate>3/27/2023 11:25:59 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV2310097</guid>
+<pubDate>2023-03-27T11:25:54Z</pubDate>
+<title>Peace singers of Cyprus</title>
+<description>A Greek-Turkish peace choir wants to overcome the divisions in Cyprus. The two parts of the island have a long history of conflict. The choir singers only wish for peace and reunification.</description>
+<category>Vertical</category>
+<keywords>DWVC,Cyprus, Turkey, Cyprus conflict, peace initiative, choir, peacebuilding, reunification</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_FOED_230323_WVCyprusChoir_1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_FOED_230323_WVCyprusChoir_1.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Peace singers of Cyprus</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Cyprus, Turkey, Cyprus conflict, peace initiative, choir, peacebuilding, reunification</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310096</guid>
+<pubDate>2023-03-27T11:25:55Z</pubDate>
+<title>'Biggest strike in decades' brings Germany to a standstill</title>
+<description>Public sector strikes focused mainly on public transport halted the vast majority of buses, trains and planes in Germany on Monday. The 24-hour action began at midnight. It's part of a long-running dispute over pay and the soaring cost of living.</description>
+<category>Vertical</category>
+<keywords>DWVC,Germany, strike, public transport, public sector, pay dispute, union, wages, rate, cost of living, inflation</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_GermanyTransportStrike.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_GermanyTransportStrike.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">â€˜Biggest strike in decadesâ€™ brings Germany to a standstill</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, strike, public transport, public sector, pay dispute, union, wages, rate, cost of living, inflation</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310095</guid>
+<pubDate>2023-03-27T11:25:55Z</pubDate>
+<title>Tornado: Rolling Fork wiped out</title>
+<description>Tornado damage in Rolling Fork, a predominantly Black town of about 2,000 people in Mississippi, has been devastating. A Red Cross official described it as "like a war zone."</description>
+<category>Vertical</category>
+<keywords>DWVC,United States, Mississippi, Rolling Fork, Tornado, catastrophe </keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_TornadoMississippi_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_TornadoMississippi_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Tornado: Rolling Fork wiped out</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,United States, Mississippi, Rolling Fork, Tornado, catastrophe </media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310094</guid>
@@ -50,14 +95,14 @@
 <item>
 <guid isPermaLink="false">DWV2310092</guid>
 <pubDate>2023-03-24T09:54:59Z</pubDate>
-<title>Nigeria's teen tech wonder</title>
+<title>Nigeriaâ€™s teen tech wonder</title>
 <description>Joshua Agboola has been programming since he was 6 and today, as a teenager, even teaches other kids to code. The tech prodigy not only spreads knowledge, but also protects others: One of Joshuas's focuses is on how to protect children from malicious content online.</description>
 <category>Vertical</category>
 <keywords>DWVC,Nigeria, Africa, early programming, child programmer, coding education, youth mentorship, tech prodigy, knowledge sharing, child safety online, internet safety, cybersecurity, online protection</keywords>
 
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_nigerian_tech_kid_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_nigerian_tech_kid_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Nigeria's teen tech wonder</media:title>
+<media:title type="plain">Nigeriaâ€™s teen tech wonder</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Nigeria, Africa, early programming, child programmer, coding education, youth mentorship, tech prodigy, knowledge sharing, child safety online, internet safety, cybersecurity, online protection</media:keywords>
 <media:credit>DW</media:credit>
 </item>
@@ -119,51 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/dwpe_MigrantBoatDisaster_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Italy migrant boat disaster causes outrage</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,boat, migrant, European migration, italy, disaster</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310087</guid>
-<pubDate>2023-03-22T15:25:56Z</pubDate>
-<title>IPCC Report sounds alarming but offers hope</title>
-<description>The lastest IPCC report is a stark reminder that time is running out to change course. But it also confirms that tools are available to limit global warming and effects of climate change.</description>
-<category>Vertical</category>
-<keywords>DWVC,IPCC Report, Climate Change, Global Warming, Environment</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_IPCC_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_IPCC_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">IPCC Report sounds alarming but offers hope</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,IPCC Report, Climate Change, Global Warming, Environment</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310086</guid>
-<pubDate>2023-03-22T15:25:56Z</pubDate>
-<title>Syria's school system devastated by quake</title>
-<description>60 out of 86 schools in the region hit by the February 6 earthquake sustained damage. With no concrete repair plans by the international community, repair efforts are severely limited Ã¢â‚¬â€ and the situation is disastrous for Syria's schoolchildren.</description>
-<category>Vertical</category>
-<keywords>DWVC,Syria, school, education, earthquake, UNICEF, student</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_QSchool_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_QSchool_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Syria's school system devastated by quake</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Syria, school, education, earthquake, UNICEF, student</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310085</guid>
-<pubDate>2023-03-22T12:25:55Z</pubDate>
-<title>Clean energy: the global race for raw materials</title>
-<description>Europe's green energy transition is dependent on China's supply of the raw materials needed to power wind turbines, electric cars and other green technologies.</description>
-<category>Vertical</category>
-<keywords>DWVC,Clean energy, EU, China, raw materials, Lithium, green technology, electric cars, environment</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_WiRMA_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DWPE_WiRMA_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Clean energy: the global race for raw materials</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Clean energy, EU, China, raw materials, Lithium, green technology, electric cars, environment</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
