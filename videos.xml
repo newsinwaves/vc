@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/27/2023 11:25:59 AM</pubDate>
+<pubDate>3/27/2023 3:12:05 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100100</guid>
+<pubDate>2023-03-27T15:12:01Z</pubDate>
+<title>Pakistan's new pink buses aim to make travel safer for women</title>
+<description>Pakistan's Karachi city has added pink public buses to help women feel safe - but the broader structural problem of sexual harassment remains.</description>
+<category>Vertical</category>
+<keywords>DWVC,Pakistan, pink bus, public transport, weomen, sexual harrassment</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_pinkbus_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_pinkbus_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Pakistan's new pink buses aim to make travel safer for women</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Pakistan, pink bus, public transport, weomen, sexual harrassment</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310099</guid>
+<pubDate>2023-03-27T15:12:01Z</pubDate>
+<title>Indian brides abandoned after marriage for their dowry</title>
+<description>Brides in India are getting left empty handed after their weddings. They shell out thousands for the wedding and a dowry just for their would-be husbands to disappear soon after the ceremony. Thousands are looking for help from the government but authorities have few options in tracking and punishing the absentee husbands.</description>
+<category>Vertical</category>
+<keywords>DWVC,India, brides, marriage, dowry, wedding scheme</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/'VCWVEN_IndianBrides_Reel.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/'VCWVEN_IndianBrides_Reel.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Indian brides abandoned after marriage for their dowry</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,India, brides, marriage, dowry, wedding scheme</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV2310098</guid>
+<pubDate>2023-03-27T15:12:02Z</pubDate>
+<title>Bacteria-powered light  </title>
+<description>Go visit Rambouillet in France and you'll find glow worms lighting up advertisements. Authorities there are looking at light from living organisms as a sustainable alternative to artificial lighting. </description>
+<category>Vertical</category>
+<keywords>DWVC,Bioluminesence, light, electricity, bacteria, glowworm, fish, France </keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_NaturalLights.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TN_NaturalLights.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Bacteria-powered light  </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Bioluminesence, light, electricity, bacteria, glowworm, fish, France </media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV2310097</guid>
@@ -35,7 +80,7 @@
 <item>
 <guid isPermaLink="false">DWV2310096</guid>
 <pubDate>2023-03-27T11:25:55Z</pubDate>
-<title>'Biggest strike in decades' brings Germany to a standstill</title>
+<title>"Biggest strike in decades" brings Germany to a standstill</title>
 <description>Public sector strikes focused mainly on public transport halted the vast majority of buses, trains and planes in Germany on Monday. The 24-hour action began at midnight. It's part of a long-running dispute over pay and the soaring cost of living.</description>
 <category>Vertical</category>
 <keywords>DWVC,Germany, strike, public transport, public sector, pay dispute, union, wages, rate, cost of living, inflation</keywords>
@@ -66,7 +111,7 @@
 <guid isPermaLink="false">DWV2310094</guid>
 <pubDate>2023-03-24T15:28:53Z</pubDate>
 <title>Kissing and long-distance? Everything is possible</title>
-<description>A smartphone device that allows people to kissâ€¦remotely. It was inspired by the isolation of couples during Chinaâ€™s COVID-19 lockdowns and itâ€™s dividing opinions on Chinese social media. Do you think itâ€™s hot or gross? @DW</description>
+<description>A smartphone device that allows people to kissâ€¦remotely. It was inspired by the isolation of couples during China's COVID-19 lockdowns and it's dividing opinions on Chinese social media. Do you think it's hot or gross? @DW</description>
 <category>Vertical</category>
 <keywords>DWVC,China, technology, long-distance relationships, COVID-19, remote intimacy, physical distancing, innovation, controversial, romantic, unconventional</keywords>
 
@@ -111,7 +156,7 @@
 <guid isPermaLink="false">DWV2310091</guid>
 <pubDate>2023-03-23T15:37:17Z</pubDate>
 <title>Uganda's new anti-gay law</title>
-<description>10 years in prison for identifying as LGBTQ, five for promoting homosexuality â€” Uganda's parliament has passed tough new penalties for same-sex relations. @DW</description>
+<description>10 years in prison for identifying as LGBTQ, five for promoting homosexuality - Uganda's parliament has passed tough new penalties for same-sex relations. @DW</description>
 <category>Vertical</category>
 <keywords>DWVC,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</keywords>
 
@@ -119,51 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/UgandaGayBill_Short.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Uganda's new anti-gay law</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310090</guid>
-<pubDate>2023-03-23T15:37:19Z</pubDate>
-<title>India's first transgender parents</title>
-<description>A couple in Kerala, Ziya and Zahad, have given the transgender community new hope.  In order to give birth to a child, Zahad had temporarily stopped his transition and became pregnant and now this couple are parents to a child.  This is accepted practice elsewhere in the world but it is believed to be unprecedented in India.</description>
-<category>Vertical</category>
-<keywords>DWVC,India, transgender, parents, LGTBQI+, Kerala, child</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/Transgender Parents_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/Thumb_TransgenderParents_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">India's first transgender parents</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,India, transgender, parents, LGTBQI+, Kerala, child</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310089</guid>
-<pubDate>2023-03-23T15:37:20Z</pubDate>
-<title>Brazil stops Amazon drilling </title>
-<description>Brazil's oil company, Petrobras, is one of the largest in the world, and they have their sights set on the Amazon. But the new government is delaying the plans.</description>
-<category>Vertical</category>
-<keywords>DWVC,Brazil, amazon, oil drilling, government, President Lula, Petrobas</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/DIRTY_NoMoreDrillingintheAmazon_IBAMAvsPetroBras LTR VERTICAL_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Brazil stops Amazon drilling </media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Brazil, amazon, oil drilling, government, President Lula, Petrobas</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310088</guid>
-<pubDate>2023-03-23T09:25:54Z</pubDate>
-<title>Italy migrant boat disaster causes outrage</title>
-<description>A deadly shipwreck off the coast of Italy is raising questions about the future of European migration and asylum policy.</description>
-<category>Vertical</category>
-<keywords>DWVC,boat, migrant, European migration, italy, disaster</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/dwpe_MigrantBoatDisaster_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/dwpe_MigrantBoatDisaster_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Italy migrant boat disaster causes outrage</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,boat, migrant, European migration, italy, disaster</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
