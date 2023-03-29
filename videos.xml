@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/29/2023 1:38:20 PM</pubDate>
+<pubDate>3/29/2023 2:55:51 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100107</guid>
+<pubDate>2023-03-29T14:55:47Z</pubDate>
+<title>Fire kills dozens in Mexican immigration detention center</title>
+<description>A fire at a Mexican immigration detention center near the US border killed at least 38 people.</description>
+<category>Vertical</category>
+<keywords>DWVC,Mexico, Unites States, boarder, detention center, immigrants, fire</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Mexico_Reel_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Mexico_Reel_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Fire kills dozens in Mexican immigration detention center</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Mexico, Unites States, boarder, detention center, immigrants, fire</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100106</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TN_NaturalLights.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Bacteria-powered light  </media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Bioluminesence, light, electricity, bacteria, glowworm, fish, France </media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310097</guid>
-<pubDate>2023-03-27T11:25:54Z</pubDate>
-<title>Peace singers of Cyprus</title>
-<description>A Greek-Turkish peace choir wants to overcome the divisions in Cyprus. The two parts of the island have a long history of conflict. The choir singers only wish for peace and reunification.</description>
-<category>Vertical</category>
-<keywords>DWVC,Cyprus, Turkey, Cyprus conflict, peace initiative, choir, peacebuilding, reunification</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_FOED_230323_WVCyprusChoir_1.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_FOED_230323_WVCyprusChoir_1.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Peace singers of Cyprus</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Cyprus, Turkey, Cyprus conflict, peace initiative, choir, peacebuilding, reunification</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
