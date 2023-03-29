@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/27/2023 3:12:05 PM</pubDate>
+<pubDate>3/29/2023 11:45:16 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -18,17 +18,92 @@
 <ttl>30</ttl>
 
 <item>
+<guid isPermaLink="false">DWV23100105</guid>
+<pubDate>2023-03-29T11:45:12Z</pubDate>
+<title>AI-generated models in the name of diversity?  </title>
+<description>Fashion brand Levi’s has announced to start using AI-generated models. The technology used by AI-model agencies allows companies to create models online that represent the inclusivity and diversity they want for their brand – without actually having to pay real models.  </description>
+<category>Vertical</category>
+<keywords>DWVC,Levi's, AI-generated models, diversity, inclusivity, fashion</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIFT_AIModels_Reel_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIFT_AIModels_Reel_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">AI-generated models in the name of diversity?  </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Levi's, AI-generated models, diversity, inclusivity, fashion</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100104</guid>
+<pubDate>2023-03-28T13:45:12Z</pubDate>
+<title>Endangered Thai crocodile re-wilding a tricky balance</title>
+<description>Thailand is home to some 1.2 million crocodiles kept on more than a thousand farms — but the Siamese croc is on the edge of extinction. Now farmers are fighting to ensure that the wild population grows so they gain access to the world market. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Asia, Thailand, nature, endangered species, crocodile, wildlife, conservation, agriculture, international trade, farming industry, biodiversity, animal welfare, ecological balance</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Q_Crocs_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Q_Crocs_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Endangered Thai crocodile re-wilding a tricky balance</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Asia, Thailand, nature, endangered species, crocodile, wildlife, conservation, agriculture, international trade, farming industry, biodiversity, animal welfare, ecological balance</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100103</guid>
+<pubDate>2023-03-28T13:41:34Z</pubDate>
+<title>Pingpong against Parkinson's disease</title>
+<description>An estimated 10 million people worldwide have Parkinson's disease, an incurable condition that impacts how the brain controls movement. Some Parkinson's patients have found an unusual way to keep their symptoms at bay: pingpong. Though there aren't many studies to prove the sport's positive effects on Parkinson's patients, the 'PingPongParkinson' network has been growing fast. It started in the US. In Germany, Silke Kind is one of the players in charge: she says pingpong keeps her moving.</description>
+<category>Vertical</category>
+<keywords>DWVC,Parkinson's disease, pingpong, brain function, movement control, physical activity, alternative therapy, incurable condition, health, Germany</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Ping_Pong_Parkinson_Reel_Dirty_mitMusik.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Ping_Pong_Parkinson_Reel_Dirty_mitMusik.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Pingpong against Parkinson's disease</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Parkinson's disease, pingpong, brain function, movement control, physical activity, alternative therapy, incurable condition, health, Germany</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100102</guid>
+<pubDate>2023-03-28T13:41:35Z</pubDate>
+<title>German colonial history in Tanzania</title>
+<description>Germany wants to return hundreds of human skulls to Tanzania. It's part of an effort to shed light on its colonial history in East Africa. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Germany, Tanzania, colonial, history, skulls, Africa, restitution, cultural heritage, decolonization, historical injustice, International relations, colonization</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tanzania_REEL_FINAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tanzania_REEL_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">German colonial history in Tanzania</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, Tanzania, colonial, history, skulls, Africa, restitution, cultural heritage, decolonization, historical injustice, International relations, colonization</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100101</guid>
+<pubDate>2023-03-28T13:41:36Z</pubDate>
+<title>Is Tesla worsening a German state’s water supply?</title>
+<description>Tesla is being criticized by German environmentalists, with accusations that the company’s Gigafactory is using excessive amounts of water in the state of Brandenburg. The company’s plans to double its production capacity next year have led to fresh backlash. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC,Tesla, environment, Germany, Gigafactory, water usage, sustainability, production, manufacturer, industry, resouce management, water consumption</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tesla.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tesla.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Is Tesla worsening a German state’s water supply?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Tesla, environment, Germany, Gigafactory, water usage, sustainability, production, manufacturer, industry, resouce management, water consumption</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
 <guid isPermaLink="false">DWV23100100</guid>
 <pubDate>2023-03-27T15:12:01Z</pubDate>
 <title>Pakistan's new pink buses aim to make travel safer for women</title>
-<description>Pakistan's Karachi city has added pink public buses to help women feel safe - but the broader structural problem of sexual harassment remains.</description>
+<description>Pakistan's Karachi city has added pink public buses to help women feel safe — but the broader structural problem of sexual harassment remains.</description>
 <category>Vertical</category>
 <keywords>DWVC,Pakistan, pink bus, public transport, women, sexual harrassment</keywords>
 
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_pinkbus_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_pinkbus_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Pakistan's new pink buses aim to make travel safer for women</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Pakistan, pink bus, public transport, weomen, sexual harrassment</media:keywords>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Pakistan, pink bus, public transport, women, sexual harrassment</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
@@ -51,7 +126,7 @@
 <guid isPermaLink="false">DWV2310098</guid>
 <pubDate>2023-03-27T15:12:02Z</pubDate>
 <title>Bacteria-powered light  </title>
-<description>Go visit Rambouillet in France and you'll find glow worms lighting up advertisements. Authorities there are looking at light from living organisms as a sustainable alternative to artificial lighting. </description>
+<description>Go visit Rambouillet in France and you’ll find glow worms lighting up advertisements. Authorities there are looking at light from living organisms as a sustainable alternative to artificial lighting. </description>
 <category>Vertical</category>
 <keywords>DWVC,Bioluminesence, light, electricity, bacteria, glowworm, fish, France </keywords>
 
@@ -80,92 +155,17 @@
 <item>
 <guid isPermaLink="false">DWV2310096</guid>
 <pubDate>2023-03-27T11:25:55Z</pubDate>
-<title>"Biggest strike in decades" brings Germany to a standstill</title>
+<title>‘Biggest strike in decades’ brings Germany to a standstill</title>
 <description>Public sector strikes focused mainly on public transport halted the vast majority of buses, trains and planes in Germany on Monday. The 24-hour action began at midnight. It's part of a long-running dispute over pay and the soaring cost of living.</description>
 <category>Vertical</category>
 <keywords>DWVC,Germany, strike, public transport, public sector, pay dispute, union, wages, rate, cost of living, inflation</keywords>
 
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_GermanyTransportStrike.mp4" type="video/mp4" lang="en" medium="video"/>
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_GermanyTransportStrike.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">â€˜Biggest strike in decadesâ€™ brings Germany to a standstill</media:title>
+<media:title type="plain">‘Biggest strike in decades’ brings Germany to a standstill</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Germany, strike, public transport, public sector, pay dispute, union, wages, rate, cost of living, inflation</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
-<item>
-<guid isPermaLink="false">DWV2310095</guid>
-<pubDate>2023-03-27T11:25:55Z</pubDate>
-<title>Tornado: Rolling Fork wiped out</title>
-<description>Tornado damage in Rolling Fork, a predominantly Black town of about 2,000 people in Mississippi, has been devastating. A Red Cross official described it as "like a war zone."</description>
-<category>Vertical</category>
-<keywords>DWVC,United States, Mississippi, Rolling Fork, Tornado, catastrophe </keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_TornadoMississippi_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_TornadoMississippi_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Tornado: Rolling Fork wiped out</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,United States, Mississippi, Rolling Fork, Tornado, catastrophe </media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310094</guid>
-<pubDate>2023-03-24T15:28:53Z</pubDate>
-<title>Kissing and long-distance? Everything is possible</title>
-<description>A smartphone device that allows people to kissâ€¦remotely. It was inspired by the isolation of couples during China's COVID-19 lockdowns and it's dividing opinions on Chinese social media. Do you think it's hot or gross? @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,China, technology, long-distance relationships, COVID-19, remote intimacy, physical distancing, innovation, controversial, romantic, unconventional</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_230323_Remote_Kissing_Device_DIRTY.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_230323_Remote_Kissing_Device_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Kissing and long-distance? Everything is possible</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,China, technology, long-distance relationships, COVID-19, remote intimacy, physical distancing, innovation, controversial, romantic, unconventional</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310093</guid>
-<pubDate>2023-03-24T15:25:54Z</pubDate>
-<title>Kerala temple deploys robotic elephant for rituals</title>
-<description>Elephants play an important role in Kerala during temple festivals but are often chained and made to stand for hours in extreme temperatures. A temple in the South Indian state has introduced a robotic elephant to conduct its rituals. Could this bring a change in tradition?</description>
-<category>Vertical</category>
-<keywords>DWVC,elephants, Kerala, India, temple festivals, animal welfare, tradition, robots, technology, culture, temple rituals, ethical treatment, societal change</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_KeralaElephant.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_KeralaElephant.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Kerala temple deploys robotic elephant for rituals</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,elephants, Kerala, India, temple festivals, animal welfare, tradition, robots, technology, culture, temple rituals, ethical treatment, societal change</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310092</guid>
-<pubDate>2023-03-24T09:54:59Z</pubDate>
-<title>Nigeriaâ€™s teen tech wonder</title>
-<description>Joshua Agboola has been programming since he was 6 and today, as a teenager, even teaches other kids to code. The tech prodigy not only spreads knowledge, but also protects others: One of Joshuas's focuses is on how to protect children from malicious content online.</description>
-<category>Vertical</category>
-<keywords>DWVC,Nigeria, Africa, early programming, child programmer, coding education, youth mentorship, tech prodigy, knowledge sharing, child safety online, internet safety, cybersecurity, online protection</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_nigerian_tech_kid_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_nigerian_tech_kid_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Nigeriaâ€™s teen tech wonder</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Nigeria, Africa, early programming, child programmer, coding education, youth mentorship, tech prodigy, knowledge sharing, child safety online, internet safety, cybersecurity, online protection</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV2310091</guid>
-<pubDate>2023-03-23T15:37:17Z</pubDate>
-<title>Uganda's new anti-gay law</title>
-<description>10 years in prison for identifying as LGBTQ, five for promoting homosexuality - Uganda's parliament has passed tough new penalties for same-sex relations. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/UgandaGayBill_Short.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/UgandaGayBill_Short.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Uganda's new anti-gay law</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Uganda, homophobia, LGBTQI+, homosexuality, anti-gay law</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
 </channel>
-</rss>
+</rss>)
