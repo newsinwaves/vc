@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/30/2023 11:57:36 AM</pubDate>
+<pubDate>3/30/2023 12:34:40 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,36 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100112</guid>
+<pubDate>2023-03-30T12:34:35Z</pubDate>
+<title>Britain's King Charles addresses members of the Bundestag in German</title>
+<description>Britain's King Charles III has addressed the Bundestag on his first trip abroad since becoming monarch. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, King, Charles III, Germany, Bundestag, monarchy, royals, speech, royal family</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_KingCharlesBundestag_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_KingCharlesBundestag_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Britain's King Charles addresses members of the Bundestag in German</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,King, Charles III, Germany, Bundestag, monarchy, royals, speech, royal family</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100110</guid>
+<pubDate>2023-03-30T12:34:35Z</pubDate>
+<title>The Battle for Bakhmut</title>
+<description>Bakhmut in eastern Ukraine has become the symbol of Ukrainian resistance. A report from the frontline. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Ukraine, Russia, war, Bakhmut, frontline, soldiers, army, resistance</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BakhmutFrontline_vertical_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BakhmutFrontline_vertical_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">The Battle for Bakhmut</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine, Russia, war, Bakhmut, frontline, soldiers, army, resistance</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100109</guid>
@@ -134,36 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tanzania_REEL_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">German colonial history in Tanzania</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Germany, Tanzania, colonial, history, skulls, Africa, restitution, cultural heritage, decolonization, historical injustice, International relations, colonization</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100101</guid>
-<pubDate>2023-03-28T13:41:36Z</pubDate>
-<title>Is Tesla worsening a German state’s water supply?</title>
-<description>Tesla is being criticized by German environmentalists, with accusations that the company’s Gigafactory is using excessive amounts of water in the state of Brandenburg. The company’s plans to double its production capacity next year have led to fresh backlash. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Tesla, environment, Germany, Gigafactory, water usage, sustainability, production, manufacturer, industry, resouce management, water consumption</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tesla.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tesla.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Is Tesla worsening a German state’s water supply?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Tesla, environment, Germany, Gigafactory, water usage, sustainability, production, manufacturer, industry, resouce management, water consumption</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100100</guid>
-<pubDate>2023-03-27T15:12:01Z</pubDate>
-<title>Pakistan's new pink buses aim to make travel safer for women</title>
-<description>Pakistan's Karachi city has added pink public buses to help women feel safe — but the broader structural problem of sexual harassment remains.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Pakistan, pink bus, public transport, women, sexual harrassment</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_pinkbus_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_pinkbus_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Pakistan's new pink buses aim to make travel safer for women</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Pakistan, pink bus, public transport, women, sexual harrassment</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
