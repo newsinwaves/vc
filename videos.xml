@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/30/2023 2:55:52 PM</pubDate>
+<pubDate>3/31/2023 11:31:09 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,81 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100117</guid>
+<pubDate>2023-03-31T11:31:03Z</pubDate>
+<title>How 3D-printing is revolutionizing space exploration</title>
+<description>This is the first 3D printed rocket to be sent into space. Although it did not go into orbit in the first test, it is an important step in the future of space flight, in which 3D printing will play a vital role. </description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, United States, Relativity, space flight, 3D printing, space, Terran1, Astronautics </keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_3D_printed_rocket_TTN_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_3D_printed_rocket_TTN_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">How 3D-printing is revolutionizing space exploration</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,United States, Relativity, space flight, 3D printing, space, Terran1, Astronautics </media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100116</guid>
+<pubDate>2023-03-31T11:31:04Z</pubDate>
+<title>Brazilian community fears to disappear into massive sink holes</title>
+<description>People in this Brazilian community live in fear of being swallowed by the earth.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Brazil, land slides, earth, fear, sink holes</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BrasilEarth.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BrasilEarth.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Brazilian community fears to disappear into massive sink holes</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Brazil, land slides, earth, fear, sink holes</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100115</guid>
+<pubDate>2023-03-31T11:31:05Z</pubDate>
+<title>Indian workers feeding AI</title>
+<description>Kerala is seeing a boom in AI companies. Who are the people constantly feeding AI applications with information?</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, AI, India, artificial intelligence, algorithm, Kerala, data worker, Infolks</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QWIIndien_vertical.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QWIIndien_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Indian workers feeding AI</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,AI, India, artificial intelligence, algorithm, Kerala, data worker, Infolks</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100114</guid>
+<pubDate>2023-03-31T11:31:06Z</pubDate>
+<title>First comment from Germany on verdict in Gandhi case </title>
+<description>Germany expects standards of judicial independence and democratic principles to apply in the Gandhi case. </description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Germany, India, Gandhi verdict, Rahul Gandhi, democratic principals</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Gandhi_Vertical.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Gandhi_Vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">First comment from Germany on verdict in Gandhi case </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, India, Gandhi verdict, Rahul Gandhi, democratic principals</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100113</guid>
+<pubDate>2023-03-31T11:31:07Z</pubDate>
+<title>The shoe designers fashioning a trans-inclusive Argentina</title>
+<description>A Buenos Aires shoemaking workshop has become a lifeline for the trans community.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Argentina, Buenos Aires, trans community, trans rights, LGBTQ, shoemaking, inclusive design, fashio</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Zapatos_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Zapatos_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">The shoe designers fashioning a trans-inclusive Argentina</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Argentina, Buenos Aires, trans community, trans rights, LGBTQ, shoemaking, inclusive design, fashio</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100112</guid>
@@ -89,81 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Thumb_Storing_Data_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Storing data for eternity</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Austria, data, archive, internet, vision-driven mission, memory preservation, long-term, data security, human legacy</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100107</guid>
-<pubDate>2023-03-29T14:55:47Z</pubDate>
-<title>Fire kills dozens in Mexican immigration detention center</title>
-<description>A fire at a Mexican immigration detention center near the US border killed at least 38 people.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Mexico, Unites States, border, detention center, immigrants, fire</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Mexico_Reel_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Mexico_Reel_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Fire kills dozens in Mexican immigration detention center</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Mexico, Unites States, border, detention center, immigrants, fire</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100106</guid>
-<pubDate>2023-03-29T13:38:16Z</pubDate>
-<title>How cars endanger health and happiness in Indian cities</title>
-<description>India’s automotive boom is raising concerns about the health and happiness of its cities’ residents.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, India, cities, automotive industry, cars, health, urban development</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_IndianStreets_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_IndianStreets_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">How cars endanger health and happiness in Indian cities</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,India, cities, automotive industry, cars, health, urban development</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100105</guid>
-<pubDate>2023-03-29T11:45:12Z</pubDate>
-<title>AI-generated models in the name of diversity?</title>
-<description>Fashion brand Levi’s has announced to start using AI-generated models. The technology used by AI-model agencies allows companies to create models online that represent the inclusivity and diversity they want for their brand – without actually having to pay real models.  </description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Levi's, AI-generated models, diversity, inclusivity, fashion</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIFT_AIModels_Reel_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIFT_AIModels_Reel_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">AI-generated models in the name of diversity?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Levi's, AI-generated models, diversity, inclusivity, fashion</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100104</guid>
-<pubDate>2023-03-28T13:45:12Z</pubDate>
-<title>Endangered Thai crocodile re-wilding a tricky balance</title>
-<description>Thailand is home to some 1.2 million crocodiles kept on more than a thousand farms — but the Siamese croc is on the edge of extinction. Now farmers are fighting to ensure that the wild population grows so they gain access to the world market. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Asia, Thailand, nature, endangered species, crocodile, wildlife, conservation, agriculture, international trade, farming industry, biodiversity, animal welfare, ecological balance</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Q_Crocs_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Q_Crocs_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Endangered Thai crocodile re-wilding a tricky balance</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Asia, Thailand, nature, endangered species, crocodile, wildlife, conservation, agriculture, international trade, farming industry, biodiversity, animal welfare, ecological balance</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100103</guid>
-<pubDate>2023-03-28T13:41:34Z</pubDate>
-<title>Pingpong against Parkinson's disease</title>
-<description>An estimated 10 million people worldwide have Parkinson's disease, an incurable condition that impacts how the brain controls movement. Some Parkinson's patients have found an unusual way to keep their symptoms at bay: pingpong. Though there aren't many studies to prove the sport's positive effects on Parkinson's patients, the 'PingPongParkinson' network has been growing fast. It started in the US. In Germany, Silke Kind is one of the players in charge: she says pingpong keeps her moving.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Parkinson's disease, pingpong, brain function, movement control, physical activity, alternative therapy, incurable condition, health, Germany</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Ping_Pong_Parkinson_Reel_Dirty_mitMusik.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Ping_Pong_Parkinson_Reel_Dirty_mitMusik.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Pingpong against Parkinson's disease</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Parkinson's disease, pingpong, brain function, movement control, physical activity, alternative therapy, incurable condition, health, Germany</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
