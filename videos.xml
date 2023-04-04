@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>3/31/2023 11:31:09 AM</pubDate>
+<pubDate>4/3/2023 2:31:10 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100120</guid>
+<pubDate>2023-04-03T14:31:05Z</pubDate>
+<title>Is wood burning a green source of energy?</title>
+<description>60% of the EU's "renewable" energy comes from wood and other biomass.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Europe, wood burning, firewood, renewable energy, co2, net zero, EU</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Firewood_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Firewood_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Is wood burning a green source of energy?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Europe, wood burning, firewood, renewable energy, co2, net zero, EU</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100119</guid>
+<pubDate>2023-04-03T14:31:07Z</pubDate>
+<title>Inside Bangladesh's "Death Squad"</title>
+<description>Bangladesh's elite police unit RAB has long been accused of murder, torture and abductions. The government has always rejected these claims. Now, for the first time, DW and NetraNews spoke to two whistleblowers from inside the "death squad”.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Bangladesh, RAB, investigative, death squad, elite police</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_VERT_RABExplainer DIRTY_FINAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_VERT_RABExplainer DIRTY_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Inside Bangladesh's "Death Squad"</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Bangladesh, RAB, investigative, death squad, elite police</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100118</guid>
+<pubDate>2023-04-03T14:31:07Z</pubDate>
+<title>Oil giants are destroying water sources</title>
+<description>People in the Niger Delta region of Nigeria are suing oil giant Shell over alleged damage to their communities.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Nigeria, Niger Delta, Shell, oil company, enironmental protection, law suit</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QOilSpill_dirty_REEL3.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QOilSpill_dirty_REEL3.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Oil giants are destroying water sources</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Nigeria, Niger Delta, Shell, oil company, enironmental protection, law suit</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100117</guid>
@@ -119,51 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_Vaccines_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Ghana runs out of children’s vaccines</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Ghana, Africa, vaccine, shortage, health, children, disease, infection, inequality</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100110</guid>
-<pubDate>2023-03-30T12:34:35Z</pubDate>
-<title>The Battle for Bakhmut</title>
-<description>Bakhmut in eastern Ukraine has become the symbol of Ukrainian resistance. A report from the frontline. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Ukraine, Russia, war, Bakhmut, frontline, soldiers, army, resistance</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BakhmutFrontline_vertical_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BakhmutFrontline_vertical_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">The Battle for Bakhmut</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine, Russia, war, Bakhmut, frontline, soldiers, army, resistance</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100109</guid>
-<pubDate>2023-03-30T11:55:49Z</pubDate>
-<title>Ukraine: weapons upgrade crucial for counter-offensive</title>
-<description>Ukraine’s Soviet-era tanks require significant upgrades in order to help reclaim occupied land. @D</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Ukraine, Russia, war, weapon, tank, T-80, battlefield, conflict</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tanks_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Tanks_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Ukraine: weapons upgrade crucial for counter-offensive</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine, Russia, war, weapon, tank, T-80, battlefield, conflict</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100108</guid>
-<pubDate>2023-03-30T11:55:50Z</pubDate>
-<title>Storing data for eternity</title>
-<description>Martin Kunze is on a mission. He wants to create a memory of mankind. Not on the basis of digital data, however. Storing ceramic tiles in an Austrian mountain is much safer, he says.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Austria, data, archive, internet, vision-driven mission, memory preservation, long-term, data security, human legacy</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Berg_vertical_dirty1.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Thumb_Storing_Data_vertical.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Storing data for eternity</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Austria, data, archive, internet, vision-driven mission, memory preservation, long-term, data security, human legacy</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
