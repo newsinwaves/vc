@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/4/2023 2:55:14 PM</pubDate>
+<pubDate>4/5/2023 1:44:53 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,81 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100133</guid>
+<pubDate>2023-04-05T13:44:54Z</pubDate>
+<title>These are the new jobs AI will create</title>
+<description>It is a fact that AI will replace some jobs. But, according to the World Economic Forum, AI will also create 97 million new jobs by 2025. What kind of jobs are they exactly?</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, AI, artificial intelligence, job automation, future of work, workforce transformation, skills development, labor market trends, digital transformation, emerging technologies, talent management, job growth</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_AI_Jobs_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_AI_Jobs_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">These are the new jobs AI will create</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,AI, artificial intelligence, job automation, future of work, workforce transformation, skills development, labor market trends, digital transformation, emerging technologies, talent management, job growth</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100132</guid>
+<pubDate>2023-04-05T13:44:56Z</pubDate>
+<title>Old-fashioned ski resort struggles with climate change</title>
+<description>Anton Kalberer has been running a small, family-owned ski resort on Sarn-Heinzenberg in the Grisons for over half a century. The family has always tried to keep it sustainable. Now, climate change is posing a new challenge.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, mountains, ski resort, sustainability, climate change, environmental impact, winter sports, adaptation strategies, Switzerland</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Ski_Resort_vertical_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Ski_Resort_vertical_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Old-fashioned ski resort struggles with climate change</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,mountains, ski resort, sustainability, climate change, environmental impact, winter sports, adaptation strategies, Switzerland</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100131</guid>
+<pubDate>2023-04-05T13:44:57Z</pubDate>
+<title>Italy’s shipwreck victims</title>
+<description>More than 80 migrants drowned off the Italian coast when their boat was wrecked. Hasib is a survivor. Vincenzo was a rescuer. Both are traumatized from the tragedy.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, migrants, Italian coast, tragedy, drowning, survivor, rescuer, trauma, humanitarian crisis, immigration, mediterranean sea, Italy</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WVItalyRefugees_Vertical_DirtyF.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WVItalyRefugees_Vertical_DirtyF.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Italy’s shipwreck victims</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,migrants, Italian coast, tragedy, drowning, survivor, rescuer, trauma, humanitarian crisis, immigration, mediterranean sea, Italy</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100130</guid>
+<pubDate>2023-04-05T13:44:58Z</pubDate>
+<title>Deepest fish ever recorded</title>
+<description>This fish may not be pretty, but it's breaking records as the deepest fish ever recorded. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, fish, world record, Japan, snailfish, nature, deep sea, ocean</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_DeepestFish_DIRTY.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_DeepestFish_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Deepest fish ever recorded</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,fish, world record, Japan, snailfish, nature, deep sea, ocean</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100129</guid>
+<pubDate>2023-04-05T13:44:58Z</pubDate>
+<title>Tech Brain Drain: Russian IT specialists in Georgia</title>
+<description>Many young and well-educated Russian professionals have ended up in Georgia and brought along an economic boom. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, immigration, brain drain, Putin, Russia, Georgia, refugees, startup, ITsector, remote work</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Georgia_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Georgia_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Tech Brain Drain: Russian IT specialists in Georgia</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,immigration, brain drain, Putin, Russia, Georgia, refugees, startup, ITsector, remote work</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100128</guid>
@@ -89,81 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SOME_230330_Putin_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Putin’s doppelganger supports Ukraine</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Putin, Russia, impersonator, actor, comedy, entertainment</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100123</guid>
-<pubDate>2023-04-04T14:55:17Z</pubDate>
-<title>Germany: Easier immigration for skilled workers</title>
-<description>Are you young, skilled and speak German? This could be your chance to come work in Germany. With the Chancenkarte, Germany plans to introduce a modern immigration law to attract more skilled workers. A draft law will be introduced in autumn.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Germany, immigration, policy, law, work, job opportunities, job market, professionals</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WSME_Chancenkarte.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WSME_Chancenkarte.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Germany: Easier immigration for skilled workers</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, immigration, policy, law, work, job opportunities, job market, professionals</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100122</guid>
-<pubDate>2023-04-04T14:55:18Z</pubDate>
-<title>A drone to protect paradise</title>
-<description>This drone is protecting the Maldives – by killing off one of its inhabitants: The hairy caterpillar. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Maldives, drone, insect, technology, disinfestation, pest control</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_SHIFT_PesticideDrones_Reel_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_SHIFT_PesticideDrones_Reel_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">A drone to protect paradise</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Maldives, drone, insect, technology, disinfestation, pest control</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100121</guid>
-<pubDate>2023-04-04T14:55:18Z</pubDate>
-<title>How to stop the public from smoking</title>
-<description>Indonesia is banning the sale of single cigarettes, in a bid to reduce access to tobacco products. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Indonesia, tobacco, smoking, health, cigarettes</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Smokes_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Smokes_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">How to stop the public from smoking</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Indonesia, tobacco, smoking, health, cigarettes</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100120</guid>
-<pubDate>2023-04-03T14:31:05Z</pubDate>
-<title>Is wood burning a green source of energy?</title>
-<description>60% of the EU's "renewable" energy comes from wood and other biomass.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Europe, wood burning, firewood, renewable energy, co2, net zero, EU</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Firewood_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Firewood_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Is wood burning a green source of energy?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Europe, wood burning, firewood, renewable energy, co2, net zero, EU</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100119</guid>
-<pubDate>2023-04-03T14:31:07Z</pubDate>
-<title>Inside Bangladesh's "Death Squad"</title>
-<description>Bangladesh's elite police unit RAB has long been accused of murder, torture and abductions. The government has always rejected these claims. Now, for the first time, DW and NetraNews spoke to two whistleblowers from inside the "death squad”.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Bangladesh, RAB, investigative, death squad, elite police</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_VERT_RABExplainer DIRTY_FINAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_VERT_RABExplainer DIRTY_FINAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Inside Bangladesh's "Death Squad"</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Bangladesh, RAB, investigative, death squad, elite police</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
