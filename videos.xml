@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/5/2023 1:44:53 PM</pubDate>
+<pubDate>4/11/2023 12:37:12 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100134</guid>
+<pubDate>2023-04-11T12:37:13Z</pubDate>
+<title>Which car has lower emissions?</title>
+<description>Some people say big electric cars are worse for the climate than small gas cars, but they’re wrong.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Automotive, electric cars, emissions, gas, vehicles, climate change, enviroment, emissions</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Gas_Subtitles_Logo.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Gas_Subtitles_Logo.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Which car has lower emissions?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Automotive, electric cars, emissions, gas, vehicles, climate change, enviroment, emissions</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100133</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_topless_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Desexualizing the breasts</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,gender equality, activism, women's rights, public pools, Berlin, Germany, legal battle, body positivity, nudity</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100124</guid>
-<pubDate>2023-04-04T14:55:17Z</pubDate>
-<title>Putin’s doppelganger supports Ukraine</title>
-<description>Sławomir Sobala’s outward similarity to Vladimir Putin made him a much sought-after impersonator of the Russian president. But after Russia’s invasion of Ukraine he stopped playing in comedies and commercials. He is now looking for more critical productions.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Putin, Russia, impersonator, actor, comedy, entertainment</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SOME_230330_Putin_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SOME_230330_Putin_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Putin’s doppelganger supports Ukraine</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Putin, Russia, impersonator, actor, comedy, entertainment</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
