@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/11/2023 12:37:12 PM</pubDate>
+<pubDate>4/11/2023 3:00:23 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100135</guid>
+<pubDate>2023-04-11T15:00:23Z</pubDate>
+<title>Behind the highly classified US intelligence leak</title>
+<description>Confidential US information about Ukraine’s defense leaked online poses a "very serious" threat to national security.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Leak, US, confidential information, national security, US intelligence</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_leaks_reel.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_leaks_reel.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Behind the highly classified US intelligence leak</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Leak, US, confidential information, national security, US intelligence</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100134</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_TurkeyBaby_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Turkey: Baby and mother reunite after two months</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Turkey, earthquake, quake, disaster, mother, baby, family, reunion, survivor</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100125</guid>
-<pubDate>2023-04-04T14:55:16Z</pubDate>
-<title>Desexualizing the breasts</title>
-<description>Lotte Mies is a gender equality activist from Berlin. She won a legal battle to allow women to be topless in the city’s public pools as of March 9. What do you think about this?</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, gender equality, activism, women's rights, public pools, Berlin, Germany, legal battle, body positivity, nudity</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_topless_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Reel_topless_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Desexualizing the breasts</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,gender equality, activism, women's rights, public pools, Berlin, Germany, legal battle, body positivity, nudity</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
