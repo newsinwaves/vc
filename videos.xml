@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/11/2023 3:00:23 PM</pubDate>
+<pubDate>4/12/2023 10:24:38 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,36 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100137</guid>
+<pubDate>2023-04-12T10:24:39Z</pubDate>
+<title>UK bill: “in effect, a ban on asylum”</title>
+<description>The UK introduces legislation to make it even harder to seek asylum there.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Asylum, refugees, migration, human rights, Calais, France, United Kingdom</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Calais_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Calais_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">UK bill: “in effect, a ban on asylum”</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Asylum, refugees, migration, human rights, Calais, France, United Kingdom</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100136</guid>
+<pubDate>2023-04-12T10:24:40Z</pubDate>
+<title>"Vulkan Leaks": How Russia is putting our IT security at risk</title>
+<description>The release of the 'Vulkan files' has provided the first glimpse into Putin's cyber warfare tactics.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, VulkanLeaks, Russia, War, IT, Cyberwar, Internet</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Vulkan_Files_TTN_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Vulkan_Files_TTN_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">"Vulkan Leaks": How Russia is putting our IT security at risk</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,VulkanLeaks, Russia, War, IT, Cyberwar, Internet</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100135</guid>
@@ -119,51 +149,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Georgia_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Tech Brain Drain: Russian IT specialists in Georgia</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,immigration, brain drain, Putin, Russia, Georgia, refugees, startup, ITsector, remote work</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100128</guid>
-<pubDate>2023-04-04T14:55:15Z</pubDate>
-<title>Blaze reduces 3,000 shops in Bangladesh to ashes</title>
-<description>A fire at the cloth market in the Bangladeshi capital, Dhaka, has destroyed thousands of businesses, just weeks before Eid celebrations begin. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Dhaka, cloth market, Bangladesh, fire, urban safety, disaster, emergency,</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BangladeshFire_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BangladeshFire_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Blaze reduces 3,000 shops in Bangladesh to ashes</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Dhaka, cloth market, Bangladesh, fire, urban safety, disaster, emergency,</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100127</guid>
-<pubDate>2023-04-04T14:55:15Z</pubDate>
-<title>New Delhi is getting 8,000 new electric buses and is on a mission to get more women driving them. @DW</title>
-<description>New Delhi is getting 8,000 new electric buses and is on a mission to get more women driving them. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, New Delhi, India, transportation, women, gender equality, empowerment, urban development</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_WomenBusDrivers_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_WomenBusDrivers_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">New Delhi is getting 8,000 new electric buses and is on a mission to get more women driving them. @DW</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,New Delhi, India, transportation, women, gender equality, empowerment, urban development</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100126</guid>
-<pubDate>2023-04-04T14:55:16Z</pubDate>
-<title>Turkey: Baby and mother reunite after two months</title>
-<description>Baby who was found under the rubble five days after the earthquake in Turkey, has finally reunited with her mother. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Turkey, earthquake, quake, disaster, mother, baby, family, reunion, survivor</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_TurkeyBaby_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_TurkeyBaby_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Turkey: Baby and mother reunite after two months</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Turkey, earthquake, quake, disaster, mother, baby, family, reunion, survivor</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
