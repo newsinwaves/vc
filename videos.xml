@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/13/2023 10:14:15 AM</pubDate>
+<pubDate>4/14/2023 7:23:34 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100144</guid>
+<pubDate>2023-04-14T07:23:35Z</pubDate>
+<title>Bali cracks down on disrespectful tourists</title>
+<description>Bali authorities are clamping down on Russian and Ukrainian tourists breaking visa rules.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Bali, tourism, Russia, war, Ukraine, migration</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BaliRussia_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_BaliRussia_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Bali cracks down on disrespectful tourists</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Bali, tourism, Russia, war, Ukraine, migration</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100143</guid>
+<pubDate>2023-04-14T07:23:35Z</pubDate>
+<title>Volcano erupts in Russian far east</title>
+<description>One of Russia's most active volcanoes erupted on the far eastern Kamchatka peninsula.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Volcano, Russia, Kamchatka peninsula, nature, natural disaster</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_RussiaVolcano_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_RussiaVolcano_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Volcano erupts in Russian far east</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Volcano, Russia, Kamchatka peninsula, nature, natural disaster</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100142</guid>
+<pubDate>2023-04-14T07:23:36Z</pubDate>
+<title>Germany set to legalize cannabis   </title>
+<description> Germany could soon legalize cannabis. Not everyone is happy about that. @DW</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Europe, Germany, cannabis, drugs, legalisation</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Cannabis_Germany_VERTICAL_1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_cannabis_Germany.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Germany set to legalize cannabis   </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Europe, Germany, cannabis, drugs, legalisation</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100141</guid>
@@ -119,21 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_leaks_reel.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Behind the highly classified US intelligence leak</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Leak, US, confidential information, national security, US intelligence</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100134</guid>
-<pubDate>2023-04-11T12:37:13Z</pubDate>
-<title>Which car has lower emissions?</title>
-<description>Some people say big electric cars are worse for the climate than small gas cars, but they’re wrong.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Automotive, electric cars, emissions, gas, vehicles, climate change, enviroment, emissions</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Gas_Subtitles_Logo.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Gas_Subtitles_Logo.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Which car has lower emissions?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Automotive, electric cars, emissions, gas, vehicles, climate change, enviroment, emissions</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
