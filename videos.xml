@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/14/2023 7:23:34 AM</pubDate>
+<pubDate>4/17/2023 3:11:43 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,36 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100146</guid>
+<pubDate>2023-04-17T15:11:44Z</pubDate>
+<title>Ukrainian refugees in US experience abuse from sponsors</title>
+<description>DW met with a Ukrainian refugee living in California who says her young daughter was assaulted by their sponsor.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Urkaine, United States, Russia, war, refugees, abuse</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Ksenia_VERTICAL_NEW.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Ksenia_VERTICAL_NEW.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Ukrainian refugees in US experience abuse from sponsors</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Urkaine, United States, Russia, war, refugees, abuse</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100145</guid>
+<pubDate>2023-04-17T15:11:44Z</pubDate>
+<title>Saving beer with eco-friendly hops  </title>
+<description>A Spanish startup is on a mission to rescue the beloved beverage with its eco-friendly indoor hops. </description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Spain, Beer, eco-friendly, hops, startup</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_SpainHops_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_SpainHops_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Saving beer with eco-friendly hops  </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Spain, Beer, eco-friendly, hops, startup</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100144</guid>
@@ -134,36 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Calais_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">UK bill: “in effect, a ban on asylum”</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Asylum, refugees, migration, human rights, Calais, France, United Kingdom</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100136</guid>
-<pubDate>2023-04-12T10:24:40Z</pubDate>
-<title>"Vulkan Leaks": How Russia is putting our IT security at risk</title>
-<description>The release of the 'Vulkan files' has provided the first glimpse into Putin's cyber warfare tactics.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, VulkanLeaks, Russia, War, IT, Cyberwar, Internet</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Vulkan_Files_TTN_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Vulkan_Files_TTN_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">"Vulkan Leaks": How Russia is putting our IT security at risk</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,VulkanLeaks, Russia, War, IT, Cyberwar, Internet</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100135</guid>
-<pubDate>2023-04-11T15:00:23Z</pubDate>
-<title>Behind the highly classified US intelligence leak</title>
-<description>Confidential US information about Ukraine’s defense leaked online poses a "very serious" threat to national security.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Leak, US, confidential information, national security, US intelligence</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_leaks_reel.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_leaks_reel.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Behind the highly classified US intelligence leak</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Leak, US, confidential information, national security, US intelligence</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
