@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/18/2023 9:33:54 AM</pubDate>
+<pubDate>4/18/2023 12:32:07 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,66 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100152</guid>
+<pubDate>2023-04-18T12:32:09Z</pubDate>
+<title>Germany quits nuclear power</title>
+<description>Germany recently shut down its last three nuclear power plants as part of a long-planned transition toward renewable energy.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Germany, nuclear power, nuclear power plants, renewable energy</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_NuclearPlantDE_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_NuclearPlantDE_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Germany quits nuclear power</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, nuclear power, nuclear power plants, renewable energy</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100151</guid>
+<pubDate>2023-04-18T12:32:10Z</pubDate>
+<title>Flee or stay put? Ukrainian civilians weigh up the risks</title>
+<description>Every day in the front-line cities of eastern Ukraine is a gamble. A decision to leave your shelter to get food could be your last. Yet there are people who are staying, and their reasons are complex, though some in this report have since been brought to safety by the "White Angels" police team</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Ukraine war, evacuation, civilians, Avdiivka, Chasiv Yar, front line</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QEvacuate_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QEvacuate_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Flee or stay put? Ukrainian civilians weigh up the risks</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine war, evacuation, civilians, Avdiivka, Chasiv Yar, front line</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100150</guid>
+<pubDate>2023-04-18T12:32:11Z</pubDate>
+<title>Does Angela Merkel deserve this award?</title>
+<description>Former Chancellor Angela Merkel received Germany's highest Order of Merit today. But not everyone thinks she should have gotten it.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Angela Merkel, Germany, Order of Merit, former chancellor</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_MerkelOrderofMerit_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_MerkelOrderofMerit_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Does Angela Merkel deserve this award?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Angela Merkel, Germany, Order of Merit, former chancellor</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100149</guid>
+<pubDate>2023-04-18T12:32:11Z</pubDate>
+<title>Ukraine: Teenage soldier adjusts to life after losing a leg on the frontline </title>
+<description>Ruslana Danilkina was only 18 when she volunteered for the Ukrainian army. She was wounded on the battlefield and lost her leg. She tells us she had to learn to accept her new self.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Ukraine, Russia, war, female soldier, girl, 18 years old, amputated leg</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SOME_230413_Ruslana_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SOME_230413_Ruslana_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Ukraine: Teenage soldier adjusts to life after losing a leg on the frontline </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine, Russia, war, female soldier, girl, 18 years old, amputated leg</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100148</guid>
@@ -104,66 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_RussiaVolcano_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Volcano erupts in Russian far east</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Volcano, Russia, Kamchatka peninsula, nature, natural disaster</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100142</guid>
-<pubDate>2023-04-14T07:23:36Z</pubDate>
-<title>Germany set to legalize cannabis   </title>
-<description> Germany could soon legalize cannabis. Not everyone is happy about that. @DW</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Europe, Germany, cannabis, drugs, legalisation</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Cannabis_Germany_VERTICAL_1.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_cannabis_Germany.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Germany set to legalize cannabis   </media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Europe, Germany, cannabis, drugs, legalisation</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100141</guid>
-<pubDate>2023-04-13T10:14:15Z</pubDate>
-<title>Helping escape conscription in Russia</title>
-<description>Meet a man who helps Russians avoid getting drafted into the war in Ukraine.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Russia, Ukraine, war, conscription, escape, </keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DW_Stories_Escaping_conscription_in_Russia_Dirty_n.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DW_Stories_Escaping_conscription_in_Russia_Dirty_n.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Helping escape conscription in Russia</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Russia, Ukraine, war, conscription, escape, </media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100140</guid>
-<pubDate>2023-04-13T10:14:16Z</pubDate>
-<title>Vestas’ massive wind turbine</title>
-<description>Vestas' most powerful wind turbine has delivered its full output for the first time.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Vestas, V236-15.0 MW, wind turbine, offshore wind, energy</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WSME_VestasWInd.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WSME_VestasWInd.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Vestas’ massive wind turbine</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Vestas, V236-15.0 MW, wind turbine, offshore wind, energy</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100139</guid>
-<pubDate>2023-04-13T10:14:17Z</pubDate>
-<title>Invisible super yacht</title>
-<description>This yacht isn’t just invisible to the eye, it’s also invisible to the environment. Renewable energy will fuel the ship, making it emission-free.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Super yacht, 3D printing, sustainability, renewable energy, emission free </keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WSME_VestasWIndWSME_Reflective Solar Yacht_ENGV1.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WSME_VestasWIndWSME_Reflective Solar Yacht_ENGV1.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Invisible super yacht</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Super yacht, 3D printing, sustainability, renewable energy, emission free </media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
