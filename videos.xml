@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/17/2023 3:11:43 PM</pubDate>
+<pubDate>4/18/2023 9:33:54 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,36 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100148</guid>
+<pubDate>2023-04-18T09:33:55Z</pubDate>
+<title>How this t-shirt gets delivered to you</title>
+<description>Sea shipping is soooo CHEAP that we completely overuse it.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, US, t-shirt, sea shipping, emissions, climate change</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Sea_Shipping_Subtitles_Logo.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Sea_Shipping_Subtitles_Logo.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">How this t-shirt gets delivered to you</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,US, t-shirt, sea shipping, emissions, climate change</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100147</guid>
+<pubDate>2023-04-18T09:33:56Z</pubDate>
+<title>Dark secrets of Lake Mead</title>
+<description>Lake Mead used to be America’s biggest reservoir. But it has shrunk massively in recent years, revealing some scary discoveries at the bottom of the lake.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, US, Lake Mead, America, water reservoir, climate change, Las Vegas, scary discoveries</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_LakeMead_CL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_LakeMead_CL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Dark secrets of Lake Mead</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,US, Lake Mead, America, water reservoir, climate change, Las Vegas, scary discoveries</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100146</guid>
@@ -134,36 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_WSME_VestasWIndWSME_Reflective Solar Yacht_ENGV1.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Invisible super yacht</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Super yacht, 3D printing, sustainability, renewable energy, emission free </media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100138</guid>
-<pubDate>2023-04-13T10:14:17Z</pubDate>
-<title>ESA's JUICE mission: Could there be life on Jupiter's moons?</title>
-<description>JUICE will spend four years exploring Jupiter and its moons, to see if it could sustain life.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, ESA, JUICE, life, Jupiter, moons, exploration</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QJupiter_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QJupiter_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">ESA's JUICE mission: Could there be life on Jupiter's moons?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,ESA, JUICE, life, Jupiter, moons, exploration</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100137</guid>
-<pubDate>2023-04-12T10:24:39Z</pubDate>
-<title>UK bill: “in effect, a ban on asylum”</title>
-<description>The UK introduces legislation to make it even harder to seek asylum there.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Asylum, refugees, migration, human rights, Calais, France, United Kingdom</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Calais_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Calais_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">UK bill: “in effect, a ban on asylum”</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Asylum, refugees, migration, human rights, Calais, France, United Kingdom</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
