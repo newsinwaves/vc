@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/25/2023 7:22:11 AM</pubDate>
+<pubDate>4/25/2023 2:03:38 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100160</guid>
+<pubDate>2023-04-25T14:03:40Z</pubDate>
+<title>Think before using public USB chargers</title>
+<description>Plugging your devices into free USB chargers at airports and malls could put your data at risk. FBI warns that bad actors could even install malwares and monitoring softwares.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Internet, USB, charger, privacy, data protection, data theft, FBI</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Juice Jacking USB_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Juice Jacking USB_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Think before using public USB chargers</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Internet, USB, charger, privacy, data protection, data theft, FBI</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100159</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QEvacuate_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Flee or stay put? Ukrainian civilians weigh up the risks</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine war, evacuation, civilians, Avdiivka, Chasiv Yar, front line</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100150</guid>
-<pubDate>2023-04-18T12:32:11Z</pubDate>
-<title>Does Angela Merkel deserve this award?</title>
-<description>Former Chancellor Angela Merkel received Germany's highest Order of Merit today. But not everyone thinks she should have gotten it.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Angela Merkel, Germany, Order of Merit, former chancellor</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_MerkelOrderofMerit_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_MerkelOrderofMerit_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Does Angela Merkel deserve this award?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Angela Merkel, Germany, Order of Merit, former chancellor</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
