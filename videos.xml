@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/19/2023 1:21:38 PM</pubDate>
+<pubDate>4/25/2023 7:22:11 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,66 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100159</guid>
+<pubDate>2023-04-25T07:22:11Z</pubDate>
+<title>Indias fact checking unit: Censorship for social media?</title>
+<description>India announced a state run “fact checking unit”. Social Media posts flagged as “fake, false or misleading” need to be taken down. Human rights groups criticized the move as attempted censorship of opposition.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, India, fact checking, social media, censorship, human rights, freedom of speech, internet</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_India_fact_checking_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_India_fact_checking_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Indias fact checking unit: Censorship for social media?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,India, fact checking, social media, censorship, human rights, freedom of speech, internet</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100158</guid>
+<pubDate>2023-04-25T07:22:12Z</pubDate>
+<title>"Ginny" the helicopter explores Mars</title>
+<description>“Ingenuity” is a small helicopter operating on Mars. It has made more than 50 flights already</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, NASA, helicopter, Mars, aerospace, universe, planet, science, space</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QMarsheli_ENG_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QMarsheli_ENG_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">"Ginny" the helicopter explores Mars</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,NASA, helicopter, Mars, aerospace, universe, planet, science, space</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100157</guid>
+<pubDate>2023-04-25T07:22:12Z</pubDate>
+<title>Transgender women at risk of violence in Pakistan</title>
+<description>Taniya is a trans woman living in Islamabad. She struggles to earn a living following a violent assault at work.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Pakistan, Islamabad, trans rights, transgender, equality, diversity, human rights</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_PakistaniTransWomen_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_PakistaniTransWomen_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Transgender women at risk of violence in Pakistan</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Pakistan, Islamabad, trans rights, transgender, equality, diversity, human rights</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100156</guid>
+<pubDate>2023-04-25T07:22:13Z</pubDate>
+<title>WHO pushes for zero malaria cases</title>
+<description>The World Health Organization says this year it’s time for zero malaria. Ghana is leading the fight against the disease.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, malaria, Ghana, World Health Organization, WHO, vaccination, sub-Saharan Africa, Africa, health, public health</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_vaccine_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_vaccine_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">WHO pushes for zero malaria cases</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,malaria, Ghana, World Health Organization, WHO, vaccination, sub-Saharan Africa, Africa, health, public health</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100155</guid>
@@ -104,66 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_MerkelOrderofMerit_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Does Angela Merkel deserve this award?</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Angela Merkel, Germany, Order of Merit, former chancellor</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100149</guid>
-<pubDate>2023-04-18T12:32:11Z</pubDate>
-<title>Ukraine: Teenage soldier adjusts to life after losing a leg on the frontline </title>
-<description>Ruslana Danilkina was only 18 when she volunteered for the Ukrainian army. She was wounded on the battlefield and lost her leg. She tells us she had to learn to accept her new self.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Ukraine, Russia, war, female soldier, girl, 18 years old, amputated leg</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SOME_230413_Ruslana_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SOME_230413_Ruslana_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Ukraine: Teenage soldier adjusts to life after losing a leg on the frontline </media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine, Russia, war, female soldier, girl, 18 years old, amputated leg</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100148</guid>
-<pubDate>2023-04-18T09:33:55Z</pubDate>
-<title>How this t-shirt gets delivered to you</title>
-<description>Sea shipping is soooo CHEAP that we completely overuse it.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, US, t-shirt, sea shipping, emissions, climate change</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Sea_Shipping_Subtitles_Logo.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_Sea_Shipping_Subtitles_Logo.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">How this t-shirt gets delivered to you</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,US, t-shirt, sea shipping, emissions, climate change</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100147</guid>
-<pubDate>2023-04-18T09:33:56Z</pubDate>
-<title>Dark secrets of Lake Mead</title>
-<description>Lake Mead used to be America’s biggest reservoir. But it has shrunk massively in recent years, revealing some scary discoveries at the bottom of the lake.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, US, Lake Mead, America, water reservoir, climate change, Las Vegas, scary discoveries</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_LakeMead_CL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_TikTok_LakeMead_CL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Dark secrets of Lake Mead</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,US, Lake Mead, America, water reservoir, climate change, Las Vegas, scary discoveries</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100146</guid>
-<pubDate>2023-04-17T15:11:44Z</pubDate>
-<title>Ukrainian refugees in US experience abuse from sponsors</title>
-<description>DW met with a Ukrainian refugee living in California who says her young daughter was assaulted by their sponsor.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Urkaine, United States, Russia, war, refugees, abuse</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Ksenia_VERTICAL_NEW.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Ksenia_VERTICAL_NEW.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Ukrainian refugees in US experience abuse from sponsors</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Urkaine, United States, Russia, war, refugees, abuse</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
