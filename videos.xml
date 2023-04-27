@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/26/2023 10:02:59 AM</pubDate>
+<pubDate>4/27/2023 11:57:46 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100166</guid>
+<pubDate>2023-04-27T11:57:46Z</pubDate>
+<title>India's eldery travel to Varanasi to die</title>
+<description>Some Hindus spend their last days in the holy Indian city of Varanasi hoping to break the cycle of death and rebirth.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, India, Hinduism, death, Varanasi, holy city, rebirth</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Varanasi_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Varanasi_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">India's eldery travel to Varanasi to die</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,India, Hinduism, death, Varanasi, holy city, rebirth</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100165</guid>
+<pubDate>2023-04-27T11:57:47Z</pubDate>
+<title>Auto Shanghai goes electric </title>
+<description>The majority of cars sold in Shanghai are now electric and that's reflected at the city's automobile trade fair. The EV sector in China is by far the largest in the world and is transforming the entire industry.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Shanghai Auto Show, Automotive, cars, electric, EV, vehicles</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Shangai_auto_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Shangai_auto_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Auto Shanghai goes electric </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Shanghai Auto Show, Automotive, cars, electric, EV, vehicles</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100164</guid>
+<pubDate>2023-04-27T11:57:47Z</pubDate>
+<title>Republicans Release AI-Generated Ad Against Biden </title>
+<description>The Republicans released a video showing fake apocalyptic scenes of a second Biden-Harris term generated entirely by AI. How will AI impact elections in the future? </description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, United States, President Biden, VP Kamala Harris deepfake, AI, campaign, Republicans, Democrats</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Deepfake_Biden_Ad_ENG_1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Deepfake_Biden_Ad_ENG_1.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Republicans Release AI-Generated Ad Against Biden </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,United States, President Biden, VP Kamala Harris deepfake, AI, campaign, Republicans, Democrats</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100163</guid>
@@ -119,51 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_PakistaniTransWomen_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Transgender women at risk of violence in Pakistan</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Pakistan, Islamabad, trans rights, transgender, equality, diversity, human rights</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100156</guid>
-<pubDate>2023-04-25T07:22:13Z</pubDate>
-<title>WHO pushes for zero malaria cases</title>
-<description>The World Health Organization says this year it’s time for zero malaria. Ghana is leading the fight against the disease.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, malaria, Ghana, World Health Organization, WHO, vaccination, sub-Saharan Africa, Africa, health, public health</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_vaccine_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_vaccine_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">WHO pushes for zero malaria cases</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,malaria, Ghana, World Health Organization, WHO, vaccination, sub-Saharan Africa, Africa, health, public health</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100155</guid>
-<pubDate>2023-04-19T13:21:39Z</pubDate>
-<title>Syrian boy is Germany's youngest national chess player</title>
-<description>Germany's youngest national chess player is an 11-year-old Syrian boy who came to the country as a refugee.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Germany, Ukrainian, refugee, youngest national chess player</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_ChessBoy_DI_N.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_ChessBoy_DI_N.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Syrian boy is Germany's youngest national chess player</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, Ukrainian, refugee, youngest national chess player</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100154</guid>
-<pubDate>2023-04-19T13:21:40Z</pubDate>
-<title>Former Ukrainian mufti now works for the war effort</title>
-<description>DW’s Aya Ibrahim traveled to a mosque near Ukraine's eastern front line. There, she met a former Muslim spiritual leader who now works with soldiers fighting for Ukraine.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Ukraine, mufti, helping soldiers, Bakhmut</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QRamadan_ VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QRamadan_ VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Former Ukrainian mufti now works for the war effort</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Ukraine, mufti, helping soldiers, Bakhmut</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
