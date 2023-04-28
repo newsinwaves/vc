@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/27/2023 11:57:46 AM</pubDate>
+<pubDate>4/28/2023 8:14:20 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100167</guid>
+<pubDate>2023-04-28T08:14:20Z</pubDate>
+<title>The world's longest immersed tunnel!</title>
+<description>Here comes the world's longest immersed tunnel, the Fehmarnbelt Tunnel.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, tunnel, immersed, architecture, Denmark, Germany</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVE_DWPE_InmersedTunnel_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVE_DWPE_InmersedTunnel_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">The world's longest immersed tunnel!</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,tunnel, immersed, architecture, Denmark, Germany</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100166</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QMarsheli_ENG_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">"Ginny" the helicopter explores Mars</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,NASA, helicopter, Mars, aerospace, universe, planet, science, space</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100157</guid>
-<pubDate>2023-04-25T07:22:12Z</pubDate>
-<title>Transgender women at risk of violence in Pakistan</title>
-<description>Taniya is a trans woman living in Islamabad. She struggles to earn a living following a violent assault at work.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Pakistan, Islamabad, trans rights, transgender, equality, diversity, human rights</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_PakistaniTransWomen_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_PakistaniTransWomen_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Transgender women at risk of violence in Pakistan</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Pakistan, Islamabad, trans rights, transgender, equality, diversity, human rights</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
