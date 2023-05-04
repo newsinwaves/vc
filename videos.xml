@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>4/28/2023 8:14:20 AM</pubDate>
+<pubDate>5/4/2023 10:21:54 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,81 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100172</guid>
+<pubDate>2023-05-04T10:21:56Z</pubDate>
+<title>Germany's unequal education system</title>
+<description>A report by the Institute for Economic Research looked at what factors influence students' academic success in Germany.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Germany, Europe, school, education, university, socioeconomic status, academic success, students, skills, inequality</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_EducationalSystem_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_EducationalSystem_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Germany's unequal education system</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, Europe, school, education, university, socioeconomic status, academic success, students, skills, inequality</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100171</guid>
+<pubDate>2023-05-04T10:21:57Z</pubDate>
+<title>Indian journalist gives women a voice on climate change</title>
+<description>Varsha Raikwar fights climate change by creating radio content to inspire the rural population to get involved in India. Her special focus: getting women to participate.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, journalism, press, India, climate change, rural population, women's participation, environment, activism, community engagement</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_UNZGENG230328_HER_VARSHA_DIRTY.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_UNZGENG230328_HER_VARSHA_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Indian journalist gives women a voice on climate change</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,journalism, press, India, climate change, rural population, women's participation, environment, activism, community engagement</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100170</guid>
+<pubDate>2023-05-04T10:21:57Z</pubDate>
+<title>Soccer playing robot: Is it over for Ronaldo?</title>
+<description>This humanoid robot can run, maintain balance and kick a ball like a pro. And it could also pave the way for even more advanced robotic innovations. Will robots outplay humans in the near future?</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Ronaldo, football, soccer, robotics, humanoid, technoloy, AI, artificial intelligence</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Robotnaldo_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Robotnaldo_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Soccer playing robot: Is it over for Ronaldo?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Ronaldo, football, soccer, robotics, humanoid, technoloy, AI, artificial intelligence</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100169</guid>
+<pubDate>2023-05-04T10:21:58Z</pubDate>
+<title>Telegram refuses to provide user data of violent neo-Nazis in Brazil</title>
+<description>Telegram refused to provide user data of violent neo-Nazis to Brazilian authorities citing privacy concerns. This raises the question of whether user data should be disclosed if they are suspected of breaking the law.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content,  Telegram, privacy, user data, neo-Nazis, Brazilian authorities, law enforcement, data protection, civil liberties, digital rights, government surveillance, violence</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Telegram_ban_Brasil_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Telegram_ban_Brasil_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Telegram refuses to provide user data of violent neo-Nazis in Brazil</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content, Telegram, privacy, user data, neo-Nazis, Brazilian authorities, law enforcement, data protection, civil liberties, digital rights, government surveillance, violence</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100168</guid>
+<pubDate>2023-05-04T10:21:59Z</pubDate>
+<title>The Wagner Group: Russia's Shadow Mercenary Organization</title>
+<description>Uncovering the shadowy world of the Wagner Group: a mercenary organization with links to Vladimir Putin, accused of war crimes and geopolitical meddling.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Russia, Wagner group, military, private army, Putin, war crimes, Ukraine, Africa, covert operations</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Wagner_Vertical_New_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Wagner_Vertical_New_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">The Wagner Group: Russia's Shadow Mercenary Organization</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Russia, Wagner group, military, private army, Putin, war crimes, Ukraine, Africa, covert operations</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100167</guid>
@@ -74,96 +149,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Deepfake_Biden_Ad_ENG_1.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Republicans Release AI-Generated Ad Against Biden </media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,United States, President Biden, VP Kamala Harris deepfake, AI, campaign, Republicans, Democrats</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100163</guid>
-<pubDate>2023-04-26T10:02:59Z</pubDate>
-<title>Recycling trash to reduce air pollution</title>
-<description>A Kyrgyz environmental activist has found a way to combat toxic fumes choking her city by turning trash into clothes.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, environment, air pollution, toxic, fashion, activism, sustainability, zero waste, toxic fumes</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QWiWaste_ENG_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QWiWaste_ENG_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Recycling trash to reduce air pollution</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,environment, air pollution, toxic, fashion, activism, sustainability, zero waste, toxic fumes</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100162</guid>
-<pubDate>2023-04-26T10:03:00Z</pubDate>
-<title>Ultramarathon across the Sahara Desert</title>
-<description>In Morocco, more than a thousand runners are participating in a 6-day marathon through the Sahara Desert.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Morocco, running, sports, marathon, desert, ultra, limits, endurance, Africa</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_250423_Marathon_des_Sables_SHORT.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_250423_Marathon_des_Sables_SHORT.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Ultramarathon across the Sahara Desert</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Morocco, running, sports, marathon, desert, ultra, limits, endurance, Africa</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100161</guid>
-<pubDate>2023-04-26T10:03:01Z</pubDate>
-<title>ChatGPT horror: Why Musk, Pichai, Altman are so scared</title>
-<description>Generative AI systems like ChatGPT are currently the focus of a heated discussion regarding the safety of AI technology. Notable global tech CEOs are advocating for stringent regulations and are even calling for a complete cessation of development. Where does this fear for AI come from?</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, AI, artificial intelligence, Google, OpenAI, Musk, ChatGTP, generative AI, technology</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_ChatGPT_Horror_TTN_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_ChatGPT_Horror_TTN_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">ChatGPT horror: Why Musk, Pichai, Altman are so scared</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,AI, artificial intelligence, Google, OpenAI, Musk, ChatGTP, generative AI, technology</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100160</guid>
-<pubDate>2023-04-25T14:03:40Z</pubDate>
-<title>Think before using public USB chargers</title>
-<description>Plugging your devices into free USB chargers at airports and malls could put your data at risk. FBI warns that bad actors could even install malwares and monitoring softwares.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Internet, USB, charger, privacy, data protection, data theft, FBI</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Juice Jacking USB_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Juice Jacking USB_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Think before using public USB chargers</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Internet, USB, charger, privacy, data protection, data theft, FBI</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100159</guid>
-<pubDate>2023-04-25T07:22:11Z</pubDate>
-<title>Indias fact checking unit: Censorship for social media?</title>
-<description>India announced a state run “fact checking unit”. Social Media posts flagged as “fake, false or misleading” need to be taken down. Human rights groups criticized the move as attempted censorship of opposition.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, India, fact checking, social media, censorship, human rights, freedom of speech, internet</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_India_fact_checking_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_India_fact_checking_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Indias fact checking unit: Censorship for social media?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,India, fact checking, social media, censorship, human rights, freedom of speech, internet</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100158</guid>
-<pubDate>2023-04-25T07:22:12Z</pubDate>
-<title>"Ginny" the helicopter explores Mars</title>
-<description>“Ingenuity” is a small helicopter operating on Mars. It has made more than 50 flights already</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, NASA, helicopter, Mars, aerospace, universe, planet, science, space</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QMarsheli_ENG_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QMarsheli_ENG_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">"Ginny" the helicopter explores Mars</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,NASA, helicopter, Mars, aerospace, universe, planet, science, space</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
