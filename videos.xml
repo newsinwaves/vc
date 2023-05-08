@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>5/4/2023 10:21:54 AM</pubDate>
+<pubDate>5/8/2023 12:21:27 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,66 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100176</guid>
+<pubDate>2023-05-08T12:21:29Z</pubDate>
+<title>Are Russian bots manipulating Turkish social media?</title>
+<description>Thousands of Russian-speaking Twitter accounts that had been previously inactive have been reopened as Turkish accounts. This is weeks ahead of the May 14 elections in Turkey, raising fears about possible election manipulation through social media.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Russia, Turkey, election, foreign, interference, influence, pre-election, manipulation, social media</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_RussianbotsTurkey.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_RussianbotsTurkey.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Are Russian bots manipulating Turkish social media?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Russia, Turkey, election, foreign, interference, influence, pre-election, manipulation, social media</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100175</guid>
+<pubDate>2023-05-08T12:21:30Z</pubDate>
+<title>Hunting Kashmir's 'mushroom gold' Morchella</title>
+<description>Morchella mushrooms are among the most expensive in the world. Two mushroom hunters talk to DW about their day jobs.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Morchella mushrooms, culinary delicacy, high market value, valuable commodity, mushroom hunting, foraging, day jobs, nature enthusiasts, sustainable sourcing, environmental conservation, food</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_KashmirMushromm_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_KashmirMushromm_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Hunting Kashmir's 'mushroom gold' Morchella</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Morchella mushrooms, culinary delicacy, high market value, valuable commodity, mushroom hunting, foraging, day jobs, nature enthusiasts, sustainable sourcing, environmental conservation, food</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100174</guid>
+<pubDate>2023-05-08T12:21:32Z</pubDate>
+<title>The health hazard in Indonesian instant noodles</title>
+<description>In some packets of Indomie noodles, ethylene oxide was detected. Exposure to ethylene oxide can lead to cancer.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Indonesia, food safety concerns, contamination, chemical exposure, health risks, carcinogenic properties, hazardous chemicals, product recalls, consumer safety, toxic substances, quality control issues</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QNoodles_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QNoodles_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">The health hazard in Indonesian instant noodles</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Indonesia, food safety concerns, contamination, chemical exposure, health risks, carcinogenic properties, hazardous chemicals, product recalls, consumer safety, toxic substances, quality control issues</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100173</guid>
+<pubDate>2023-05-08T12:21:33Z</pubDate>
+<title>The dark side of tourism</title>
+<description>With Portugal being Europe’s top tourism destination, Lisbon has become too expensive for its own residents to live in.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Portugal, Lisbon, tourism airbnb, housing market, rent, cost of living, urban development, gentrification</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_lisbon_reel_dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_lisbon_reel_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">The dark side of tourism</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Portugal, Lisbon, tourism airbnb, housing market, rent, cost of living, urban development, gentrification</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100172</guid>
@@ -89,66 +149,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Wagner_Vertical_New_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">The Wagner Group: Russia's Shadow Mercenary Organization</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Russia, Wagner group, military, private army, Putin, war crimes, Ukraine, Africa, covert operations</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100167</guid>
-<pubDate>2023-04-28T08:14:20Z</pubDate>
-<title>The world's longest immersed tunnel!</title>
-<description>Here comes the world's longest immersed tunnel, the Fehmarnbelt Tunnel.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, tunnel, immersed, architecture, Denmark, Germany</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVE_DWPE_InmersedTunnel_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVE_DWPE_InmersedTunnel_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">The world's longest immersed tunnel!</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,tunnel, immersed, architecture, Denmark, Germany</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100166</guid>
-<pubDate>2023-04-27T11:57:46Z</pubDate>
-<title>India's eldery travel to Varanasi to die</title>
-<description>Some Hindus spend their last days in the holy Indian city of Varanasi hoping to break the cycle of death and rebirth.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, India, Hinduism, death, Varanasi, holy city, rebirth</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Varanasi_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Varanasi_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">India's eldery travel to Varanasi to die</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,India, Hinduism, death, Varanasi, holy city, rebirth</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100165</guid>
-<pubDate>2023-04-27T11:57:47Z</pubDate>
-<title>Auto Shanghai goes electric </title>
-<description>The majority of cars sold in Shanghai are now electric and that's reflected at the city's automobile trade fair. The EV sector in China is by far the largest in the world and is transforming the entire industry.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Shanghai Auto Show, Automotive, cars, electric, EV, vehicles</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Shangai_auto_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Shangai_auto_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Auto Shanghai goes electric </media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Shanghai Auto Show, Automotive, cars, electric, EV, vehicles</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100164</guid>
-<pubDate>2023-04-27T11:57:47Z</pubDate>
-<title>Republicans Release AI-Generated Ad Against Biden </title>
-<description>The Republicans released a video showing fake apocalyptic scenes of a second Biden-Harris term generated entirely by AI. How will AI impact elections in the future? </description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, United States, President Biden, VP Kamala Harris deepfake, AI, campaign, Republicans, Democrats</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Deepfake_Biden_Ad_ENG_1.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Deepfake_Biden_Ad_ENG_1.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Republicans Release AI-Generated Ad Against Biden </media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,United States, President Biden, VP Kamala Harris deepfake, AI, campaign, Republicans, Democrats</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
