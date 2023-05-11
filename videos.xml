@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>5/11/2023 8:52:09 AM</pubDate>
+<pubDate>5/11/2023 1:15:28 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,21 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100182</guid>
+<pubDate>2023-05-11T13:15:29Z</pubDate>
+<title>Born to ride: Deaf Kenyan cyclist pedaling to success</title>
+<description>Meet Monica Wambui, a deaf cyclist blazing a trail in Nairobi.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Africa, Kenia, cycling, inspiring, sports, bike, harassment </keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Borntoride_REEL_ENG.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Borntoride_REEL_ENG.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Born to ride: Deaf Kenyan cyclist pedaling to success</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Africa, Kenia, cycling, inspiring, sports, bike, harassment </media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100181</guid>
@@ -149,21 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_dwpe_lisbon_reel_dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">The dark side of tourism</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Portugal, Lisbon, tourism airbnb, housing market, rent, cost of living, urban development, gentrification</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100172</guid>
-<pubDate>2023-05-04T10:21:56Z</pubDate>
-<title>Germany's unequal education system</title>
-<description>A report by the Institute for Economic Research looked at what factors influence students' academic success in Germany.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Germany, Europe, school, education, university, socioeconomic status, academic success, students, skills, inequality</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_EducationalSystem_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_EducationalSystem_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Germany's unequal education system</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Germany, Europe, school, education, university, socioeconomic status, academic success, students, skills, inequality</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
