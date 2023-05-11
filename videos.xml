@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>5/8/2023 12:21:27 PM</pubDate>
+<pubDate>5/11/2023 8:52:09 AM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,81 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100181</guid>
+<pubDate>2023-05-11T08:52:10Z</pubDate>
+<title>Russians and Ukrainians in Berlin celebrate Victory Day</title>
+<description>Former Soviet nations commemorate the end of World War II on 9 May while most European countries remember the defeat of Nazi Germany a day earlier. A difference that seemed unimportant until now.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Russia, Ukraine, war, rememberance, history, WW2, WWII, world war, soviet army, Germany, Berlin</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_VictoryDayDirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_VictoryDayDirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Russians and Ukrainians in Berlin celebrate Victory Day</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Russia, Ukraine, war, rememberance, history, WW2, WWII, world war, soviet army, Germany, Berlin</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100180</guid>
+<pubDate>2023-05-11T08:52:10Z</pubDate>
+<title>Employer surveillance – the boss is watching you! </title>
+<description>More and more companies worldwide are using software to monitor employees performance. These programs can track your screen activity, chats, mails – and even access webcams. Could your boss be spying on you?</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, office, software, work, business, surveillance, remote office, mobile office, trust, employment rights</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Employer_surveillance_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Employer_surveillance_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Employer surveillance – the boss is watching you! </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,office, software, work, business, surveillance, remote office, mobile office, trust, employment rights</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100179</guid>
+<pubDate>2023-05-11T08:52:11Z</pubDate>
+<title>Censored War News – Hidden for Russians in Online Game!</title>
+<description>A Finnish newspaper put information censored by Russia into the online game "Counter-Strike."</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Russia, war, censorship, Ukraine, Counter-Strike, gaming, FPS, video game</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_UkraineCounterStrike_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_UkraineCounterStrike_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Censored War News – Hidden for Russians in Online Game!</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Russia, war, censorship, Ukraine, Counter-Strike, gaming, FPS, video game</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100178</guid>
+<pubDate>2023-05-11T08:52:12Z</pubDate>
+<title>Gay activist flees to Germany to escape Kremlin repression</title>
+<description>The Kremlin has increasingly targeted Russia’s queer community during the war in Ukraine. Those who can, like Piotr Voskresensky flee the country. DW met him just after he arrived in Germany.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Russia, freedom, activist, activism, LGBTQ+, human rights, oppression, suppression</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWStories_Russian_queer_people_danger_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWStories_Russian_queer_people_danger_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Gay activist flees to Germany to escape Kremlin repression</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Russia, freedom, activist, activism, LGBTQ+, human rights, oppression, suppression</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100177</guid>
+<pubDate>2023-05-11T08:52:13Z</pubDate>
+<title>What kind of Turkey do young people want?</title>
+<description>Voters under 25 could swing what is expected to be a tight race in Turkey’s upcoming general election.</description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Turkey, election, voters, young voters, Erdogan, social media, generation z, cost of living, inflation</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Generation_REEL_ENG_1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Generation_REEL_ENG_1.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">What kind of Turkey do young people want?</media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Turkey, election, voters, young voters, Erdogan, social media, generation z, cost of living, inflation</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100176</guid>
@@ -89,66 +164,6 @@
 <enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_EducationalSystem_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
 <media:title type="plain">Germany's unequal education system</media:title>
 <media:keywords type="plain">DWVC, vertical content, mobile content,Germany, Europe, school, education, university, socioeconomic status, academic success, students, skills, inequality</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100171</guid>
-<pubDate>2023-05-04T10:21:57Z</pubDate>
-<title>Indian journalist gives women a voice on climate change</title>
-<description>Varsha Raikwar fights climate change by creating radio content to inspire the rural population to get involved in India. Her special focus: getting women to participate.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, journalism, press, India, climate change, rural population, women's participation, environment, activism, community engagement</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_UNZGENG230328_HER_VARSHA_DIRTY.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_UNZGENG230328_HER_VARSHA_DIRTY.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Indian journalist gives women a voice on climate change</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,journalism, press, India, climate change, rural population, women's participation, environment, activism, community engagement</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100170</guid>
-<pubDate>2023-05-04T10:21:57Z</pubDate>
-<title>Soccer playing robot: Is it over for Ronaldo?</title>
-<description>This humanoid robot can run, maintain balance and kick a ball like a pro. And it could also pave the way for even more advanced robotic innovations. Will robots outplay humans in the near future?</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Ronaldo, football, soccer, robotics, humanoid, technoloy, AI, artificial intelligence</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Robotnaldo_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Robotnaldo_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Soccer playing robot: Is it over for Ronaldo?</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Ronaldo, football, soccer, robotics, humanoid, technoloy, AI, artificial intelligence</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100169</guid>
-<pubDate>2023-05-04T10:21:58Z</pubDate>
-<title>Telegram refuses to provide user data of violent neo-Nazis in Brazil</title>
-<description>Telegram refused to provide user data of violent neo-Nazis to Brazilian authorities citing privacy concerns. This raises the question of whether user data should be disclosed if they are suspected of breaking the law.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content,  Telegram, privacy, user data, neo-Nazis, Brazilian authorities, law enforcement, data protection, civil liberties, digital rights, government surveillance, violence</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Telegram_ban_Brasil_REEL.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_SHIE_Telegram_ban_Brasil_REEL.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">Telegram refuses to provide user data of violent neo-Nazis in Brazil</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content, Telegram, privacy, user data, neo-Nazis, Brazilian authorities, law enforcement, data protection, civil liberties, digital rights, government surveillance, violence</media:keywords>
-<media:credit>DW</media:credit>
-</item>
-
-<item>
-<guid isPermaLink="false">DWV23100168</guid>
-<pubDate>2023-05-04T10:21:59Z</pubDate>
-<title>The Wagner Group: Russia's Shadow Mercenary Organization</title>
-<description>Uncovering the shadowy world of the Wagner Group: a mercenary organization with links to Vladimir Putin, accused of war crimes and geopolitical meddling.</description>
-<category>Vertical</category>
-<keywords>DWVC, vertical content, mobile content, Russia, Wagner group, military, private army, Putin, war crimes, Ukraine, Africa, covert operations</keywords>
-
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Wagner_Vertical_New_Dirty.mp4" type="video/mp4" lang="en" medium="video"/>
-<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_Wagner_Vertical_New_Dirty.jpg" type="image/jpeg" lang="en" medium="image"/>
-<media:title type="plain">The Wagner Group: Russia's Shadow Mercenary Organization</media:title>
-<media:keywords type="plain">DWVC, vertical content, mobile content,Russia, Wagner group, military, private army, Putin, war crimes, Ukraine, Africa, covert operations</media:keywords>
 <media:credit>DW</media:credit>
 </item>
 
