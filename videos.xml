@@ -6,7 +6,7 @@
 <description>Vertical videos from DW</description>
 <copyright>Copyright by Deutsche Welle (DW)</copyright>
 <language>en</language>
-<pubDate>5/23/2023 9:33:49 AM</pubDate>
+<pubDate>5/24/2023 3:38:46 PM</pubDate>
 <image>
 <title>DW</title>
 <link>https://www.dw.com</link>
@@ -16,6 +16,51 @@
 <height>64</height>
 </image>
 <ttl>30</ttl>
+
+<item>
+<guid isPermaLink="false">DWV23100188</guid>
+<pubDate>2023-05-24T15:38:46Z</pubDate>
+<title>Saving turtles through ecotourism </title>
+<description>Locals and environmentalists in the Indian village of Vela have joined forces to save the endangered olive ridley turtles. </description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, India, ecotourism, turtles, environmental protection, olive ridley  turtles, endangered species</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QIndiaTurtle_dirty_REEL1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QIndiaTurtle_dirty_REEL1.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Saving turtles through ecotourism </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,India, ecotourism, turtles, environmental protection, olive ridley  turtles, endangered species</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100187</guid>
+<pubDate>2023-05-24T15:38:47Z</pubDate>
+<title>Tens of thousands of Moldovans rally in support of joining EU  </title>
+<description>Tens of thousands of Moldovans marched in support of the nation’s bid to join the EU. </description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, EU, Moldova, rally, Molodovans, European Union</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Moldova_VERTICAL.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_Moldova_VERTICAL.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Tens of thousands of Moldovans rally in support of joining EU  </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,EU, Moldova, rally, Molodovans, European Union</media:keywords>
+<media:credit>DW</media:credit>
+</item>
+
+<item>
+<guid isPermaLink="false">DWV23100186</guid>
+<pubDate>2023-05-24T15:38:47Z</pubDate>
+<title>Personalized mRNA vaccines for pancreatic cancer </title>
+<description>Personalized mRNA vaccines are helping scientists in the treatment of pancreatic cancer. </description>
+<category>Vertical</category>
+<keywords>DWVC, vertical content, mobile content, Medicine, science, pancreatic cancer, mRNA vaccines</keywords>
+
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QCancer_dirty_reel1.mp4" type="video/mp4" lang="en" medium="video"/>
+<enclosure url="https://b2brssftp.dw.com/VerticalContent/VCWVEN_DWPE_QCancer_dirty_reel1.jpg" type="image/jpeg" lang="en" medium="image"/>
+<media:title type="plain">Personalized mRNA vaccines for pancreatic cancer </media:title>
+<media:keywords type="plain">DWVC, vertical content, mobile content,Medicine, science, pancreatic cancer, mRNA vaccines</media:keywords>
+<media:credit>DW</media:credit>
+</item>
 
 <item>
 <guid isPermaLink="false">DWV23100185</guid>
